@@ -1,18 +1,23 @@
 {
- "lastRun": "2026-11-20T09:40:00.000Z",
- "sample": true,
+ "lastRun": "2026-11-21T08:38:05.741Z",
  "sources": {
   "cocodalin": {
    "ok": true,
-   "at": "2026-11-20"
+   "count": 560,
+   "at": "2026-11-21",
+   "lastOk": "2026-11-21"
   },
   "costpick": {
    "ok": true,
-   "at": "2026-11-20"
+   "count": 359,
+   "at": "2026-11-21",
+   "lastOk": "2026-11-21"
   },
   "holidays": {
    "ok": true,
-   "at": "2026-11-20"
+   "count": 20,
+   "at": "2026-11-21",
+   "lastOk": "2026-11-21"
   }
  }
 }
