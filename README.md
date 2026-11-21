@@ -44,7 +44,7 @@ GitHub Actions (매일 07:00 KST)
 
 ## 배포
 
-1. Vercel → Add New → Project → `costco-farm` Import (프로젝트 이름 `costco-farm`)
+1. Vercel → Add New → Project → GitHub `daehooooo-boop/Costco` Import (프로젝트 이름 `costco-farm`)
 2. 배포 확인 후 Settings → Domains에 `costco.reyfarm.app` 추가
 3. Analytics 탭 → Enable
 4. GitHub 저장소 Settings → Actions → General → Workflow permissions가 **Read and write**인지 확인
