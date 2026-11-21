@@ -1,0 +1,227 @@
+{
+ "updatedAt": "2026-11-20T09:40:00.000Z",
+ "basis": "코코달인 인기상품 순위",
+ "sample": true,
+ "items": [
+  {
+   "id": "item:658810",
+   "itemNo": "658810",
+   "name": "신라명과 프리미엄 탕종식빵 880G",
+   "category": "신선식품 · 빵",
+   "salePrice": 7790,
+   "originalPrice": 9790,
+   "discount": 2000,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/%EC%8B%A0%EB%9D%BC%EB%AA%85%EA%B3%BC%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%ED%83%95%EC%A2%85%EC%8B%9D%EB%B9%B5%20880G.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4985"
+    }
+   ],
+   "rank": 1,
+   "size": "md",
+   "discountRate": 20
+  },
+  {
+   "id": "item:685525",
+   "itemNo": "685525",
+   "name": "서울우유 무가당플레인요거트 1L X 2",
+   "category": "냉장 · 냉동",
+   "salePrice": 5590,
+   "originalPrice": 6990,
+   "discount": 1400,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/%EC%84%9C%EC%9A%B8%EC%9A%B0%EC%9C%A0%20%EB%AC%B4%EA%B0%80%EB%8B%B9%ED%94%8C%EB%A0%88%EC%9D%B8%EC%9A%94%EA%B1%B0%ED%8A%B8%201L%20X%202.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10133"
+    }
+   ],
+   "rank": 2,
+   "size": "md",
+   "discountRate": 20
+  },
+  {
+   "id": "item:665321",
+   "itemNo": "665321",
+   "name": "명랑 모짜렐라핫도그 85G x 10",
+   "category": "냉장 · 냉동",
+   "salePrice": 10990,
+   "originalPrice": 13990,
+   "discount": 3000,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/%EB%AA%85%EB%9E%91%20%EB%AA%A8%EC%A7%9C%EB%A0%90%EB%9D%BC%ED%95%AB%EB%8F%84%EA%B7%B8%2085G%20x%2010.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6664"
+    }
+   ],
+   "rank": 3,
+   "size": "md",
+   "discountRate": 21
+  },
+  {
+   "id": "item:608720",
+   "itemNo": "608720",
+   "name": "삼진어묵 정통어묵탕모듬 1188G",
+   "category": "냉장 · 냉동",
+   "salePrice": 9990,
+   "originalPrice": 12990,
+   "discount": 3000,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/%EC%82%BC%EC%A7%84%EC%96%B4%EB%AC%B5%20%EC%A0%95%ED%86%B5%EC%96%B4%EB%AC%B5%ED%83%95%EB%AA%A8%EB%93%AC%201188G.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2298"
+    }
+   ],
+   "rank": 4,
+   "size": "md",
+   "discountRate": 23
+  },
+  {
+   "id": "item:272958",
+   "itemNo": "272958",
+   "name": "RAGU 토마토 파스타 소스 1.27KG X 3",
+   "category": "가공식품",
+   "salePrice": 11990,
+   "originalPrice": 14990,
+   "discount": 3000,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/RAGU%20%ED%86%A0%EB%A7%88%ED%86%A0%20%ED%8C%8C%EC%8A%A4%ED%83%80%20%EC%86%8C%EC%8A%A4%201.27KG%20X%203.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4323"
+    }
+   ],
+   "rank": 5,
+   "size": "md",
+   "discountRate": 20
+  },
+  {
+   "id": "item:675042",
+   "itemNo": "675042",
+   "name": "탕종모카빵 3CT",
+   "category": "신선식품 · 빵",
+   "salePrice": 9590,
+   "originalPrice": 11990,
+   "discount": 2400,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/%ED%83%95%EC%A2%85%EB%AA%A8%EC%B9%B4%EB%B9%B5%203CT.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10128"
+    }
+   ],
+   "rank": 6,
+   "size": "md",
+   "discountRate": 20
+  },
+  {
+   "id": "item:674546",
+   "itemNo": "674546",
+   "name": "아이리스 포켓용핫팩 100G X 60개",
+   "category": "생활용품",
+   "salePrice": 13990,
+   "originalPrice": 17990,
+   "discount": 4000,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8A%A4%20%ED%8F%AC%EC%BC%93%EC%9A%A9%ED%95%AB%ED%8C%A9%20100G%20X%2060%EA%B0%9C.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8205"
+    }
+   ],
+   "rank": 7,
+   "size": "md",
+   "discountRate": 22
+  },
+  {
+   "id": "item:658865",
+   "itemNo": "658865",
+   "name": "궁 소문난 돼지불백 400G X 5",
+   "category": "냉장 · 냉동",
+   "salePrice": 15990,
+   "originalPrice": 19990,
+   "discount": 4000,
+   "startDate": "2026-11-09",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/%EA%B6%81%20%EC%86%8C%EB%AC%B8%EB%82%9C%20%EB%8F%BC%EC%A7%80%EB%B6%88%EB%B0%B1%20400G%20X%205.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5116"
+    }
+   ],
+   "rank": 8,
+   "size": "md",
+   "discountRate": 20
+  },
+  {
+   "id": "item:670717",
+   "itemNo": "670717",
+   "name": "BARILLA 링귀니 500G X 6",
+   "category": "가공식품",
+   "salePrice": 9990,
+   "originalPrice": 13990,
+   "discount": 4000,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/BARILLA%20%EB%A7%81%EA%B7%80%EB%8B%88%20500G%20X%206.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7626"
+    }
+   ],
+   "rank": 9,
+   "size": "md",
+   "discountRate": 29
+  },
+  {
+   "id": "item:695338",
+   "itemNo": "695338",
+   "name": "크라운 쿠크다스 867G / 289G X 3",
+   "category": "과자 · 간식",
+   "salePrice": 8790,
+   "originalPrice": 10990,
+   "discount": 2200,
+   "startDate": "2026-10-26",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/md/%ED%81%AC%EB%9D%BC%EC%9A%B4%20%EC%BF%A0%ED%81%AC%EB%8B%A4%EC%8A%A4%20867G%20_%20289G%20X%203.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12231"
+    }
+   ],
+   "rank": 10,
+   "size": "md",
+   "discountRate": 20
+  }
+ ]
+}

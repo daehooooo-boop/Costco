@@ -1,26 +1,62 @@
 @import "tailwindcss";
 
+/* 색은 이 토큰으로만 쓴다. 라이트 기본, 다크는 시스템 설정을 따른다. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --bg: #f4f6f9;
+  --card: #ffffff;
+  --ink: #14181f;
+  --muted: #5d6573;
+  --line: #e2e6ec;
+  --chip: #edf0f4;
+  --brand: #0b3d91;
+  --brand-ink: #ffffff;
+  --sale: #d61f3a;
+  --sale-soft: #fdecef;
+  --ok: #127a46;
+  --ok-soft: #e6f5ec;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --bg: #0e1015;
+    --card: #171a21;
+    --ink: #eceef2;
+    --muted: #9aa1ad;
+    --line: #292e37;
+    --chip: #21262f;
+    --brand: #6b97f0;
+    --brand-ink: #0e1015;
+    --sale: #ff6b7f;
+    --sale-soft: #3a1c22;
+    --ok: #5fd393;
+    --ok-soft: #15291e;
+    color-scheme: dark;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@theme inline {
+  --color-bg: var(--bg);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-chip: var(--chip);
+  --color-brand: var(--brand);
+  --color-brand-ink: var(--brand-ink);
+  --color-sale: var(--sale);
+  --color-sale-soft: var(--sale-soft);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --font-sans: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
 }
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  word-break: keep-all;
+  -webkit-text-size-adjust: 100%;
+}
+
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }

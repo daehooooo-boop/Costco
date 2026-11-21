@@ -1,0 +1,13 @@
+{
+  "_note": "직접 입력 데이터. 나중에 관리 화면이 이 파일(또는 같은 모양의 DB)을 고칩니다. 자동 수집 값보다 항상 우선합니다.",
+  "closures": {
+    "_example_uijeongbu": { "add": [], "remove": [], "memo": "지점 slug를 키로 써서 휴무일을 추가(add)하거나 취소(remove)합니다." }
+  },
+  "deals": {
+    "add": [],
+    "hide": [],
+    "patch": {}
+  },
+  "coupons": [],
+  "notices": []
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "지점 기본 정보. closureRule.weekday: 0=일 1=월 3=수. weeks: 매달 몇째 주 요일에 쉬는지. 영업시간·주소는 코스트픽 지점 페이지(2026-11-20) 기준.",
+  "stores": [
+    { "slug": "yangjae", "name": "양재점", "region": "서울", "address": "서울특별시 서초구 양재대로 159", "open": "08:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "sangbong", "name": "상봉점", "region": "서울", "address": "서울특별시 중랑구 망우로 336", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "yangpyeong", "name": "양평점", "region": "서울", "address": "서울특별시 영등포구 선유로 156", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "gocheok", "name": "고척점", "region": "서울", "address": "서울특별시 구로구 경인로43길 49", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "gwangmyeong", "name": "광명점", "region": "경기", "address": "경기도 광명시 일직로 40", "open": "08:00", "close": "21:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "ilsan", "name": "일산점", "region": "경기", "address": "경기도 고양시 일산동구 장백로 25", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 3, "weeks": [2, 4] } },
+    { "slug": "uijeongbu", "name": "의정부점", "region": "경기", "address": "경기도 의정부시 용민로489번길 9", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "gongse", "name": "공세점", "region": "경기", "address": "경기도 용인시 기흥구 탑실로 38", "open": "10:00", "close": "21:30", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "hanam", "name": "하남점", "region": "경기", "address": "경기도 하남시 미사강변중앙로 40", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "pyeongtaek", "name": "평택점", "region": "경기", "address": "경기도 평택시 경기대로 975", "open": "10:00", "close": "21:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "cheongna", "name": "청라점", "region": "인천", "address": "인천광역시 서구 첨단서로 188", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "songdo", "name": "송도점", "region": "인천", "address": "인천광역시 연수구 컨벤시아대로230번길 60", "open": "09:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "daejeon", "name": "대전점", "region": "충청", "address": "대전광역시 중구 오류로 41", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "sejong", "name": "세종점", "region": "충청", "address": "세종특별자치시 종합운동장1로 14", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "cheonan", "name": "천안점", "region": "충청", "address": "충청남도 천안시 서북구 3공단6로 77", "open": "10:00", "close": "21:30", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "daegu", "name": "대구점", "region": "경상", "address": "대구광역시 북구 검단로 97", "open": "09:00", "close": "21:30", "closureRule": { "weekday": 1, "weeks": [2, 4] } },
+    { "slug": "daegu-innovation", "name": "대구혁신도시점", "region": "경상", "address": "대구광역시 동구 첨단로 10", "open": "09:30", "close": "22:00", "closureRule": { "weekday": 1, "weeks": [2, 4] } },
+    { "slug": "busan", "name": "부산점", "region": "경상", "address": "부산광역시 수영구 구락로 137", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "ulsan", "name": "울산점", "region": "경상", "address": "울산광역시 북구 진장유통로 78-12", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } },
+    { "slug": "gimhae", "name": "김해점", "region": "경상", "address": "경상남도 김해시 주촌면 선천남로 16", "open": "10:00", "close": "22:00", "closureRule": { "weekday": 0, "weeks": [2, 4] } }
+  ]
+}
