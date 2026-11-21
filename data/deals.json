@@ -1,0 +1,310 @@
+{
+ "updatedAt": "2026-11-20T09:40:00.000Z",
+ "today": "2026-11-20",
+ "count": 15,
+ "sample": true,
+ "items": [
+  {
+   "id": "item:693546",
+   "itemNo": "693546",
+   "name": "닭갈비 계육원산지 : 국내산 KG당단가",
+   "category": "신선식품 · 빵",
+   "salePrice": 15990,
+   "originalPrice": 19190,
+   "discount": 3200,
+   "startDate": "2026-11-19",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8B%AD%EA%B0%88%EB%B9%84%20%EA%B3%84%EC%9C%A1%EC%9B%90%EC%82%B0%EC%A7%80%20_%20%EA%B5%AD%EB%82%B4%EC%82%B0%20KG%EB%8B%B9%EB%8B%A8%EA%B0%80.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11689"
+    }
+   ],
+   "discountRate": 17
+  },
+  {
+   "id": "item:683002",
+   "itemNo": "683002",
+   "name": "미니버터크라상 MINI BUTTER CROISSANT 20CT/PACK",
+   "category": "신선식품 · 빵",
+   "salePrice": 6390,
+   "originalPrice": 7990,
+   "discount": 1600,
+   "startDate": "2026-11-18",
+   "endDate": "2026-11-21",
+   "image": "https://image.cocodalin.com/product/sm/%EB%AF%B8%EB%8B%88%EB%B2%84%ED%84%B0%ED%81%AC%EB%9D%BC%EC%83%81%20MINI%20BUTTER%20CROISSANT%2020CT_PACK.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10183"
+    }
+   ],
+   "discountRate": 20
+  },
+  {
+   "id": "item:694851",
+   "itemNo": "694851",
+   "name": "DOLE 알로코코컵 198G X 6",
+   "category": "냉장 · 냉동",
+   "salePrice": 7690,
+   "originalPrice": 10990,
+   "discount": 3300,
+   "startDate": "2026-11-19",
+   "endDate": "2026-11-25",
+   "image": "https://image.cocodalin.com/product/sm/DOLE%20%EC%95%8C%EB%A1%9C%EC%BD%94%EC%BD%94%EC%BB%B5%20198G%20X%206.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11852"
+    }
+   ],
+   "discountRate": 30
+  },
+  {
+   "id": "item:622294",
+   "itemNo": "622294",
+   "name": "HAAGEN-DAZS 미니컵 컬렉션 100ML X 10",
+   "category": "냉장 · 냉동",
+   "salePrice": 24490,
+   "originalPrice": 29990,
+   "discount": 5500,
+   "startDate": "2026-11-19",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/HAAGEN-DAZS%20%EB%AF%B8%EB%8B%88%EC%BB%B5%20%EC%BB%AC%EB%A0%89%EC%85%98%20100ML%20X%2010.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/704"
+    }
+   ],
+   "discountRate": 18
+  },
+  {
+   "id": "item:664421",
+   "itemNo": "664421",
+   "name": "떡볶이의 신 짜장 라볶이 482G X 3",
+   "category": "가공식품",
+   "salePrice": 9990,
+   "originalPrice": 12990,
+   "discount": 3000,
+   "startDate": "2026-11-16",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%96%A1%EB%B3%B6%EC%9D%B4%EC%9D%98%20%EC%8B%A0%20%EC%A7%9C%EC%9E%A5%20%EB%9D%BC%EB%B3%B6%EC%9D%B4%20482G.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6025"
+    }
+   ],
+   "discountRate": 23
+  },
+  {
+   "id": "item:1165114",
+   "itemNo": "1165114",
+   "name": "KIRKLAND SIGNATURE 압착 사과주스 3.78L X 2",
+   "category": "음료 · 주류",
+   "salePrice": 11490,
+   "originalPrice": 18990,
+   "discount": 7500,
+   "startDate": "2026-11-19",
+   "endDate": "2026-11-24",
+   "image": "https://image.cocodalin.com/product/sm/KIRKLAND%20SIGNATURE%20%EC%95%95%EC%B0%A9%20%EC%82%AC%EA%B3%BC%EC%A3%BC%EC%8A%A4%203.78L%20X%202.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12254"
+    }
+   ],
+   "discountRate": 39
+  },
+  {
+   "id": "item:694083",
+   "itemNo": "694083",
+   "name": "스타벅스 캡슐커피 아이스 아메리카노 혹은 디카페인 60P",
+   "category": "커피 · 차",
+   "salePrice": 29490,
+   "originalPrice": 37490,
+   "discount": 8000,
+   "startDate": "2026-11-16",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%EC%BA%A1%EC%8A%90%EC%BB%A4%ED%94%BC%20%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8%20%ED%98%B9%EC%9D%80%20%EB%94%94%EC%B9%B4%ED%8E%98%EC%9D%B8%2060P.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11676"
+    }
+   ],
+   "discountRate": 21
+  },
+  {
+   "id": "item:699667",
+   "itemNo": "699667",
+   "name": "HARIBO 와플 모양 젤리 1050G / 175G X 6",
+   "category": "과자 · 간식",
+   "salePrice": 15990,
+   "originalPrice": 19990,
+   "discount": 4000,
+   "startDate": "2026-11-19",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/HARIBO%20%EC%99%80%ED%94%8C%20%EB%AA%A8%EC%96%91%20%EC%A0%A4%EB%A6%AC%201050G%20_%20175G%20X%206.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12384"
+    }
+   ],
+   "discountRate": 20
+  },
+  {
+   "id": "item:696084",
+   "itemNo": "696084",
+   "name": "LG 엘지 디오스 광파오븐 39i",
+   "category": "디지털 · 가전",
+   "salePrice": 399900,
+   "originalPrice": 499900,
+   "discount": 100000,
+   "startDate": "2026-11-17",
+   "endDate": "2026-11-22",
+   "image": "https://image.cocodalin.com/product/sm/LG%20%EC%97%98%EC%A7%80%20%EB%94%94%EC%98%A4%EC%8A%A4%20%EA%B4%91%ED%8C%8C%EC%98%A4%EB%B8%90%2039i.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11879"
+    }
+   ],
+   "discountRate": 20
+  },
+  {
+   "id": "item:659722",
+   "itemNo": "659722",
+   "name": "다우니 실내 건조 섬유유연제 4L",
+   "category": "주방 · 욕실",
+   "salePrice": 17990,
+   "originalPrice": 22990,
+   "discount": 5000,
+   "startDate": "2026-11-18",
+   "endDate": "2026-11-22",
+   "image": null,
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/193"
+    }
+   ],
+   "discountRate": 22
+  },
+  {
+   "id": "item:671689",
+   "itemNo": "671689",
+   "name": "COLUMBIA 남성 패딩 바지 M,L,XL,XXL ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 39990,
+   "originalPrice": 49990,
+   "discount": 10000,
+   "startDate": "2026-11-19",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/COLUMBIA%20%EB%82%A8%EC%84%B1%20%ED%8C%A8%EB%94%A9%20%EB%B0%94%EC%A7%80%20M%2CL%2CXL%2CXXL%20ASIAN%20SIZE.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8545"
+    }
+   ],
+   "discountRate": 20
+  },
+  {
+   "id": "item:663506",
+   "itemNo": "663506",
+   "name": "스피드랙 다용도 5단 선반 100 X 40 X 180CM",
+   "category": "생활용품",
+   "salePrice": 71990,
+   "originalPrice": 89990,
+   "discount": 18000,
+   "startDate": "2026-11-16",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%8A%A4%ED%94%BC%EB%93%9C%EB%9E%99%20%EB%8B%A4%EC%9A%A9%EB%8F%84%205%EB%8B%A8%20%EC%84%A0%EB%B0%98%20100%20X%2040%20X%20180CM.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6626"
+    }
+   ],
+   "discountRate": 20
+  },
+  {
+   "id": "item:575126",
+   "itemNo": "575126",
+   "name": "종근당건강 6년근 홍삼골드 70ML X30",
+   "category": "건강 · 미용",
+   "salePrice": 13990,
+   "originalPrice": 16990,
+   "discount": 3000,
+   "startDate": "2026-11-19",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%A2%85%EA%B7%BC%EB%8B%B9%EA%B1%B4%EA%B0%95%206%EB%85%84%EA%B7%BC%20%ED%99%8D%EC%82%BC%EA%B3%A8%EB%93%9C%2070ML%20X30.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5995"
+    }
+   ],
+   "discountRate": 18
+  },
+  {
+   "id": "item:1851480",
+   "itemNo": "1851480",
+   "name": "크리스마스 장식 멜로디 눈오는마을 높이 47CM",
+   "category": "공구 · 문구",
+   "salePrice": 99990,
+   "originalPrice": 169990,
+   "discount": 70000,
+   "startDate": "2026-11-17",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20%EB%A9%9C%EB%A1%9C%EB%94%94%20%EB%88%88%EC%98%A4%EB%8A%94%EB%A7%88%EC%9D%84%20%EB%86%92%EC%9D%B4%2047CM.jpg",
+   "source": "cocodalin",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12385"
+    }
+   ],
+   "discountRate": 41
+  },
+  {
+   "id": "item:694969",
+   "itemNo": "694969",
+   "name": "SAMSUNG 푸드쇼케이스냉장고 889L",
+   "brand": "SAMSUNG",
+   "category": "디지털·가전",
+   "salePrice": 3099000,
+   "originalPrice": 3949000,
+   "startDate": null,
+   "endDate": "2026-11-22",
+   "image": "https://costpick.co.kr/images/thumbs/694969.jpg",
+   "source": "costpick",
+   "refs": [
+    {
+     "site": "costpick",
+     "url": "https://costpick.co.kr/store-deals/694969",
+     "store": "개봉역점"
+    }
+   ],
+   "discount": 850000,
+   "discountRate": 22
+  }
+ ]
+}
