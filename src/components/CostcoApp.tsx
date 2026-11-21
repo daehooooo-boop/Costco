@@ -21,9 +21,9 @@ export interface AppData {
 }
 
 const TABS = [
-  { id: "store", label: "지점·휴무" },
   { id: "deals", label: "이번 주 할인" },
   { id: "popular", label: "인기 TOP 10" },
+  { id: "store", label: "지점·휴무" },
 ] as const;
 type TabId = (typeof TABS)[number]["id"];
 
@@ -65,7 +65,7 @@ export function CostcoApp({ data }: { data: AppData }) {
   const clock = useMemo(() => ({ today, hhmm: hhmm || undefined }), [today, hhmm]);
 
   const hash = useSyncExternalStore(subscribeHash, () => location.hash.slice(1), () => "");
-  const tab: TabId = TABS.some((x) => x.id === hash) ? (hash as TabId) : "store";
+  const tab: TabId = TABS.some((x) => x.id === hash) ? (hash as TabId) : "deals";
   const saved = useSyncExternalStore(subscribeStore, readStore, () => null);
   const slug = saved && data.stores.some((s) => s.slug === saved) ? saved : "yangjae";
 
@@ -101,32 +101,11 @@ export function CostcoApp({ data }: { data: AppData }) {
   return (
     <div className="min-h-dvh">
       <header className="sticky top-0 z-10 border-b border-line bg-card">
-        <div className="mx-auto flex max-w-3xl items-center justify-between gap-3 px-4 pt-3 pb-2">
+        <div className="mx-auto flex max-w-3xl items-center gap-3 px-4 pt-3 pb-1">
           <h1 className="text-[19px] font-bold tracking-tight whitespace-nowrap">
             이번 주 <span className="text-sale">코스트코</span>
           </h1>
-          {tab === "store" && (
-            <label className="min-w-0">
-              <span className="sr-only">지점 선택</span>
-              <select
-                value={slug}
-                onChange={(e) => pickStore(e.target.value)}
-                className="h-10 max-w-[52vw] rounded-lg border border-line bg-card px-2.5 font-semibold text-ink"
-              >
-                {[...new Set(data.stores.map((s) => s.region))].map((r) => (
-                  <optgroup key={r} label={r}>
-                    {data.stores
-                      .filter((s) => s.region === r)
-                      .map((s) => (
-                        <option key={s.slug} value={s.slug}>
-                          {s.name}
-                        </option>
-                      ))}
-                  </optgroup>
-                ))}
-              </select>
-            </label>
-          )}
+
         </div>
         <nav className="mx-auto flex max-w-3xl px-4" role="tablist">
           {TABS.map((t) => (
@@ -151,7 +130,7 @@ export function CostcoApp({ data }: { data: AppData }) {
             {failed.map(([k]) => sourceName[k] ?? k).join(", ")} 최신 정보를 가져오지 못해 이전 정보를 보여주고 있어요.
           </p>
         )}
-        {tab === "store" && <StoreTab view={view} slug={slug} today={clock.today} />}
+        {tab === "store" && <StoreTab view={view} slug={slug} today={clock.today} onPick={pickStore} />}
         {tab === "deals" && <DealsTab deals={data.deals} overrides={data.overrides.deals} today={clock.today} />}
         {tab === "popular" && (
           <section>

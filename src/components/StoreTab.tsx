@@ -1,3 +1,6 @@
+"use client";
+
+import { useState } from "react";
 import { addDays, daysBetween, weekdayOf } from "@/lib/core";
 import type { Closure, ISODate, Store } from "@/lib/types";
 
@@ -11,8 +14,12 @@ interface Row {
   status: { open: boolean; label: string };
 }
 
-export function StoreTab({ view, slug, today }: { view: Row[]; slug: string; today: ISODate }) {
+export function StoreTab({ view, slug, today, onPick }: { view: Row[]; slug: string; today: ISODate; onPick: (slug: string) => void }) {
   const me = view.find((v) => v.store.slug === slug) ?? view[0];
+  const regions = [...new Set(view.map((v) => v.store.region))];
+  // 고른 지점이 속한 지역을 먼저 펼쳐 둔다. 지역을 직접 누르면 그 지역을 보여 준다.
+  const [regionPick, setRegionPick] = useState<string | null>(null);
+  const region = regionPick ?? me.store.region;
   const { store: s, closures, status } = me;
   const next = closures.slice(0, 4);
   const q = encodeURIComponent(`코스트코 ${s.name}`);
@@ -20,7 +27,49 @@ export function StoreTab({ view, slug, today }: { view: Row[]; slug: string; tod
 
   return (
     <div className="grid gap-3">
+      <section className="rounded-2xl border border-line bg-card p-4" aria-labelledby="pick-title">
+        <h2 id="pick-title" className="mb-2.5 font-bold">
+          내 지점 고르기
+        </h2>
+        <div className="no-scrollbar -mx-1 mb-2.5 flex gap-1.5 overflow-x-auto px-1 pb-0.5" role="group" aria-label="지역">
+          {regions.map((r) => (
+            <button
+              key={r}
+              type="button"
+              aria-pressed={region === r}
+              onClick={() => setRegionPick(r)}
+              className={`shrink-0 rounded-full border px-3 py-1.5 text-[13px] ${region === r ? "border-ink bg-ink text-bg" : "border-line bg-card text-ink"}`}
+            >
+              {r}
+            </button>
+          ))}
+        </div>
+        <div className="grid grid-cols-2 gap-2 sm:grid-cols-3" role="radiogroup" aria-label="지점">
+          {view
+            .filter((v) => v.store.region === region)
+            .map(({ store: x, status: st }) => {
+              const on = x.slug === me.store.slug;
+              return (
+                <button
+                  key={x.slug}
+                  type="button"
+                  role="radio"
+                  aria-checked={on}
+                  onClick={() => onPick(x.slug)}
+                  className={`flex flex-col items-start gap-0.5 rounded-xl border px-3 py-2.5 text-left transition-colors ${
+                    on ? "border-brand bg-brand text-brand-ink" : "border-line bg-bg text-ink"
+                  }`}
+                >
+                  <span className="font-semibold">{x.name}</span>
+                  <span className={`text-xs ${on ? "opacity-85" : st.open ? "text-ok" : "text-sale"}`}>{st.label}</span>
+                </button>
+              );
+            })}
+        </div>
+      </section>
+
       <section className="rounded-2xl border border-line bg-card p-4">
+        <h2 className="mb-2 font-bold">{s.name}</h2>
         <div className="flex flex-wrap items-center gap-3">
           <span className={`rounded-full px-2.5 py-1 text-sm font-bold ${status.open ? "bg-ok-soft text-ok" : "bg-sale-soft text-sale"}`}>
             {status.label}
