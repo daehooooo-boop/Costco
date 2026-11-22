@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T08:38:05.741Z",
+ "updatedAt": "2026-11-22T01:52:16.121Z",
  "basis": "코코달인 인기상품 순위",
  "items": [
   {
@@ -220,24 +220,24 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "695338",
-   "name": "크라운 쿠크다스 867G / 289G X 3",
-   "category": "과자 · 간식",
-   "salePrice": 8790,
-   "originalPrice": 10990,
-   "discount": 2200,
-   "discountRate": 20,
-   "startDate": "2026-10-26",
-   "endDate": "2026-11-22",
-   "image": "https://image.cocodalin.com/product/md/%ED%81%AC%EB%9D%BC%EC%9A%B4%20%EC%BF%A0%ED%81%AC%EB%8B%A4%EC%8A%A4%20867G%20_%20289G%20X%203.jpg",
+   "itemNo": "680239",
+   "name": "크라스탄 유기농보리차 200G",
+   "category": "커피 · 차",
+   "salePrice": 10990,
+   "originalPrice": 13990,
+   "discount": 3000,
+   "discountRate": 21,
+   "startDate": "2026-11-02",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/md/%ED%81%AC%EB%9D%BC%EC%8A%A4%ED%83%84%20%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B3%B4%EB%A6%AC%EC%B0%A8%20200G.jpg",
    "rank": 10,
-   "id": "item:695338",
+   "id": "item:680239",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/12231",
-     "salePrice": 8790,
-     "endDate": "2026-11-22",
+     "url": "https://cocodalin.com/product/9822",
+     "salePrice": 10990,
+     "endDate": "2026-11-29",
      "store": null
     }
    ]

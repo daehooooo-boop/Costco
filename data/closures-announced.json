@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T08:38:05.741Z",
+ "updatedAt": "2026-11-22T01:52:16.121Z",
  "source": "costpick.co.kr/holiday",
  "stores": {
   "yangjae": {
@@ -12,7 +12,7 @@
     "open": "08:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "sangbong": {
    "dates": [
@@ -24,7 +24,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "yangpyeong": {
    "dates": [
@@ -36,7 +36,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "gocheok": {
    "dates": [
@@ -48,7 +48,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "gwangmyeong": {
    "dates": [
@@ -60,7 +60,7 @@
     "open": "08:00",
     "close": "21:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "ilsan": {
    "dates": [
@@ -72,7 +72,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "uijeongbu": {
    "dates": [
@@ -83,7 +83,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "gongse": {
    "dates": [
@@ -95,7 +95,7 @@
     "open": "10:00",
     "close": "21:30"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "hanam": {
    "dates": [
@@ -107,7 +107,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "pyeongtaek": {
    "dates": [
@@ -119,7 +119,7 @@
     "open": "10:00",
     "close": "21:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "cheongna": {
    "dates": [
@@ -131,7 +131,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "songdo": {
    "dates": [
@@ -143,7 +143,7 @@
     "open": "09:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "daejeon": {
    "dates": [
@@ -155,7 +155,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "sejong": {
    "dates": [
@@ -167,7 +167,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "cheonan": {
    "dates": [
@@ -179,7 +179,7 @@
     "open": "10:00",
     "close": "21:30"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "daegu": {
    "dates": [
@@ -191,7 +191,7 @@
     "open": "09:00",
     "close": "21:30"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "daegu-innovation": {
    "dates": [
@@ -203,7 +203,7 @@
     "open": "09:30",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "busan": {
    "dates": [
@@ -215,7 +215,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "ulsan": {
    "dates": [
@@ -227,7 +227,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   },
   "gimhae": {
    "dates": [
@@ -239,7 +239,7 @@
     "open": "10:00",
     "close": "22:00"
    },
-   "checkedAt": "2026-11-21"
+   "checkedAt": "2026-11-22"
   }
  }
 }

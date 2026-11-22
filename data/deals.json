@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-21T08:38:05.741Z",
- "today": "2026-11-21",
- "count": 628,
+ "updatedAt": "2026-11-22T01:52:16.121Z",
+ "today": "2026-11-22",
+ "count": 625,
  "items": [
   {
    "source": "cocodalin",
@@ -22,52 +22,6 @@
      "url": "https://cocodalin.com/product/11689",
      "salePrice": 15990,
      "endDate": "2026-11-22",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "683002",
-   "name": "미니버터크라상 MINI BUTTER CROISSANT 20CT/PACK",
-   "category": "신선식품 · 빵",
-   "salePrice": 6390,
-   "originalPrice": 7990,
-   "discount": 1600,
-   "discountRate": 20,
-   "startDate": "2026-11-18",
-   "endDate": "2026-11-21",
-   "image": "https://image.cocodalin.com/product/sm/%EB%AF%B8%EB%8B%88%EB%B2%84%ED%84%B0%ED%81%AC%EB%9D%BC%EC%83%81%20MINI%20BUTTER%20CROISSANT%2020CT_PACK.jpg",
-   "id": "item:683002",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/10183",
-     "salePrice": 6390,
-     "endDate": "2026-11-21",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "530297",
-   "name": "백오이 1봉 (10개) 원산지 : 국내산",
-   "category": "신선식품 · 빵",
-   "salePrice": 6690,
-   "originalPrice": 7990,
-   "discount": 1300,
-   "discountRate": 16,
-   "startDate": "2026-11-18",
-   "endDate": "2026-11-21",
-   "image": "https://image.cocodalin.com/product/sm/%EB%B0%B1%EC%98%A4%EC%9D%B4%201%EB%B4%89%20(10%EA%B0%9C)%20%EC%9B%90%EC%82%B0%EC%A7%80%20_%20%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
-   "id": "item:530297",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/12381",
-     "salePrice": 6690,
-     "endDate": "2026-11-21",
      "store": null
     }
    ]
@@ -999,29 +953,6 @@
      "url": "https://cocodalin.com/product/12167",
      "salePrice": 13590,
      "endDate": "2026-12-02",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "2098758",
-   "name": "BELGIOIOSO마리네이드 프레쉬 모짜렐라 바질&갈릭340G",
-   "category": "냉장 · 냉동",
-   "salePrice": 6990,
-   "originalPrice": 8990,
-   "discount": 2000,
-   "discountRate": 22,
-   "startDate": "2026-11-19",
-   "endDate": "2026-11-21",
-   "image": "https://image.cocodalin.com/product/sm/BELGIOIOSO%EB%A7%88%EB%A6%AC%EB%84%A4%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A0%88%EC%89%AC%20%EB%AA%A8%EC%A7%9C%EB%A0%90%EB%9D%BC%20%EB%B0%94%EC%A7%88_%EA%B0%88%EB%A6%AD340G.jpg",
-   "id": "item:2098758",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/12322",
-     "salePrice": 6990,
-     "endDate": "2026-11-21",
      "store": null
     }
    ]
