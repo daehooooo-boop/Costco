@@ -7,6 +7,7 @@ import overrides from "../../data/manual/overrides.json";
 import deals from "../../data/deals.json";
 import popular from "../../data/popular.json";
 import meta from "../../data/meta.json";
+import tips from "../../data/tips.json";
 
 // 데이터는 빌드 때 묶인다. 수집기가 data/를 커밋하면 Vercel이 다시 배포한다.
 const data = {
@@ -19,6 +20,7 @@ const data = {
   popular: popular.items,
   popularBasis: popular.basis,
   meta,
+  tips,
 } as unknown as AppData;
 
 export default function Home() {

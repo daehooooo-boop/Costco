@@ -2,8 +2,9 @@ import { describe, test } from "vitest";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { parseCocodalinList, parseCostpickList, parseCostpickHoliday, parseKoreanEnd } from "./collect/parsers";
-import { nthWeekday, storeClosures, mergeDeals, fillDerived, applyDealOverrides, isActive } from "./core";
-import type { RawDeal, Store, Deal } from "./types";
+import { nthWeekday, storeClosures, mergeDeals, fillDerived, applyDealOverrides, applyTipOverrides, isActive } from "./core";
+import type { RawDeal, Store, Deal, Tip } from "./types";
+import tipsData from "../../data/tips.json";
 
 describe("코스트코 데이터", () => {
 const fx = (n: string) => readFileSync(new URL(`./collect/__fixtures__/${n}`, import.meta.url), 'utf8');
@@ -97,5 +98,23 @@ test('진행 중 판정', () => {
   assert.equal(isActive({ startDate: '2026-11-19', endDate: '2026-11-22' }, '2026-11-20'), true);
   assert.equal(isActive({ startDate: '2026-11-21', endDate: '2026-11-22' }, '2026-11-20'), false);
   assert.equal(isActive({ endDate: '2026-11-19' }, '2026-11-20'), false);
+});
+
+test('꿀팁 직접 입력: 숨김·교체·추가', () => {
+  const t = (id: string, title = id): Tip => ({ id, category: '장보기', title, body: '', source: 'community' });
+  const r = applyTipOverrides([t('a'), t('b'), t('c')], { hide: ['b'], add: [t('c', '고친 c'), t('d')] });
+  assert.deepEqual(r.map((x) => x.title), ['a', '고친 c', 'd']);
+  assert.deepEqual(applyTipOverrides([t('a')]).map((x) => x.id), ['a']);
+});
+
+test('꿀팁 데이터: id 중복 없음, 카테고리·출처 키가 모두 정의됨', () => {
+  const ids = tipsData.items.map((x) => x.id);
+  assert.equal(new Set(ids).size, ids.length);
+  for (const x of tipsData.items) {
+    assert.ok(tipsData.categories.includes(x.category), x.id);
+    assert.ok(['official', 'guide', 'community'].includes(x.source), x.id);
+    if ('ref' in x && x.ref) assert.ok(x.ref in tipsData.sources, x.id);
+    if (x.source !== 'community') assert.ok('ref' in x && x.ref, `${x.id}: 공식·정리 출처는 링크가 있어야 함`);
+  }
 });
 });
