@@ -1,11 +1,12 @@
 "use client";
 
 import { useMemo, useSyncExternalStore } from "react";
-import { addDays, nowHHMMKST, storeClosures, storeStatus, todayKST } from "@/lib/core";
-import type { Announced, Deal, Holiday, ISODate, Meta, Overrides, Store } from "@/lib/types";
+import { addDays, applyTipOverrides, nowHHMMKST, storeClosures, storeStatus, todayKST } from "@/lib/core";
+import type { Announced, Deal, Holiday, ISODate, Meta, Overrides, Store, Tip } from "@/lib/types";
 import { StoreTab } from "./StoreTab";
 import { DealsTab } from "./DealsTab";
 import { DealCard } from "./DealCard";
+import { TipsTab, type TipSourceRef } from "./TipsTab";
 import { SITE } from "@/lib/site";
 
 export interface AppData {
@@ -18,12 +19,14 @@ export interface AppData {
   popular: Deal[];
   popularBasis: string;
   meta: Meta;
+  tips: { items: Tip[]; categories: string[]; sources: Record<string, TipSourceRef>; checkedAt: ISODate };
 }
 
 const TABS = [
-  { id: "deals", label: "이번 주 할인" },
-  { id: "popular", label: "인기 TOP 10" },
-  { id: "store", label: "지점·휴무" },
+  { id: "deals", label: "이번 주 할인", short: "할인" },
+  { id: "popular", label: "인기 TOP 10", short: "인기 TOP10" },
+  { id: "store", label: "지점·휴무", short: "지점·휴무" },
+  { id: "tips", label: "이용 꿀팁", short: "꿀팁" },
 ] as const;
 type TabId = (typeof TABS)[number]["id"];
 
@@ -114,11 +117,13 @@ export function CostcoApp({ data }: { data: AppData }) {
               role="tab"
               aria-selected={tab === t.id}
               onClick={() => pickTab(t.id)}
-              className={`flex-1 border-b-[3px] px-1 pt-2.5 pb-3 font-semibold transition-colors ${
+              className={`flex-1 border-b-[3px] px-1 pt-2.5 whitespace-nowrap pb-3 font-semibold transition-colors ${
                 tab === t.id ? "border-brand text-ink" : "border-transparent text-muted"
               }`}
             >
-              {t.label}
+              {/* 탭 4개가 좁은 화면에서 두 줄로 꺾이지 않게 짧은 이름을 쓴다 */}
+              <span className="sm:hidden">{t.short}</span>
+              <span className="hidden sm:inline">{t.label}</span>
             </button>
           ))}
         </nav>
@@ -132,6 +137,14 @@ export function CostcoApp({ data }: { data: AppData }) {
         )}
         {tab === "store" && <StoreTab view={view} slug={slug} today={clock.today} onPick={pickStore} />}
         {tab === "deals" && <DealsTab deals={data.deals} overrides={data.overrides.deals} today={clock.today} />}
+        {tab === "tips" && (
+          <TipsTab
+            tips={applyTipOverrides(data.tips.items, data.overrides.tips)}
+            categories={data.tips.categories}
+            sources={data.tips.sources}
+            checkedAt={data.tips.checkedAt}
+          />
+        )}
         {tab === "popular" && (
           <section>
             <p className="mb-2.5 text-[13px] text-muted">

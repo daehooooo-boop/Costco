@@ -1,5 +1,5 @@
 // 화면과 수집기가 함께 쓰는 순수 함수. 날짜는 한국 시간 'YYYY-MM-DD' 문자열로 다룬다.
-import type { Announced, Closure, Deal, Holiday, ISODate, ManualClosure, Overrides, RawDeal, Store } from "./types";
+import type { Announced, Closure, Deal, Holiday, ISODate, ManualClosure, Overrides, RawDeal, Store, Tip } from "./types";
 
 const DAY = 86_400_000;
 
@@ -158,4 +158,13 @@ export function isActive(item: Pick<Deal, "startDate" | "endDate">, today: ISODa
 /** 카테고리 표기 통일: "신선식품 · 빵" → "신선식품·빵" */
 export function normalizeCategory(c?: string | null): string {
   return (c ?? "").replace(/\s*·\s*/g, "·").trim() || "기타";
+}
+
+/** 직접 입력한 꿀팁 숨김·추가를 반영한다. 같은 id를 추가하면 원래 팁을 대신한다. */
+export function applyTipOverrides(items: Tip[], overrides: Overrides["tips"] = {}): Tip[] {
+  const hide = new Set(overrides.hide ?? []);
+  const added = new Map((overrides.add ?? []).map((t) => [t.id, t]));
+  const out = items.filter((t) => !hide.has(t.id)).map((t) => added.get(t.id) ?? t);
+  for (const t of added.values()) if (!items.some((i) => i.id === t.id) && !hide.has(t.id)) out.push(t);
+  return out;
 }

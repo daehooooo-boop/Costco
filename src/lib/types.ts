@@ -91,6 +91,10 @@ export interface Overrides {
     hide?: string[];
     patch?: Record<string, Partial<Deal>>;
   };
+  tips?: {
+    add?: Tip[];
+    hide?: string[];
+  };
   coupons?: unknown[];
   notices?: { text: string; until?: ISODate }[];
 }
@@ -107,4 +111,17 @@ export interface Meta {
   lastRun?: string;
   sample?: boolean;
   sources: Record<string, SourceStatus>;
+}
+
+/** 꿀팁 출처의 믿을 정도: 코스트코 공식 안내 > 언론·카드사 정리 > 이용자 경험 */
+export type TipSource = "official" | "guide" | "community";
+
+export interface Tip {
+  id: string;
+  category: string;
+  title: string;
+  body: string;
+  source: TipSource;
+  /** tips.json의 sources 키, 또는 직접 쓴 URL */
+  ref?: string;
 }
