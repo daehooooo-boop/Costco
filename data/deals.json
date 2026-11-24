@@ -1,8 +1,491 @@
 {
- "updatedAt": "2026-11-23T02:10:39.888Z",
- "today": "2026-11-23",
- "count": 263,
+ "updatedAt": "2026-11-24T05:44:20.197Z",
+ "today": "2026-11-24",
+ "count": 533,
  "items": [
+  {
+   "source": "cocodalin",
+   "itemNo": "640115",
+   "name": "로메인 하트 (4-6입): 국내산",
+   "category": "신선식품 · 빵",
+   "salePrice": 8990,
+   "originalPrice": 11490,
+   "discount": 2500,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A1%9C%EB%A9%94%EC%9D%B8_%ED%95%98%ED%8A%B8__4-6%EC%9E%85___%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
+   "id": "item:640115",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/241",
+     "salePrice": 8990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "579034",
+   "name": "메로골드 자몽 (3.5KG 이상) 원산지 : 미국",
+   "category": "신선식품 · 빵",
+   "salePrice": 14790,
+   "originalPrice": 17790,
+   "discount": 3000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A9%94%EB%A1%9C%EA%B3%A8%EB%93%9C%20%EC%9E%90%EB%AA%BD%20(3.5KG%20%EC%9D%B4%EC%83%81)%20%EC%9B%90%EC%82%B0%EC%A7%80%20%EB%AF%B8%EA%B5%AD.jpg",
+   "id": "item:579034",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4854",
+     "salePrice": 14790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695681",
+   "name": "모둠샌드위치 KG당단가",
+   "category": "신선식품 · 빵",
+   "salePrice": 15990,
+   "originalPrice": 19990,
+   "discount": 4000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-26",
+   "image": "https://image.cocodalin.com/product/sm/%EB%AA%A8%EB%91%A0%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%20KG%EB%8B%B9%EB%8B%A8%EA%B0%80.jpg",
+   "id": "item:695681",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12413",
+     "salePrice": 15990,
+     "endDate": "2026-11-26",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "677431",
+   "name": "미국산 초이스 토시살 로스 KG당 단가",
+   "category": "신선식품 · 빵",
+   "salePrice": 42990,
+   "originalPrice": 51990,
+   "discount": 9000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%AF%B8%EA%B5%AD%EC%82%B0%20%EC%B4%88%EC%9D%B4%EC%8A%A4%20%ED%86%A0%EC%8B%9C%EC%82%B4%20%EB%A1%9C%EC%8A%A4%20KG%EB%8B%B9%20%EB%8B%A8%EA%B0%80.jpg",
+   "id": "item:677431",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8896",
+     "salePrice": 42990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "519416",
+   "name": "부위명 : 삼겹살 원산지 : 국산냉장돈육 KG당단가",
+   "category": "신선식품 · 빵",
+   "salePrice": 22490,
+   "originalPrice": 29490,
+   "discount": 7000,
+   "discountRate": 24,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B6%80%EC%9C%84%EB%AA%85_%EC%82%BC%EA%B2%B9%EC%82%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%EB%83%89%EC%9E%A5%EB%8F%88%EC%9C%A1%20KG%EB%8B%B9%EB%8B%A8%EA%B0%80.jpg",
+   "id": "item:519416",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/3840",
+     "salePrice": 22490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "518358",
+   "name": "부위명 : 삼겹살 원산지 : 국산냉장돈육 KG당단가",
+   "category": "신선식품 · 빵",
+   "salePrice": 18790,
+   "originalPrice": null,
+   "discount": null,
+   "discountRate": null,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B6%80%EC%9C%84%EB%AA%85_%EC%82%BC%EA%B2%B9%EC%82%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EB%AF%B8%EA%B5%AD%EC%82%B0%EB%83%89%EC%9E%A5%EB%8F%88%EC%9C%A1%20KG%EB%8B%B9%EB%8B%A8%EA%B0%80.jpg",
+   "id": "item:518358",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4276",
+     "salePrice": 18790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "648037",
+   "name": "부위명 : 삼겹살 원산지 : 국산냉장돈육 KG당단가(통삼겹)",
+   "category": "신선식품 · 빵",
+   "salePrice": 22490,
+   "originalPrice": 29490,
+   "discount": 7000,
+   "discountRate": 24,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B6%80%EC%9C%84%EB%AA%85_%EC%82%BC%EA%B2%B9%EC%82%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%EB%83%89%EC%9E%A5%EB%8F%88%EC%9C%A1%20KG%EB%8B%B9%EB%8B%A8%EA%B0%80(%ED%86%B5%EC%82%BC%EA%B2%B9)%20648037.jpg",
+   "id": "item:648037",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4448",
+     "salePrice": 22490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "681957",
+   "name": "블랙올리브 브레드 BLACK OLIVE BREAD 8CT/ PACK",
+   "category": "신선식품 · 빵",
+   "salePrice": 7990,
+   "originalPrice": 9990,
+   "discount": 2000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B8%94%EB%9E%99%EC%98%AC%EB%A6%AC%EB%B8%8C%20%EB%B8%8C%EB%A0%88%EB%93%9C%20BLACK%20OLIVE%20BREAD%208CT_%20PACK.jpg",
+   "id": "item:681957",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10659",
+     "salePrice": 7990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "577263",
+   "name": "삼립 우리밀 통단팥호빵 90G X 12",
+   "category": "신선식품 · 빵",
+   "salePrice": 8790,
+   "originalPrice": 9790,
+   "discount": 1000,
+   "discountRate": 10,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%82%BC%EB%A6%BD%20%EC%9A%B0%EB%A6%AC%EB%B0%80%20%ED%86%B5%EB%8B%A8%ED%8C%A5%ED%98%B8%EB%B9%B5%2090G%20X%2012.jpg",
+   "id": "item:577263",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2566",
+     "salePrice": 8790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "673762",
+   "name": "삼립 토종효모 로만밀식빵 430G X 4",
+   "category": "신선식품 · 빵",
+   "salePrice": 8990,
+   "originalPrice": 10490,
+   "discount": 1500,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%82%BC%EB%A6%BD%20%ED%86%A0%EC%A2%85%ED%9A%A8%EB%AA%A8%20%EB%A1%9C%EB%A7%8C%EB%B0%80%EC%8B%9D%EB%B9%B5%20430G%20X%204.jpg",
+   "id": "item:673762",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8189",
+     "salePrice": 8990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "598362",
+   "name": "손질고등어 원산지:국산 1KG",
+   "category": "신선식품 · 빵",
+   "salePrice": 11190,
+   "originalPrice": 13990,
+   "discount": 2800,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%86%90%EC%A7%88%EA%B3%A0%EB%93%B1%EC%96%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%201KG.jpg",
+   "id": "item:598362",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8422",
+     "salePrice": 11190,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "653874",
+   "name": "수플레치즈케익 SOUFFLE CHEESE CAKE",
+   "category": "신선식품 · 빵",
+   "salePrice": 15490,
+   "originalPrice": 18990,
+   "discount": 3500,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%88%98%ED%94%8C%EB%A0%88%EC%B9%98%EC%A6%88%EC%BC%80%EC%9E%84%20SOUFFLE%20CHEESE%20CAKE.jpg",
+   "id": "item:653874",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/905",
+     "salePrice": 15490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "698098",
+   "name": "차우면 닭원산지:국내산 KG당단가",
+   "category": "신선식품 · 빵",
+   "salePrice": 14990,
+   "originalPrice": 17990,
+   "discount": 3000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%B0%A8%EC%9A%B0%EB%A9%B4%20%EB%8B%AD%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EB%82%B4%EC%82%B0%20KG%EB%8B%B9%EB%8B%A8%EA%B0%80.jpg",
+   "id": "item:698098",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12114",
+     "salePrice": 14990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "626676",
+   "name": "칵테일 토마토(2KG) 원산지 : 국내산",
+   "category": "신선식품 · 빵",
+   "salePrice": 9990,
+   "originalPrice": 12490,
+   "discount": 2500,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%B9%B5%ED%85%8C%EC%9D%BC%20%ED%86%A0%EB%A7%88%ED%86%A0_2KG%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
+   "id": "item:626676",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1307",
+     "salePrice": 9990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "684519",
+   "name": "토마토야채수프 토마토홀이태리산 KG당단가",
+   "category": "신선식품 · 빵",
+   "salePrice": 11990,
+   "originalPrice": 14390,
+   "discount": 2400,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%86%A0%EB%A7%88%ED%86%A0%EC%95%BC%EC%B1%84%EC%88%98%ED%94%84%20%ED%86%A0%EB%A7%88%ED%86%A0%ED%99%80%EC%9D%B4%ED%83%9C%EB%A6%AC%EC%82%B0%20KG%EB%8B%B9%EB%8B%A8%EA%B0%80.jpg",
+   "id": "item:684519",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10308",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "660229",
+   "name": "피치애플 (2.5KG) 원산지 : 국내산",
+   "category": "신선식품 · 빵",
+   "salePrice": 19990,
+   "originalPrice": 22990,
+   "discount": 3000,
+   "discountRate": 13,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%94%BC%EC%B9%98%EC%95%A0%ED%94%8C%20(2.5KG)%20%EC%9B%90%EC%82%B0%EC%A7%80%20_%20%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
+   "id": "item:660229",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12414",
+     "salePrice": 19990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "529690",
+   "name": "햇배1봉 3.5KG (4-6입) 원산지:국내산",
+   "category": "신선식품 · 빵",
+   "salePrice": 11990,
+   "originalPrice": 13990,
+   "discount": 2000,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%B01%EB%B4%89%203.5KG%20(4-6%EC%9E%85)%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
+   "id": "item:529690",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8139",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "667628",
+   "name": "ZESPRI 골드키위 2.4KG 원산지: 뉴질랜드",
+   "category": "신선식품 · 빵",
+   "salePrice": 22490,
+   "originalPrice": 25990,
+   "discount": 3500,
+   "discountRate": 13,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-25",
+   "image": "https://image.cocodalin.com/product/sm/ZESPRI%20%EA%B3%A8%EB%93%9C%ED%82%A4%EC%9C%84%202.4KG%20%EC%9B%90%EC%82%B0%EC%A7%80_%20%EB%89%B4%EC%A7%88%EB%9E%9C%EB%93%9C.jpg",
+   "id": "item:667628",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6189",
+     "salePrice": 22490,
+     "endDate": "2026-11-25",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "660896",
+   "name": "황금사과(2.5KG) 원산지 : 국내산",
+   "category": "신선식품 · 빵",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-21",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%99%A9%EA%B8%88%EC%82%AC%EA%B3%BC(2.5KG)%20%EC%9B%90%EC%82%B0%EC%A7%80%20_%20%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
+   "id": "item:660896",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8517",
+     "salePrice": 14990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "730371",
+   "name": "단감 1 봉 (1.8 KG이상) 원산지 : 국내산",
+   "category": "신선식품 · 빵",
+   "salePrice": 6790,
+   "originalPrice": 9990,
+   "discount": 3200,
+   "discountRate": 32,
+   "startDate": "2026-11-20",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8B%A8%EA%B0%90%201%20%EB%B4%89%20(1.8%20KG%EC%9D%B4%EC%83%81)%20%EC%9B%90%EC%82%B0%EC%A7%80%20_%20%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
+   "id": "item:730371",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12300",
+     "salePrice": 6790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "618909",
+   "name": "한우 1+등급 등심 로스 KG당 단가",
+   "category": "신선식품 · 빵",
+   "salePrice": 119900,
+   "originalPrice": 139900,
+   "discount": 20000,
+   "discountRate": 14,
+   "startDate": "2026-11-20",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%95%9C%EC%9A%B0%201_%EB%93%B1%EA%B8%89%20%EB%93%B1%EC%8B%AC%20%EB%A1%9C%EC%8A%A4%20KG%EB%8B%B9%20%EB%8B%A8%EA%B0%80.jpg",
+   "id": "item:618909",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10439",
+     "salePrice": 119900,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
   {
    "source": "cocodalin",
    "itemNo": "668884",
@@ -329,6 +812,1041 @@
   },
   {
    "source": "cocodalin",
+   "itemNo": "665976",
+   "name": "고메 소바바소이허니순살 1100G",
+   "category": "냉장 · 냉동",
+   "salePrice": 15990,
+   "originalPrice": 18990,
+   "discount": 3000,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B3%A0%EB%A9%94%20%EC%86%8C%EB%B0%94%EB%B0%94%EC%86%8C%EC%9D%B4%ED%97%88%EB%8B%88%EC%88%9C%EC%82%B4%201100G.jpg",
+   "id": "item:665976",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5976",
+     "salePrice": 15990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "691378",
+   "name": "고메 소바바양념순살치킨 1100G",
+   "category": "냉장 · 냉동",
+   "salePrice": 15990,
+   "originalPrice": 18990,
+   "discount": 3000,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B3%A0%EB%A9%94%20%EC%86%8C%EB%B0%94%EB%B0%94%EC%96%91%EB%85%90%EC%88%9C%EC%82%B4%201100G.jpg",
+   "id": "item:691378",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10735",
+     "salePrice": 15990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "670157",
+   "name": "고메 크리스피 핫도그 1,040G (13입)",
+   "category": "냉장 · 냉동",
+   "salePrice": 13490,
+   "originalPrice": 15990,
+   "discount": 2500,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B3%A0%EB%A9%94%20%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%94%BC%20%ED%95%AB%EB%8F%84%EA%B7%B8%201,040G%20(13%EC%9E%85).jpg",
+   "id": "item:670157",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7099",
+     "salePrice": 13490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692888",
+   "name": "고메 흑백요리사고기짜장 340G X 4",
+   "category": "냉장 · 냉동",
+   "salePrice": 13490,
+   "originalPrice": 15990,
+   "discount": 2500,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B3%A0%EB%A9%94%20%ED%9D%91%EB%B0%B1%EC%9A%94%EB%A6%AC%EC%82%AC%EA%B3%A0%EA%B8%B0%EC%A7%9C%EC%9E%A5%20340G%20X%204.jpg",
+   "id": "item:692888",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11049",
+     "salePrice": 13490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "670607",
+   "name": "다담 된장찌개 양념 840G X 2",
+   "category": "냉장 · 냉동",
+   "salePrice": 11490,
+   "originalPrice": 13990,
+   "discount": 2500,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8B%A4%EB%8B%B4%20%EB%90%9C%EC%9E%A5%EC%B0%8C%EA%B0%9C%20%EC%96%91%EB%85%90%20840G%20X%202.jpg",
+   "id": "item:670607",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7297",
+     "salePrice": 11490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "649745",
+   "name": "더본-백종원 돼지김치찜 650G X 4",
+   "category": "냉장 · 냉동",
+   "salePrice": 20990,
+   "originalPrice": 26990,
+   "discount": 6000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8D%94%EB%B3%B8-%EB%B0%B1%EC%A2%85%EC%9B%90%20%EB%8F%BC%EC%A7%80%EA%B9%80%EC%B9%98%EC%B0%9C%20650G%20X%204.jpg",
+   "id": "item:649745",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/3389",
+     "salePrice": 20990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "601972",
+   "name": "덴마크 구워먹는치즈 500G",
+   "category": "냉장 · 냉동",
+   "salePrice": 16490,
+   "originalPrice": 20790,
+   "discount": 4300,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8D%B4%EB%A7%88%ED%81%AC%20%EA%B5%AC%EC%9B%8C%EB%A8%B9%EB%8A%94%EC%B9%98%EC%A6%88%20500G.jpg",
+   "id": "item:601972",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1707",
+     "salePrice": 16490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "684491",
+   "name": "롯데햄 의성마늘순한구이쌈햄 60G X 12",
+   "category": "냉장 · 냉동",
+   "salePrice": 10590,
+   "originalPrice": 12990,
+   "discount": 2400,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A1%AF%EB%8D%B0%ED%96%84%20%EC%9D%98%EC%84%B1%EB%A7%88%EB%8A%98%EC%88%9C%ED%95%9C%EA%B5%AC%EC%9D%B4%EC%8C%88%ED%96%84%2060G%20X%2012.jpg",
+   "id": "item:684491",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9596",
+     "salePrice": 10590,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "694852",
+   "name": "비비고 들기름막국수 188.5G X 4 (754G)",
+   "category": "냉장 · 냉동",
+   "salePrice": 10690,
+   "originalPrice": 12790,
+   "discount": 2100,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EB%93%A4%EA%B8%B0%EB%A6%84%EB%A7%89%EA%B5%AD%EC%88%98%20188.5G%20X%204%20(754G).jpg",
+   "id": "item:694852",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11534",
+     "salePrice": 10690,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697229",
+   "name": "비비고 채소고기만두꽈리고추 1450G",
+   "category": "냉장 · 냉동",
+   "salePrice": 12490,
+   "originalPrice": 14990,
+   "discount": 2500,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%B1%84%EC%86%8C%EA%B3%A0%EA%B8%B0%EB%A7%8C%EB%91%90%EA%BD%88%EB%A6%AC%EA%B3%A0%EC%B6%94%201450G.jpg",
+   "id": "item:697229",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12032",
+     "salePrice": 12490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697228",
+   "name": "비비고 채소고기만두양배추 1450G",
+   "category": "냉장 · 냉동",
+   "salePrice": 12490,
+   "originalPrice": 14990,
+   "discount": 2500,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%B1%84%EC%86%8C%EA%B3%A0%EA%B8%B0%EB%A7%8C%EB%91%90%EC%96%91%EB%B0%B0%EC%B6%94%201450G.jpg",
+   "id": "item:697228",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12036",
+     "salePrice": 12490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "635990",
+   "name": "비비고 총각김치 2.4KG",
+   "category": "냉장 · 냉동",
+   "salePrice": 20990,
+   "originalPrice": 24990,
+   "discount": 4000,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%B4%9D%EA%B0%81%EA%B9%80%EC%B9%98%202_4KG.jpg",
+   "id": "item:635990",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1300",
+     "salePrice": 20990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692169",
+   "name": "비비고 플랜테이블물만두 1500G",
+   "category": "냉장 · 냉동",
+   "salePrice": 9790,
+   "originalPrice": 11790,
+   "discount": 2000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%ED%94%8C%EB%9E%9C%ED%85%8C%EC%9D%B4%EB%B8%94%EB%AC%BC%EB%A7%8C%EB%91%90%201500G.jpg",
+   "id": "item:692169",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11159",
+     "salePrice": 9790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "694838",
+   "name": "비비드 저당오리엔탈드레싱 1,030G",
+   "category": "냉장 · 냉동",
+   "salePrice": 6990,
+   "originalPrice": 8990,
+   "discount": 2000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EB%93%9C%20%EC%A0%80%EB%8B%B9%EC%98%A4%EB%A6%AC%EC%97%94%ED%83%88%EB%93%9C%EB%A0%88%EC%8B%B1%201,030G.jpg",
+   "id": "item:694838",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11784",
+     "salePrice": 6990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695638",
+   "name": "상하치즈 프로틴 치즈체다 12G X 60",
+   "category": "냉장 · 냉동",
+   "salePrice": 14690,
+   "originalPrice": 17990,
+   "discount": 3300,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%83%81%ED%95%98%EC%B9%98%EC%A6%88%20%ED%94%84%EB%A1%9C%ED%8B%B4%20%EC%B9%98%EC%A6%88%EC%B2%B4%EB%8B%A4%2012G%20X%2060.jpg",
+   "id": "item:695638",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11577",
+     "salePrice": 14690,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "663613",
+   "name": "씨앗젓 1KG",
+   "category": "냉장 · 냉동",
+   "salePrice": 16490,
+   "originalPrice": 20790,
+   "discount": 4300,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%94%A8%EC%95%97%EC%A0%93%201KG.jpg",
+   "id": "item:663613",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5476",
+     "salePrice": 16490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "641901",
+   "name": "씨제이 말랑쫄깃떡국떡 1.9KG",
+   "category": "냉장 · 냉동",
+   "salePrice": 5990,
+   "originalPrice": 7490,
+   "discount": 1500,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%94%A8%EC%A0%9C%EC%9D%B4%20%EB%A7%90%EB%9E%91%EC%AB%84%EA%B9%83%EB%96%A1%EA%B5%AD%EB%96%A1%201_9KG.jpg",
+   "id": "item:641901",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2383",
+     "salePrice": 5990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "682484",
+   "name": "아워홈 구씨반가갈치김치 1.6KG",
+   "category": "냉장 · 냉동",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%95%84%EC%9B%8C%ED%99%88%20%EA%B5%AC%EC%94%A8%EB%B0%98%EA%B0%80%EA%B0%88%EC%B9%98%EA%B9%80%EC%B9%98%201.6KG.jpg",
+   "id": "item:682484",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9594",
+     "salePrice": 14990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "683121",
+   "name": "앵커 무염버터 454G X 4",
+   "category": "냉장 · 냉동",
+   "salePrice": 23990,
+   "originalPrice": 29990,
+   "discount": 6000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%95%B5%EC%BB%A4%20%EB%AC%B4%EC%97%BC%EB%B2%84%ED%84%B0%20454G%20X%204.jpg",
+   "id": "item:683121",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9265",
+     "salePrice": 23990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "690999",
+   "name": "존쿡델리미트 트러플잠봉슬라이스 250G X 2",
+   "category": "냉장 · 냉동",
+   "salePrice": 11990,
+   "originalPrice": 14990,
+   "discount": 3000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%A1%B4%EC%BF%A1%EB%8D%B8%EB%A6%AC%EB%AF%B8%ED%8A%B8%20%ED%8A%B8%EB%9F%AC%ED%94%8C%EC%9E%A0%EB%B4%89%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%20250G%20X%202.jpg",
+   "id": "item:690999",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11051",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "698337",
+   "name": "종가 갓김치 1.2KG",
+   "category": "냉장 · 냉동",
+   "salePrice": 13890,
+   "originalPrice": 16990,
+   "discount": 3100,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%A2%85%EA%B0%80%20%EA%B0%93%EA%B9%80%EC%B9%98%201.2KG.jpg",
+   "id": "item:698337",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12285",
+     "salePrice": 13890,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "680053",
+   "name": "테이블마크 코코이찌방야카레우동 347G X 4",
+   "category": "냉장 · 냉동",
+   "salePrice": 23990,
+   "originalPrice": 27990,
+   "discount": 4000,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A7%88%ED%81%AC%20%EC%BD%94%EC%BD%94%EC%9D%B4%EC%B0%8C%EB%B0%A9%EC%95%BC%EC%B9%B4%EB%A0%88%EC%9A%B0%EB%8F%99%20347G%20X%204.jpg",
+   "id": "item:680053",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9006",
+     "salePrice": 23990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697837",
+   "name": "풀무원 다논 액티비아 부스트샷4 100ML X 12 (무가당)",
+   "category": "냉장 · 냉동",
+   "salePrice": 6390,
+   "originalPrice": 7990,
+   "discount": 1600,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%92%80%EB%AC%B4%EC%9B%90%20%EB%8B%A4%EB%85%BC%20%EC%95%A1%ED%8B%B0%EB%B9%84%EC%95%84%20%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%83%B74%20100ML%20X%2012%20(%EB%AC%B4%EA%B0%80%EB%8B%B9).jpg",
+   "id": "item:697837",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12124",
+     "salePrice": 6390,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "611262",
+   "name": "풀무원 보리쫄면 1290G (6인분)",
+   "category": "냉장 · 냉동",
+   "salePrice": 7990,
+   "originalPrice": 9990,
+   "discount": 2000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%92%80%EB%AC%B4%EC%9B%90%20%EB%B3%B4%EB%A6%AC%EC%AB%84%EB%A9%B4%201290G.jpg",
+   "id": "item:611262",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1249",
+     "salePrice": 7990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "694136",
+   "name": "풀무원다논 YOPRO 요거트 150G X 12, 블루베리",
+   "category": "냉장 · 냉동",
+   "salePrice": 11990,
+   "originalPrice": 14990,
+   "discount": 3000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%92%80%EB%AC%B4%EC%9B%90%EB%8B%A4%EB%85%BC%20YOPRO%20%EC%9A%94%EA%B1%B0%ED%8A%B8%20150G%20X%2012,%20%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC.jpg",
+   "id": "item:694136",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11616",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "536564",
+   "name": "하림 용가리 치킨 1500G",
+   "category": "냉장 · 냉동",
+   "salePrice": 12790,
+   "originalPrice": 15790,
+   "discount": 3000,
+   "discountRate": 19,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%95%98%EB%A6%BC%20%EC%9A%A9%EA%B0%80%EB%A6%AC%20%EC%B9%98%ED%82%A8%201500G.jpg",
+   "id": "item:536564",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/138",
+     "salePrice": 12790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "600201",
+   "name": "한우물 유기농 곤드레나물밥 262G X 5팩",
+   "category": "냉장 · 냉동",
+   "salePrice": 10990,
+   "originalPrice": 12990,
+   "discount": 2000,
+   "discountRate": 15,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%95%9C%EC%9A%B0%EB%AC%BC%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EA%B3%A4%EB%93%9C%EB%A0%88%EB%82%98%EB%AC%BC%EB%B0%A5%20262G%20X%205%ED%8C%A9.jpg",
+   "id": "item:600201",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2615",
+     "salePrice": 10990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "674135",
+   "name": "햇반 참치마요 주먹밥 100G X 12",
+   "category": "냉장 · 냉동",
+   "salePrice": 11490,
+   "originalPrice": 13990,
+   "discount": 2500,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%98%20%EC%B0%B8%EC%B9%98%EB%A7%88%EC%9A%94%20%EC%A3%BC%EB%A8%B9%EB%B0%A5%20100G%20X%2012.jpg",
+   "id": "item:674135",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7697",
+     "salePrice": 11490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "667290",
+   "name": "햇반 쿡반 김치치즈 주먹밥 100G X 12",
+   "category": "냉장 · 냉동",
+   "salePrice": 11490,
+   "originalPrice": 13990,
+   "discount": 2500,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%98%20%EC%BF%A1%EB%B0%98%20%EA%B9%80%EC%B9%98%EC%B9%98%EC%A6%88%20%EC%A3%BC%EB%A8%B9%EB%B0%A5%20100G%20X%2012.jpg",
+   "id": "item:667290",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6329",
+     "salePrice": 11490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697224",
+   "name": "BBQ 원봉아메리칸핫소스 1050G",
+   "category": "냉장 · 냉동",
+   "salePrice": 15990,
+   "originalPrice": 18990,
+   "discount": 3000,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BBQ%20%EC%9B%90%EB%B4%89%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%ED%95%AB%EC%86%8C%EC%8A%A4%201050G.jpg",
+   "id": "item:697224",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12419",
+     "salePrice": 15990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697226",
+   "name": "BBQ 원봉파마산갈릭 1050G",
+   "category": "냉장 · 냉동",
+   "salePrice": 15990,
+   "originalPrice": 18990,
+   "discount": 3000,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BBQ%20%EC%9B%90%EB%B4%89%ED%8C%8C%EB%A7%88%EC%82%B0%EA%B0%88%EB%A6%AD%201050G.jpg",
+   "id": "item:697226",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12420",
+     "salePrice": 15990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697227",
+   "name": "BBQ 윙봉레몬페퍼 1050G",
+   "category": "냉장 · 냉동",
+   "salePrice": 15990,
+   "originalPrice": 18990,
+   "discount": 3000,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BBQ%20%EC%9C%99%EB%B4%89%EB%A0%88%EB%AA%AC%ED%8E%98%ED%8D%BC%201050G.jpg",
+   "id": "item:697227",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12421",
+     "salePrice": 15990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "797684",
+   "name": "BELGIOIOSO 부라타 치즈 453G 원산지:미국",
+   "category": "냉장 · 냉동",
+   "salePrice": 10990,
+   "originalPrice": 13990,
+   "discount": 3000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/BELGIOIOSO%20%EB%B6%80%EB%9D%BC%ED%83%80%20%EC%B9%98%EC%A6%88%20453G%20%EC%9B%90%EC%82%B0%EC%A7%80_%EB%AF%B8%EA%B5%AD.jpg",
+   "id": "item:797684",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11211",
+     "salePrice": 10990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "665140",
+   "name": "BIBIGO 비비고 왕교자 1,925G",
+   "category": "냉장 · 냉동",
+   "salePrice": 12990,
+   "originalPrice": 15490,
+   "discount": 2500,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/BIBIGO%20%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%99%95%EA%B5%90%EC%9E%90%201_925G.jpg",
+   "id": "item:665140",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6132",
+     "salePrice": 12990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "609423",
+   "name": "BIBIGO 수제만둣집 든든한섬만두 1408G",
+   "category": "냉장 · 냉동",
+   "salePrice": 12490,
+   "originalPrice": 14990,
+   "discount": 2500,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%ED%95%9C%EC%84%AC%EB%A7%8C%EB%91%901408KG.jpg",
+   "id": "item:609423",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/661",
+     "salePrice": 12490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "646066",
+   "name": "BIBIGO수제만둣집 진한김치만두 1600G",
+   "category": "냉장 · 냉동",
+   "salePrice": 13990,
+   "originalPrice": 16490,
+   "discount": 2500,
+   "discountRate": 15,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%88%98%EC%A0%9C%20%EA%B9%80%EC%B9%98%EB%A7%8C%EB%91%90%201600G.jpg",
+   "id": "item:646066",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2100",
+     "salePrice": 13990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692870",
+   "name": "CJ 제일제당 고메 김치 우동 229G X 4",
+   "category": "냉장 · 냉동",
+   "salePrice": 10590,
+   "originalPrice": 12990,
+   "discount": 2400,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/CJ%20%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9%20%EA%B3%A0%EB%A9%94%20%EA%B9%80%EC%B9%98%20%EC%9A%B0%EB%8F%99%20229G%20X%204.jpg",
+   "id": "item:692870",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11050",
+     "salePrice": 10590,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695842",
+   "name": "DELICI 두바이스타일 초콜릿무스 76GX6",
+   "category": "냉장 · 냉동",
+   "salePrice": 15990,
+   "originalPrice": 19990,
+   "discount": 4000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/DELICI%20%EB%91%90%EB%B0%94%EC%9D%B4%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%B4%88%EC%BD%9C%EB%A6%BF%EB%AC%B4%EC%8A%A4%2076GX6.jpg",
+   "id": "item:695842",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12072",
+     "salePrice": 15990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "667289",
+   "name": "HAAGEN-DAZS 크리스피샌드위치 60ML X 8CT",
+   "category": "냉장 · 냉동",
+   "salePrice": 19990,
+   "originalPrice": 29790,
+   "discount": 9800,
+   "discountRate": 33,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/HAAGEN-DAZS%20%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%94%BC%EC%83%8C%EB%93%9C%EC%9C%84%EC%B9%98%2060ML%20X%208CT.jpg",
+   "id": "item:667289",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6466",
+     "salePrice": 19990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1253252",
+   "name": "NUCHAR 문어다리 500G",
+   "category": "냉장 · 냉동",
+   "salePrice": 17490,
+   "originalPrice": 22490,
+   "discount": 5000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/NUCHAR%20%EB%AC%B8%EC%96%B4%EB%8B%A4%EB%A6%AC%20500G.jpg",
+   "id": "item:1253252",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11981",
+     "salePrice": 17490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "521717",
+   "name": "고메 함박 스테이크 810G (소스포함)",
+   "category": "냉장 · 냉동",
+   "salePrice": 10990,
+   "originalPrice": 12990,
+   "discount": 2000,
+   "discountRate": 15,
+   "startDate": "2026-11-21",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B3%A0%EB%A9%94_%ED%95%A8%EB%B0%95_%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC_810G__%EC%86%8C%EC%8A%A4%ED%8F%AC%ED%95%A8_.jpg",
+   "id": "item:521717",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/251",
+     "salePrice": 10990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "663486",
+   "name": "리스토란테 모짜렐라 피자 2,130G (355G X 6)",
+   "category": "냉장 · 냉동",
+   "salePrice": 25490,
+   "originalPrice": 29990,
+   "discount": 4500,
+   "discountRate": 15,
+   "startDate": "2026-11-21",
+   "endDate": "2026-11-30",
+   "image": "https://image.cocodalin.com/product/sm/DR_OETKER%20%EB%A6%AC%EC%8A%A4%ED%86%A0%EB%9E%80%ED%85%8C%20%ED%94%BC%EC%9E%90%201005G%20(335G%20X%203).jpg",
+   "id": "item:663486",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5202",
+     "salePrice": 25490,
+     "endDate": "2026-11-30",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "660370",
+   "name": "비비고 바지락칼국수 321G X 6",
+   "category": "냉장 · 냉동",
+   "salePrice": 15990,
+   "originalPrice": 18990,
+   "discount": 3000,
+   "discountRate": 16,
+   "startDate": "2026-11-21",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EB%B0%94%EC%A7%80%EB%9D%BD%EC%B9%BC%EA%B5%AD%EC%88%98%20321G%20X%206.jpg",
+   "id": "item:660370",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4711",
+     "salePrice": 15990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "658910",
+   "name": "씨제이 꼬마돈까스 1400G",
+   "category": "냉장 · 냉동",
+   "salePrice": 12490,
+   "originalPrice": 14990,
+   "discount": 2500,
+   "discountRate": 17,
+   "startDate": "2026-11-21",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%94%A8%EC%A0%9C%EC%9D%B4%20%EA%BC%AC%EB%A7%88%EB%8F%88%EA%B9%8C%EC%8A%A4%201400G.jpg",
+   "id": "item:658910",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4668",
+     "salePrice": 12490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "664516",
+   "name": "PHILADELPHIA 크림치즈플레인 190GX3 원산지:호주",
+   "category": "냉장 · 냉동",
+   "salePrice": 10890,
+   "originalPrice": 12790,
+   "discount": 1900,
+   "discountRate": 15,
+   "startDate": "2026-11-20",
+   "endDate": "2026-11-25",
+   "image": "https://image.cocodalin.com/product/sm/PHILADELPHIA%20%ED%81%AC%EB%A6%BC%EC%B9%98%EC%A6%88%ED%94%8C%EB%A0%88%EC%9D%B8%20190GX3%20%EC%9B%90%EC%82%B0%EC%A7%80_%ED%98%B8%EC%A3%BC.jpg",
+   "id": "item:664516",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5477",
+     "salePrice": 10890,
+     "endDate": "2026-11-25",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
    "itemNo": "695909",
    "name": "상하목장 유기농 파우치그릭요거트 120G X 12 (사과케일)",
    "category": "냉장 · 냉동",
@@ -628,29 +2146,6 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "647619",
-   "name": "신선설농탕 설농탕 650G X 4",
-   "category": "냉장 · 냉동",
-   "salePrice": 20490,
-   "originalPrice": 23990,
-   "discount": 3500,
-   "discountRate": 15,
-   "startDate": "2026-11-14",
-   "endDate": "2026-11-23",
-   "image": "https://image.cocodalin.com/product/sm/%EC%8B%A0%EC%84%A0%EC%84%A4%EB%86%8D%ED%83%95%20%EC%84%A4%EB%86%8D%ED%83%95%20650G%20X%204.jpg",
-   "id": "item:647619",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/3118",
-     "salePrice": 20490,
-     "endDate": "2026-11-23",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
    "itemNo": "698360",
    "name": "퀸즈테이블 통살바삭유린기 1.15KG (700G + 450G)",
    "category": "냉장 · 냉동",
@@ -771,6 +2266,719 @@
     }
    ],
    "brand": null
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "680057",
+   "name": "고메 베이컨트러플파스타 251.8G X 6",
+   "category": "가공식품",
+   "salePrice": 16990,
+   "originalPrice": 18990,
+   "discount": 2000,
+   "discountRate": 11,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B3%A0%EB%A9%94%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%ED%8A%B8%EB%9F%AC%ED%94%8C%ED%8C%8C%EC%8A%A4%ED%83%80%20251.8G%20X%206.jpg",
+   "id": "item:680057",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8866",
+     "salePrice": 16990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693040",
+   "name": "농심 신라면 블랙 134G X 16",
+   "category": "가공식품",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%86%8D%EC%8B%AC%20%EC%8B%A0%EB%9D%BC%EB%A9%B4%20%EB%B8%94%EB%9E%99%20134G%20X%2016.jpg",
+   "id": "item:693040",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11230",
+     "salePrice": 14990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "580680",
+   "name": "동원 고추참치 100G X 12",
+   "category": "가공식품",
+   "salePrice": 18990,
+   "originalPrice": 21490,
+   "discount": 2500,
+   "discountRate": 12,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8F%99%EC%9B%90_%EA%B3%A0%EC%B6%94%EC%B0%B8%EC%B9%98_100G_X_12.jpg",
+   "id": "item:580680",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/257",
+     "salePrice": 18990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "678820",
+   "name": "동원 번데기 280G X 6",
+   "category": "가공식품",
+   "salePrice": 12490,
+   "originalPrice": 13990,
+   "discount": 1500,
+   "discountRate": 11,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8F%99%EC%9B%90%20%EB%B2%88%EB%8D%B0%EA%B8%B0%20280G%20X%206.jpg",
+   "id": "item:678820",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9054",
+     "salePrice": 12490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "550099",
+   "name": "명가랑 정이담긴참기름 1.8L",
+   "category": "가공식품",
+   "salePrice": 37990,
+   "originalPrice": 47990,
+   "discount": 10000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%AA%85%EA%B0%80%EB%9E%91%20%EC%A0%95%EC%9D%B4%EB%8B%B4%EA%B8%B4%EC%B0%B8%EA%B8%B0%EB%A6%84%201.8L.jpg",
+   "id": "item:550099",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11119",
+     "salePrice": 37990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "500246",
+   "name": "백설 옥수수유 3.6L",
+   "category": "가공식품",
+   "salePrice": 12790,
+   "originalPrice": 15990,
+   "discount": 3200,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B0%B1%EC%84%A4%20%EC%98%A5%EC%88%98%EC%88%98%EC%9C%A0%203.6L.jpg",
+   "id": "item:500246",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5407",
+     "salePrice": 12790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "672874",
+   "name": "비비고 떡볶이 1440G",
+   "category": "가공식품",
+   "salePrice": 11490,
+   "originalPrice": 13990,
+   "discount": 2500,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EB%96%A1%EB%B3%B6%EC%9D%B4%201440G.jpg",
+   "id": "item:672874",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7913",
+     "salePrice": 11490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "660179",
+   "name": "비비고 사골시래기된장국 460G X 5",
+   "category": "가공식품",
+   "salePrice": 16290,
+   "originalPrice": 18990,
+   "discount": 2700,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%82%AC%EA%B3%A8%EC%8B%9C%EB%9E%98%EA%B8%B0%EB%90%9C%EC%9E%A5%EA%B5%AD%20460G%20X%205.jpg",
+   "id": "item:660179",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4709",
+     "salePrice": 16290,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "683499",
+   "name": "비비고 스팸듬뿍부대찌개 460G X 4",
+   "category": "가공식품",
+   "salePrice": 20190,
+   "originalPrice": 22990,
+   "discount": 2800,
+   "discountRate": 12,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%EB%B9%84%EA%B3%A0%20%EC%8A%A4%ED%8C%B8%EB%93%AC%EB%BF%8D%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C%20460G%20X%204.jpg",
+   "id": "item:683499",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9657",
+     "salePrice": 20190,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "653193",
+   "name": "상하키친 비프 카레 170G X 8",
+   "category": "가공식품",
+   "salePrice": 13490,
+   "originalPrice": 16990,
+   "discount": 3500,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%83%81%ED%95%98%ED%82%A4%EC%B9%9C%20%EB%B9%84%ED%94%84%20%EC%B9%B4%EB%A0%88%20170G%20X%208.jpg",
+   "id": "item:653193",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4012",
+     "salePrice": 13490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "662382",
+   "name": "소스락 치킨스톡 3G X 80",
+   "category": "가공식품",
+   "salePrice": 11590,
+   "originalPrice": 14490,
+   "discount": 2900,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/%EC%86%8C%EC%8A%A4%EB%9D%BD%20%EC%B9%98%ED%82%A8%EC%8A%A4%ED%86%A1%203G%20X%2080.jpg",
+   "id": "item:662382",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5472",
+     "salePrice": 11590,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "639698",
+   "name": "온가족 누룽지미니 60G X 30",
+   "category": "가공식품",
+   "salePrice": 13990,
+   "originalPrice": 16990,
+   "discount": 3000,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%98%A8%EA%B0%80%EC%A1%B1%20%EB%88%84%EB%A3%BD%EC%A7%80%EB%AF%B8%EB%8B%88%2060G%20X%2030.jpg",
+   "id": "item:639698",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/3656",
+     "salePrice": 13990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "661478",
+   "name": "이가자연면 얼큰 누룽제비 133.5G X 6",
+   "category": "가공식품",
+   "salePrice": 9190,
+   "originalPrice": 11490,
+   "discount": 2300,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%9D%B4%EA%B0%80%EC%9E%90%EC%97%B0%EB%A9%B4%20%EC%96%BC%ED%81%B0%20%EB%88%84%EB%A3%BD%EC%A0%9C%EB%B9%84%20133.5G%20X%206.jpg",
+   "id": "item:661478",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5408",
+     "salePrice": 9190,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "696160",
+   "name": "풀무원 진한콩 두부 380G X 2",
+   "category": "가공식품",
+   "salePrice": 2590,
+   "originalPrice": 3190,
+   "discount": 600,
+   "discountRate": 19,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-25",
+   "image": "https://image.cocodalin.com/product/sm/%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%A7%84%ED%95%9C%EC%BD%A9%20%EB%91%90%EB%B6%80%20380G%20X%202.jpg",
+   "id": "item:696160",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12366",
+     "salePrice": 2590,
+     "endDate": "2026-11-25",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "668937",
+   "name": "풍국면 들기름 막국수 798G (6인분)",
+   "category": "가공식품",
+   "salePrice": 10990,
+   "originalPrice": 12990,
+   "discount": 2000,
+   "discountRate": 15,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%92%8D%EA%B5%AD%EB%A9%B4%20%EB%93%A4%EA%B8%B0%EB%A6%84%20%EB%A7%89%EA%B5%AD%EC%88%98%20798G%20(6%EC%9D%B8%EB%B6%84).jpg",
+   "id": "item:668937",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7291",
+     "salePrice": 10990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "639971",
+   "name": "해찬들 구수한집된장 3.15KG",
+   "category": "가공식품",
+   "salePrice": 10290,
+   "originalPrice": 12990,
+   "discount": 2700,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%95%B4%EC%B0%AC%EB%93%A4%EA%B5%AC%EC%88%98%ED%95%9C%EC%A7%91%EB%90%9C%EC%9E%A53_15KG.jpg",
+   "id": "item:639971",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/542",
+     "salePrice": 10290,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "691658",
+   "name": "햇반 듬뿍 소고기죽 420G X 5",
+   "category": "가공식품",
+   "salePrice": 13390,
+   "originalPrice": 14790,
+   "discount": 1400,
+   "discountRate": 9,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%98%20%EB%93%AC%EB%BF%8D%20%EC%86%8C%EA%B3%A0%EA%B8%B0%EC%A3%BD%20420G%20X%205.jpg",
+   "id": "item:691658",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10883",
+     "salePrice": 13390,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "671157",
+   "name": "햇반 서리태 흑미밥 210G X 18",
+   "category": "가공식품",
+   "salePrice": 22990,
+   "originalPrice": 25790,
+   "discount": 2800,
+   "discountRate": 11,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%98%20%EC%84%9C%EB%A6%AC%ED%83%9C%20%ED%9D%91%EB%AF%B8%EB%B0%A5%20210G%20X%2018.jpg",
+   "id": "item:671157",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7098",
+     "salePrice": 22990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "649324",
+   "name": "햇반 솥반 꿀약밥 210G X 6",
+   "category": "가공식품",
+   "salePrice": 12990,
+   "originalPrice": 14990,
+   "discount": 2000,
+   "discountRate": 13,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%98%20%EC%86%A5%EB%B0%98%20%EA%BF%80%EC%95%BD%EB%B0%A5%20210G%20X%206.jpg",
+   "id": "item:649324",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2939",
+     "salePrice": 12990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "643409",
+   "name": "햇반 쌀눈가득 쌀밥 210G X 18",
+   "category": "가공식품",
+   "salePrice": 19990,
+   "originalPrice": 22990,
+   "discount": 3000,
+   "discountRate": 13,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%98%20%EC%8C%80%EB%88%88%EA%B0%80%EB%93%9D%20%EC%8C%80%EB%B0%A5%20210G%20X%2018.jpg",
+   "id": "item:643409",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1885",
+     "salePrice": 19990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "683615",
+   "name": "햇반 파로 통곡물밥 190G X 12",
+   "category": "가공식품",
+   "salePrice": 20490,
+   "originalPrice": 23490,
+   "discount": 3000,
+   "discountRate": 13,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%98%20%ED%8C%8C%EB%A1%9C%20%ED%86%B5%EA%B3%A1%EB%AC%BC%EB%B0%A5%20190G%20X%2012.jpg",
+   "id": "item:683615",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9869",
+     "salePrice": 20490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "624373",
+   "name": "햇반컵반 치킨마요덮밥 233G X 6",
+   "category": "가공식품",
+   "salePrice": 14490,
+   "originalPrice": 15990,
+   "discount": 1500,
+   "discountRate": 9,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%96%87%EB%B0%98%EC%BB%B5%EB%B0%98%20%EC%B9%98%ED%82%A8%EB%A7%88%EC%9A%94%EB%8D%AE%EB%B0%A5%20233G%20X%206.jpg",
+   "id": "item:624373",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/144",
+     "salePrice": 14490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693672",
+   "name": "BONDUELLE 봉듀엘 완두콩 400G X 3",
+   "category": "가공식품",
+   "salePrice": 6970,
+   "originalPrice": 9970,
+   "discount": 3000,
+   "discountRate": 30,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/BONDUELLE%20%EB%B4%89%EB%93%80%EC%97%98%20%EC%99%84%EB%91%90%EC%BD%A9%20400G%20X%203.jpg",
+   "id": "item:693672",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11777",
+     "salePrice": 6970,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "333078",
+   "name": "FLYING GOOSE 스리라차핫소스 730ML X 2",
+   "category": "가공식품",
+   "salePrice": 12490,
+   "originalPrice": 14790,
+   "discount": 2300,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/FLYING%20GOOSE%20%EC%8A%A4%EB%A6%AC%EB%9D%BC%EC%B0%A8%ED%95%AB%EC%86%8C%EC%8A%A4%20730ML%20X%202.jpg",
+   "id": "item:333078",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12065",
+     "salePrice": 12490,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "680132",
+   "name": "HEINZ CLASSICO 알프레도소스 425G X 3",
+   "category": "가공식품",
+   "salePrice": 10990,
+   "originalPrice": 13990,
+   "discount": 3000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/HEINZ%20CLASSICO%20%EC%95%8C%ED%94%84%EB%A0%88%EB%8F%84%EC%86%8C%EC%8A%A4%20425G%20X%203.jpg",
+   "id": "item:680132",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9091",
+     "salePrice": 10990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1059406",
+   "name": "KIRKLAND SIGNATURE 엑스트라버진올리브유 2L (이탈리아)",
+   "category": "가공식품",
+   "salePrice": 29990,
+   "originalPrice": 32990,
+   "discount": 3000,
+   "discountRate": 9,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/KIRKLAND%20SIGNATURE%20%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%EB%B2%84%EC%A7%84%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%9C%A0%202L%20(%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84).jpg",
+   "id": "item:1059406",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8507",
+     "salePrice": 29990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "579734",
+   "name": "MIZKAN 쯔유(3배 농축) 1.8L",
+   "category": "가공식품",
+   "salePrice": 5790,
+   "originalPrice": 7290,
+   "discount": 1500,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/MIZKAN%20%EC%AF%94%EC%9C%A0(3%EB%B0%B0%20%EB%86%8D%EC%B6%95)%201.8L.jpg",
+   "id": "item:579734",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/3972",
+     "salePrice": 5790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "671069",
+   "name": "OLITALIA 유기농엑스트라버진 올리브유 1L",
+   "category": "가공식품",
+   "salePrice": 15990,
+   "originalPrice": 19990,
+   "discount": 4000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/OLITALIA%20%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%EB%B2%84%EC%A7%84%20%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%9C%A0%201L.jpg",
+   "id": "item:671069",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8271",
+     "salePrice": 15990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "2468660",
+   "name": "SPRAGUE 트리플 빈 칠리 425G X 8",
+   "category": "가공식품",
+   "salePrice": 15990,
+   "originalPrice": 18990,
+   "discount": 3000,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/SPRAGUE%20%ED%8A%B8%EB%A6%AC%ED%94%8C%20%EB%B9%88%20%EC%B9%A0%EB%A6%AC%20425G%20X%208.jpg",
+   "id": "item:2468660",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12415",
+     "salePrice": 15990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692720",
+   "name": "VONBEE 아카시아 스틱꿀 12G X 125T",
+   "category": "가공식품",
+   "salePrice": 23990,
+   "originalPrice": 29990,
+   "discount": 6000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/VONBEE%20%EC%95%84%EC%B9%B4%EC%8B%9C%EC%95%84%20%EC%8A%A4%ED%8B%B1%EA%BF%80%2012G%20X%20125T.jpg",
+   "id": "item:692720",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11396",
+     "salePrice": 23990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695238",
+   "name": "DINING K 올리브오일김페스토 410G X 2",
+   "category": "가공식품",
+   "salePrice": 11990,
+   "originalPrice": 16990,
+   "discount": 5000,
+   "discountRate": 29,
+   "startDate": "2026-11-20",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/DINING%20K%20%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%A4%EC%9D%BC%EA%B9%80%ED%8E%98%EC%8A%A4%ED%86%A0%20410G%20X%202.jpg",
+   "id": "item:695238",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11653",
+     "salePrice": 11990,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
   },
   {
    "source": "cocodalin",
@@ -1536,6 +3744,535 @@
     }
    ],
    "brand": "SPAM"
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "629574",
+   "name": "1865 셀렉티드 빈야드 유니크 까베르네 소비뇽",
+   "category": "음료 · 주류",
+   "salePrice": 29990,
+   "originalPrice": 45990,
+   "discount": 16000,
+   "discountRate": 35,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/1865_%EC%85%80%EB%A0%89%ED%8B%B0%EB%93%9C_%EB%B9%88%EC%95%BC%EB%93%9C_%EC%9C%A0%EB%8B%88%ED%81%AC_%EA%B9%8C%EB%B2%A0%EB%A5%B4%EB%84%A4_%EC%86%8C%EB%B9%84%EB%87%BD.jpg",
+   "id": "item:629574",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/281",
+     "salePrice": 29990,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "694979",
+   "name": "게토레이 런 600ML X 12",
+   "category": "음료 · 주류",
+   "salePrice": 8990,
+   "originalPrice": 12490,
+   "discount": 3500,
+   "discountRate": 28,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B2%8C%ED%86%A0%EB%A0%88%EC%9D%B4%20%EB%9F%B0%20600ML%20X%2012.jpg",
+   "id": "item:694979",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11657",
+     "salePrice": 8990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "665307",
+   "name": "그라함 블렌드 NO.5 화이트 포트와인 750ML",
+   "category": "음료 · 주류",
+   "salePrice": 28990,
+   "originalPrice": 36990,
+   "discount": 8000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B7%B8%EB%9D%BC%ED%95%A8%20%EB%B8%94%EB%A0%8C%EB%93%9C%20NO.5%20%ED%99%94%EC%9D%B4%ED%8A%B8%20%ED%8F%AC%ED%8A%B8%EC%99%80%EC%9D%B8%20750ML.jpg",
+   "id": "item:665307",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8900",
+     "salePrice": 28990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "512200",
+   "name": "그라함 식스그레이프 포트 750ML",
+   "category": "음료 · 주류",
+   "salePrice": 31990,
+   "originalPrice": 39990,
+   "discount": 8000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B7%B8%EB%9D%BC%ED%95%A8%20%EC%8B%9D%EC%8A%A4%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%94%84%20%ED%8F%AC%ED%8A%B8%20750ML.jpg",
+   "id": "item:512200",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2983",
+     "salePrice": 31990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "595537",
+   "name": "기솔피 바롤로 750ML",
+   "category": "음료 · 주류",
+   "salePrice": 39990,
+   "originalPrice": 49990,
+   "discount": 10000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B8%B0%EC%86%94%ED%94%BC%20%EB%B0%94%EB%A1%A4%EB%A1%9C%20750ML.jpg",
+   "id": "item:595537",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1170",
+     "salePrice": 39990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "511964",
+   "name": "꽁떼 디 깜삐아노 아파시멘토 750ML",
+   "category": "음료 · 주류",
+   "salePrice": 13990,
+   "originalPrice": 17490,
+   "discount": 3500,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%BD%81%EB%96%BC%20%EB%94%94%20%EA%B9%9C%EC%82%90%EC%95%84%EB%85%B8%20%EC%95%84%ED%8C%8C%EC%8B%9C%EB%A9%98%ED%86%A0%20750ML.jpg",
+   "id": "item:511964",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1995",
+     "salePrice": 13990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695879",
+   "name": "메종 페리에 라임 & 진저 330ML X 24 (유리병)",
+   "category": "음료 · 주류",
+   "salePrice": 34990,
+   "originalPrice": 43990,
+   "discount": 9000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A9%94%EC%A2%85%20%ED%8E%98%EB%A6%AC%EC%97%90%20%EB%9D%BC%EC%9E%84%20_%20%EC%A7%84%EC%A0%80%20330ML%20X%2024%20(%EC%9C%A0%EB%A6%AC%EB%B3%91).jpg",
+   "id": "item:695879",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12084",
+     "salePrice": 34990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "552101",
+   "name": "베라짜노 끼안티 클라시코 750ML",
+   "category": "음료 · 주류",
+   "salePrice": 29990,
+   "originalPrice": 36990,
+   "discount": 7000,
+   "discountRate": 19,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B2%A0%EB%9D%BC%EC%A7%9C%EB%85%B8%20%EB%81%BC%EC%95%88%ED%8B%B0%20%ED%81%B4%EB%9D%BC%EC%8B%9C%EC%BD%94%20750ML.jpg",
+   "id": "item:552101",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1841",
+     "salePrice": 29990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693522",
+   "name": "비타500 스파클링 250ML X 24캔",
+   "category": "음료 · 주류",
+   "salePrice": 11990,
+   "originalPrice": 15490,
+   "discount": 3500,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B9%84%ED%83%80500%20%EC%8A%A4%ED%8C%8C%ED%81%B4%EB%A7%81%20250ML%20X%2024%EC%BA%94.jpg",
+   "id": "item:693522",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11237",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "599933",
+   "name": "에비앙 천연광천수 330ML X 24팩",
+   "category": "음료 · 주류",
+   "salePrice": 12990,
+   "originalPrice": 16490,
+   "discount": 3500,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%97%90%EB%B9%84%EC%95%99_%EC%B2%9C%EC%97%B0%EA%B4%91%EC%B2%9C%EC%88%98_330ML_X_24%ED%8C%A9.jpg",
+   "id": "item:599933",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/268",
+     "salePrice": 12990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "676546",
+   "name": "연세우유 소화가 잘되는 우유 190ML X 24",
+   "category": "음료 · 주류",
+   "salePrice": 12490,
+   "originalPrice": 14490,
+   "discount": 2000,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%97%B0%EC%84%B8%EC%9A%B0%EC%9C%A0%20%EC%86%8C%ED%99%94%EA%B0%80%20%EC%9E%98%EB%90%98%EB%8A%94%20%EC%9A%B0%EC%9C%A0%20190ML%20X%2024.jpg",
+   "id": "item:676546",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8696",
+     "salePrice": 12490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "570245",
+   "name": "옐로우테일 까베르네 쇼비뇽 750ML",
+   "category": "음료 · 주류",
+   "salePrice": 9990,
+   "originalPrice": 12990,
+   "discount": 3000,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/%EC%98%90%EB%A1%9C%EC%9A%B0%ED%85%8C%EC%9D%BC%20%EA%B9%8C%EB%B2%A0%EB%A5%B4%EB%84%A4%20%EC%87%BC%EB%B9%84%EB%87%BD%20750ML.jpg",
+   "id": "item:570245",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1246",
+     "salePrice": 9990,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "589320",
+   "name": "옐로우테일 쉬라즈 750ML",
+   "category": "음료 · 주류",
+   "salePrice": 9990,
+   "originalPrice": 12990,
+   "discount": 3000,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/%EC%98%90%EB%A1%9C%EC%9A%B0%ED%85%8C%EC%9D%BC%20%EC%89%AC%EB%9D%BC%EC%A6%88%20750ML.jpg",
+   "id": "item:589320",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1247",
+     "salePrice": 9990,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "680475",
+   "name": "파워에이드 이온음료 520ML X 20",
+   "category": "음료 · 주류",
+   "salePrice": 19990,
+   "originalPrice": 25790,
+   "discount": 5800,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%8C%8C%EC%9B%8C%EC%97%90%EC%9D%B4%EB%93%9C%20%EC%9D%B4%EC%98%A8%EC%9D%8C%EB%A3%8C%20520ML%20X%2020.jpg",
+   "id": "item:680475",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8950",
+     "salePrice": 19990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695846",
+   "name": "펩시 엑스트라 피즈 355ML X 24CAN",
+   "category": "음료 · 주류",
+   "salePrice": 12990,
+   "originalPrice": 16490,
+   "discount": 3500,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%8E%A9%EC%8B%9C%20%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%ED%94%BC%EC%A6%88%20355ML%20X%2024CAN.jpg",
+   "id": "item:695846",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11658",
+     "salePrice": 12990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "507017",
+   "name": "펩시콜라 355ML X 24캔",
+   "category": "음료 · 주류",
+   "salePrice": 12990,
+   "originalPrice": 16790,
+   "discount": 3800,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%8E%A9%EC%8B%9C%EC%BD%9C%EB%9D%BC%20355ML%20X%2024%EC%BA%94.jpg",
+   "id": "item:507017",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/781",
+     "salePrice": 12990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "674078",
+   "name": "포카리스웨트 이온음료 340ML X 20팩",
+   "category": "음료 · 주류",
+   "salePrice": 12990,
+   "originalPrice": 15490,
+   "discount": 2500,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%8F%AC%EC%B9%B4%EB%A6%AC%EC%8A%A4%EC%9B%A8%ED%8A%B8%20%EC%9D%B4%EC%98%A8%EC%9D%8C%EB%A3%8C%20340ML%20X%2020%ED%8C%A9.jpg",
+   "id": "item:674078",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7510",
+     "salePrice": 12990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695809",
+   "name": "후지 블렌디드 위스키 700ML",
+   "category": "음료 · 주류",
+   "salePrice": 59900,
+   "originalPrice": 69900,
+   "discount": 10000,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-27",
+   "image": "https://image.cocodalin.com/product/sm/%ED%9B%84%EC%A7%80%20%EB%B8%94%EB%A0%8C%EB%94%94%EB%93%9C%20%EC%9C%84%EC%8A%A4%ED%82%A4%20700ML.jpg",
+   "id": "item:695809",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11910",
+     "salePrice": 59900,
+     "endDate": "2026-12-27",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692154",
+   "name": "BALANCE GROW 제주감귤 주스 2L X 2",
+   "category": "음료 · 주류",
+   "salePrice": 8790,
+   "originalPrice": 12790,
+   "discount": 4000,
+   "discountRate": 31,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BALANCE%20GROW%20%EC%A0%9C%EC%A3%BC%EA%B0%90%EA%B7%A4%20%EC%A3%BC%EC%8A%A4%202L%20X%202.jpg",
+   "id": "item:692154",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10873",
+     "salePrice": 8790,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "622329",
+   "name": "NATALIE'S JUST PIK'T 레몬 착즙액 250ML X 6",
+   "category": "음료 · 주류",
+   "salePrice": 16990,
+   "originalPrice": 19990,
+   "discount": 3000,
+   "discountRate": 15,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/NATALIE_S%20JUST%20PIK_T%20%EB%A0%88%EB%AA%AC%20%EC%B0%A9%EC%A6%99%EC%95%A1%20250ML%20X%206.jpg",
+   "id": "item:622329",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6091",
+     "salePrice": 16990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "588139",
+   "name": "SAPPORO 캔맥주 500ML X 6캔",
+   "category": "음료 · 주류",
+   "salePrice": 10190,
+   "originalPrice": 11990,
+   "discount": 1800,
+   "discountRate": 15,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-14",
+   "image": "https://image.cocodalin.com/product/sm/SAPPORO%20%EC%BA%94%EB%A7%A5%EC%A3%BC%20500ML%20X%206%EC%BA%94.jpg",
+   "id": "item:588139",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5069",
+     "salePrice": 10190,
+     "endDate": "2026-12-14",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "622738",
+   "name": "바론 드 레이 그랑 리제르바 750ML",
+   "category": "음료 · 주류",
+   "salePrice": 18990,
+   "originalPrice": 22990,
+   "discount": 4000,
+   "discountRate": 17,
+   "startDate": "2026-11-20",
+   "endDate": "2026-12-04",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B0%94%EB%A1%A0%20%EB%93%9C%20%EB%A0%88%EC%9D%B4%20%EA%B7%B8%EB%9E%91%20%EB%A6%AC%EC%A0%9C%EB%A5%B4%EB%B0%94%20750ML.jpg",
+   "id": "item:622738",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9510",
+     "salePrice": 18990,
+     "endDate": "2026-12-04",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "637547",
+   "name": "코카콜라 제로 300ML X 24팩",
+   "category": "음료 · 주류",
+   "salePrice": 18990,
+   "originalPrice": 23790,
+   "discount": 4800,
+   "discountRate": 20,
+   "startDate": "2026-11-20",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%BD%94%EC%B9%B4%EC%BD%9C%EB%9D%BC%EC%A0%9C%EB%A1%9C300MLX24%ED%8C%A9.jpg",
+   "id": "item:637547",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/386",
+     "salePrice": 18990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
   },
   {
    "source": "cocodalin",
@@ -2321,23 +5058,276 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "620217",
-   "name": "KRONEBOURG 1664 블랑 캔맥주 330ML X 12캔",
-   "category": "음료 · 주류",
-   "salePrice": 10490,
-   "originalPrice": 14790,
-   "discount": 4300,
-   "discountRate": 29,
-   "startDate": "2026-10-19",
-   "endDate": "2026-11-23",
-   "image": "https://image.cocodalin.com/product/sm/KRONEBOURG%201664%20%EB%B8%94%EB%9E%91%20%EC%BA%94%EB%A7%A5%EC%A3%BC.jpg",
-   "id": "item:620217",
+   "itemNo": "692845",
+   "name": "기린 오후의홍차 밀크티 500ML X 12",
+   "category": "커피 · 차",
+   "salePrice": 15990,
+   "originalPrice": 19990,
+   "discount": 4000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B8%B0%EB%A6%B0%20%EC%98%A4%ED%9B%84%EC%9D%98%ED%99%8D%EC%B0%A8%20%EB%B0%80%ED%81%AC%ED%8B%B0%20500ML%20X%2012.jpg",
+   "id": "item:692845",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/1315",
-     "salePrice": 10490,
-     "endDate": "2026-11-23",
+     "url": "https://cocodalin.com/product/11659",
+     "salePrice": 15990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "682991",
+   "name": "동서 둥굴레차 1.2G X 280",
+   "category": "커피 · 차",
+   "salePrice": 16990,
+   "originalPrice": 19990,
+   "discount": 3000,
+   "discountRate": 15,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8F%99%EC%84%9C%20%EB%91%A5%EA%B5%B4%EB%A0%88%EC%B0%A8%201.2G%20X%20280.jpg",
+   "id": "item:682991",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9612",
+     "salePrice": 16990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695490",
+   "name": "루카스나인 우베라떼 18G X 50",
+   "category": "커피 · 차",
+   "salePrice": 11990,
+   "originalPrice": 14990,
+   "discount": 3000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A3%A8%EC%B9%B4%EC%8A%A4%EB%82%98%EC%9D%B8%20%EC%9A%B0%EB%B2%A0%EB%9D%BC%EB%96%BC%2018G%20X%2050.jpg",
+   "id": "item:695490",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11825",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "699900",
+   "name": "링티 쿨 가드 레몬맛 11.6G X 28(+물병)",
+   "category": "커피 · 차",
+   "salePrice": 21990,
+   "originalPrice": 28990,
+   "discount": 7000,
+   "discountRate": 24,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A7%81%ED%8B%B0%20%EC%BF%A8%20%EA%B0%80%EB%93%9C%20%EB%A0%88%EB%AA%AC%EB%A7%9B%2011.6G%20X%2028(_%EB%AC%BC%EB%B3%91).jpg",
+   "id": "item:699900",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11694",
+     "salePrice": 21990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "679901",
+   "name": "매일마이카페라떼 브라운슈가밀크티 220ML X 10",
+   "category": "커피 · 차",
+   "salePrice": 9590,
+   "originalPrice": 11990,
+   "discount": 2400,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A7%A4%EC%9D%BC%EB%A7%88%EC%9D%B4%EC%B9%B4%ED%8E%98%EB%9D%BC%EB%96%BC%20%EB%B8%8C%EB%9D%BC%EC%9A%B4%EC%8A%88%EA%B0%80%EB%B0%80%ED%81%AC%ED%8B%B0%20220ML%20X%2010.jpg",
+   "id": "item:679901",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8870",
+     "salePrice": 9590,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "696222",
+   "name": "불가리스 요거트 파우더 20G X 50",
+   "category": "커피 · 차",
+   "salePrice": 9990,
+   "originalPrice": 11990,
+   "discount": 2000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%B6%88%EA%B0%80%EB%A6%AC%EC%8A%A4%20%EC%9A%94%EA%B1%B0%ED%8A%B8%20%ED%8C%8C%EC%9A%B0%EB%8D%94%2020G%20X%2050.jpg",
+   "id": "item:696222",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12417",
+     "salePrice": 9990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697568",
+   "name": "BALANCE GROW 청귤캐모마일티 230ML X 10",
+   "category": "커피 · 차",
+   "salePrice": 7190,
+   "originalPrice": 8990,
+   "discount": 1800,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BALANCE%20GROW%20%EC%B2%AD%EA%B7%A4%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC%ED%8B%B0%20230ML%20X%2010.jpg",
+   "id": "item:697568",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12418",
+     "salePrice": 7190,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "667538",
+   "name": "EDIYA 스페셜골드블렌드 11GX400",
+   "category": "커피 · 차",
+   "salePrice": 38990,
+   "originalPrice": 41990,
+   "discount": 3000,
+   "discountRate": 7,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/EDIYA%20%EC%8A%A4%ED%8E%98%EC%85%9C%EA%B3%A8%EB%93%9C%EB%B8%94%EB%A0%8C%EB%93%9C%2011GX400.jpg",
+   "id": "item:667538",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6887",
+     "salePrice": 38990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "623319",
+   "name": "STARBUCKS스타벅스 BY네스프레소캡슐 60 CAPSULES",
+   "category": "커피 · 차",
+   "salePrice": 37490,
+   "originalPrice": 46990,
+   "discount": 9500,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/STARBUCKS%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20BY%EB%84%A4%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C%EC%BA%A1%EC%8A%90%2060%20CAPSULES.jpg",
+   "id": "item:623319",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1936",
+     "salePrice": 37490,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "672980",
+   "name": "STARBUCKS스타벅스 BY네스프레소캡슐 60P (플레이버OR디카프)",
+   "category": "커피 · 차",
+   "salePrice": 37490,
+   "originalPrice": 46990,
+   "discount": 9500,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/STARBUCKS%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20BY%EB%84%A4%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C%EC%BA%A1%EC%8A%90%2060P%20(%ED%94%8C%EB%A0%88%EC%9D%B4%EB%B2%84OR%EB%94%94%EC%B9%B4%ED%94%84).jpg",
+   "id": "item:672980",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7749",
+     "salePrice": 37490,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693914",
+   "name": "TEAZEN 레몬콤부차 5G X 70",
+   "category": "커피 · 차",
+   "salePrice": 15990,
+   "originalPrice": 17990,
+   "discount": 2000,
+   "discountRate": 11,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/TEAZEN%20%EB%A0%88%EB%AA%AC%EC%BD%A4%EB%B6%80%EC%B0%A8%205G%20X%2070.jpg",
+   "id": "item:693914",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11490",
+     "salePrice": 15990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692568",
+   "name": "VONBEE 꿀매실청 2KG",
+   "category": "커피 · 차",
+   "salePrice": 9990,
+   "originalPrice": 13990,
+   "discount": 4000,
+   "discountRate": 29,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/VONBEE%20%EA%BF%80%EB%A7%A4%EC%8B%A4%EC%B2%AD%202KG.jpg",
+   "id": "item:692568",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11400",
+     "salePrice": 9990,
+     "endDate": "2026-12-06",
      "store": null
     }
    ]
@@ -2403,6 +5393,535 @@
     }
    ],
    "brand": null
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "666360",
+   "name": "것플렉스 두부현미스낵 490G/ 70G X 7",
+   "category": "과자 · 간식",
+   "salePrice": 10990,
+   "originalPrice": 13990,
+   "discount": 3000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B2%83%ED%94%8C%EB%A0%89%EC%8A%A4%20%EB%91%90%EB%B6%80%ED%98%84%EB%AF%B8%EC%8A%A4%EB%82%B5%20490G_%2070G%20X%207.jpg",
+   "id": "item:666360",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6217",
+     "salePrice": 10990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "681917",
+   "name": "그래놀라하우스 그래놀라 파로이츠 500G",
+   "category": "과자 · 간식",
+   "salePrice": 11490,
+   "originalPrice": 14990,
+   "discount": 3500,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC%ED%95%98%EC%9A%B0%EC%8A%A4%20%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC%20%ED%8C%8C%EB%A1%9C%EC%9D%B4%EC%B8%A0%20500G.jpg",
+   "id": "item:681917",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9093",
+     "salePrice": 11490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "613478",
+   "name": "뚜부크래커 50G X 7",
+   "category": "과자 · 간식",
+   "salePrice": 8590,
+   "originalPrice": 10990,
+   "discount": 2400,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%9A%9C%EB%B6%80%ED%81%AC%EB%9E%98%EC%BB%A4_50G_X_7.jpg",
+   "id": "item:613478",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/302",
+     "salePrice": 8590,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695019",
+   "name": "맥스봉 치즈플러스 40G X 33",
+   "category": "과자 · 간식",
+   "salePrice": 13990,
+   "originalPrice": 15990,
+   "discount": 2000,
+   "discountRate": 13,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A7%A5%EC%8A%A4%EB%B4%89%20%EC%B9%98%EC%A6%88%ED%94%8C%EB%9F%AC%EC%8A%A4%2040G%20X%2033.jpg",
+   "id": "item:695019",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12166",
+     "salePrice": 13990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "664378",
+   "name": "엄마사랑 통곡물 너트바 690G / 23G X 30",
+   "category": "과자 · 간식",
+   "salePrice": 12790,
+   "originalPrice": 15990,
+   "discount": 3200,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%97%84%EB%A7%88%EC%82%AC%EB%9E%91%20%ED%86%B5%EA%B3%A1%EB%AC%BC%20%EB%84%88%ED%8A%B8%EB%B0%94%20690G%20_%2023G%20X%2030.jpg",
+   "id": "item:664378",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12030",
+     "salePrice": 12790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693791",
+   "name": "위트빅스 프로틴카라멜크런치 510G X 2",
+   "category": "과자 · 간식",
+   "salePrice": 11990,
+   "originalPrice": 14990,
+   "discount": 3000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%9C%84%ED%8A%B8%EB%B9%85%EC%8A%A4%20%ED%94%84%EB%A1%9C%ED%8B%B4%EC%B9%B4%EB%9D%BC%EB%A9%9C%ED%81%AC%EB%9F%B0%EC%B9%98.jpg",
+   "id": "item:693791",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11951",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "648306",
+   "name": "종근당 건강 코어틴 프로틴 볼 400G / 20G X 20PK",
+   "category": "과자 · 간식",
+   "salePrice": 12790,
+   "originalPrice": 15990,
+   "discount": 3200,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%A2%85%EA%B7%BC%EB%8B%B9%20%EA%B1%B4%EA%B0%95%20%EC%BD%94%EC%96%B4%ED%8B%B4%20%ED%94%84%EB%A1%9C%ED%8B%B4%20%EB%B3%BC%20400G.jpg",
+   "id": "item:648306",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2910",
+     "salePrice": 12790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693930",
+   "name": "해태 에이스 1,744G / 436G X 4",
+   "category": "과자 · 간식",
+   "salePrice": 10190,
+   "originalPrice": 12990,
+   "discount": 2800,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%95%B4%ED%83%9C%20%EC%97%90%EC%9D%B4%EC%8A%A4%201,744G%20_%20436G%20X%204.jpg",
+   "id": "item:693930",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11296",
+     "salePrice": 10190,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "661578",
+   "name": "헤이그램 서리태 스낵 650G",
+   "category": "과자 · 간식",
+   "salePrice": 12990,
+   "originalPrice": 15490,
+   "discount": 2500,
+   "discountRate": 16,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%97%A4%EC%9D%B4%EA%B7%B8%EB%9E%A8%20%EC%84%9C%EB%A6%AC%ED%83%9C%20%EC%8A%A4%EB%82%B5%20650G.jpg",
+   "id": "item:661578",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6815",
+     "salePrice": 12990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "669310",
+   "name": "화과방 도넛팥빵 60G X 12",
+   "category": "과자 · 간식",
+   "salePrice": 9290,
+   "originalPrice": 10990,
+   "discount": 1700,
+   "discountRate": 15,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%99%94%EA%B3%BC%EB%B0%A9%20%EB%8F%84%EB%84%9B%ED%8C%A5%EB%B9%B5%2060G%20X%2012.jpg",
+   "id": "item:669310",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7283",
+     "salePrice": 9290,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "198723",
+   "name": "BALANCE GROW 브이스틱 검정깨 250G",
+   "category": "과자 · 간식",
+   "salePrice": 9390,
+   "originalPrice": 11990,
+   "discount": 2600,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/BALANCE%20GROW%20%EB%B8%8C%EC%9D%B4%EC%8A%A4%ED%8B%B1%20%EA%B2%80%EC%A0%95%EA%B9%A8%20250G.jpg",
+   "id": "item:198723",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11233",
+     "salePrice": 9390,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "691033",
+   "name": "CJ 밸런스밀프로틴바 420G / 14G X 30",
+   "category": "과자 · 간식",
+   "salePrice": 9990,
+   "originalPrice": 11990,
+   "discount": 2000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/CJ%20%EB%B0%B8%EB%9F%B0%EC%8A%A4%EB%B0%80%ED%94%84%EB%A1%9C%ED%8B%B4%EB%B0%94%20420G%20_%2014G%20X%2030.jpg",
+   "id": "item:691033",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11330",
+     "salePrice": 9990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697586",
+   "name": "DORLY 생강 통밀보리과즐 720G / 24G X 30",
+   "category": "과자 · 간식",
+   "salePrice": 10990,
+   "originalPrice": 13990,
+   "discount": 3000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/DORLY%20%EC%83%9D%EA%B0%95%20%ED%86%B5%EB%B0%80%EB%B3%B4%EB%A6%AC%EA%B3%BC%EC%A6%90%20720G%20_%2024G%20X%2030.jpg",
+   "id": "item:697586",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11978",
+     "salePrice": 10990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "668613",
+   "name": "EXCYCLE 바삭칩 믹스 360G / 45G X 8",
+   "category": "과자 · 간식",
+   "salePrice": 11590,
+   "originalPrice": 14490,
+   "discount": 2900,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/EXCYCLE%20%EB%B0%94%EC%82%AD%EC%B9%A9%20%EB%AF%B9%EC%8A%A4%20360G%20_%2045G%20X%208.jpg",
+   "id": "item:668613",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7178",
+     "salePrice": 11590,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "683011",
+   "name": "GENERAL MILLS 후르츠거셔스젤리 1000G/ 40G X 25",
+   "category": "과자 · 간식",
+   "salePrice": 6990,
+   "originalPrice": 10990,
+   "discount": 4000,
+   "discountRate": 36,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/GENERAL%20MILLS%20%ED%9B%84%EB%A5%B4%EC%B8%A0%EA%B1%B0%EC%85%94%EC%8A%A4%EC%A0%A4%EB%A6%AC%201000G_%2040G%20X%2025.jpg",
+   "id": "item:683011",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9660",
+     "salePrice": 6990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "681890",
+   "name": "HARIBO 푸르티부시 1.24KG",
+   "category": "과자 · 간식",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/HARIBO%20%ED%91%B8%EB%A5%B4%ED%8B%B0%EB%B6%80%EC%8B%9C%201.24KG.jpg",
+   "id": "item:681890",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11046",
+     "salePrice": 14990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "615843",
+   "name": "MAMA'S CHOICE 치즈오징어 200G",
+   "category": "과자 · 간식",
+   "salePrice": 12790,
+   "originalPrice": 15990,
+   "discount": 3200,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/MAMA_S%20CHOICE%20%EC%B9%98%EC%A6%88%EC%98%A4%EC%A7%95%EC%96%B4%20200G.jpg",
+   "id": "item:615843",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/868",
+     "salePrice": 12790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "683013",
+   "name": "MAMA'S CHOICE 후라이드 쥐포튀김 300G",
+   "category": "과자 · 간식",
+   "salePrice": 11990,
+   "originalPrice": 14990,
+   "discount": 3000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/MAMA_S%20CHOICE%20%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C%20%EC%A5%90%ED%8F%AC%ED%8A%80%EA%B9%80%20300G.jpg",
+   "id": "item:683013",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9621",
+     "salePrice": 11990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "688608",
+   "name": "MISURA 통밀 크래커 1,540G / 385G X 4",
+   "category": "과자 · 간식",
+   "salePrice": 14990,
+   "originalPrice": 17990,
+   "discount": 3000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/MISURA%20%ED%86%B5%EB%B0%80%20%ED%81%AC%EB%9E%98%EC%BB%A4%201,540G%20_%20385G%20X%204.jpg",
+   "id": "item:688608",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12416",
+     "salePrice": 14990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1951",
+   "name": "NATURE VALLEY 트레일 믹스 바 1.6KG / 35G X 48",
+   "category": "과자 · 간식",
+   "salePrice": 19490,
+   "originalPrice": 24990,
+   "discount": 5500,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/NATURE%20VALLEY%20%ED%8A%B8%EB%A0%88%EC%9D%BC%20%EB%AF%B9%EC%8A%A4%20%EB%B0%94%201.6KG.jpg",
+   "id": "item:1951",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4081",
+     "salePrice": 19490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "677303",
+   "name": "ORIHIRO 과일 곤약 젤리 1,040G / 130G X 8",
+   "category": "과자 · 간식",
+   "salePrice": 11790,
+   "originalPrice": 14790,
+   "discount": 3000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/ORIHIRO%20%EA%B3%BC%EC%9D%BC%20%EA%B3%A4%EC%95%BD%20%EC%A0%A4%EB%A6%AC%201,040G%20_%20130G%20X%208.jpg",
+   "id": "item:677303",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10949",
+     "salePrice": 11790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "336011",
+   "name": "PRINGLES 하이치즈 576G / 48G X 12",
+   "category": "과자 · 간식",
+   "salePrice": 11790,
+   "originalPrice": 14790,
+   "discount": 3000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/PRINGLES%20%ED%95%98%EC%9D%B4%EC%B9%98%EC%A6%88%20576G%20_%2048G%20X%2012.jpg",
+   "id": "item:336011",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10995",
+     "salePrice": 11790,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "666973",
+   "name": "WEMADE 밀크 쿠키 600G / 10G X 60",
+   "category": "과자 · 간식",
+   "salePrice": 10990,
+   "originalPrice": 13790,
+   "discount": 2800,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/WEMADE%20%EB%B0%80%ED%81%AC%20%EC%BF%A0%ED%82%A4%20600G%20_%2010G%20X%2060.jpg",
+   "id": "item:666973",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7695",
+     "salePrice": 10990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
   },
   {
    "source": "cocodalin",
@@ -2775,6 +6294,144 @@
   },
   {
    "source": "cocodalin",
+   "itemNo": "1806207",
+   "name": "ARTIKA LED 조명 씰링팬",
+   "category": "디지털 · 가전",
+   "salePrice": 117990,
+   "originalPrice": 149990,
+   "discount": 32000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/ARTIKA%20LED%20%EC%A1%B0%EB%AA%85%20%EC%94%B0%EB%A7%81%ED%8C%AC.jpg",
+   "id": "item:1806207",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12393",
+     "salePrice": 117990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695138",
+   "name": "GEEK 긱 5구 히터 SGH-6105W",
+   "category": "디지털 · 가전",
+   "salePrice": 239990,
+   "originalPrice": 299990,
+   "discount": 60000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/GEEK%20%EA%B8%B1%205%EA%B5%AC%20%ED%9E%88%ED%84%B0%20SGH-6105W.jpg",
+   "id": "item:695138",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12391",
+     "salePrice": 239990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692044",
+   "name": "MARSHALL 블루투스 헤드폰 메이저 5",
+   "category": "디지털 · 가전",
+   "salePrice": 127900,
+   "originalPrice": 159900,
+   "discount": 32000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-31",
+   "image": "https://image.cocodalin.com/product/sm/MARSHALL%20%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4%20%ED%97%A4%EB%93%9C%ED%8F%B0%20%EB%A9%94%EC%9D%B4%EC%A0%80%205.jpg",
+   "id": "item:692044",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12390",
+     "salePrice": 127900,
+     "endDate": "2026-12-31",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "649006",
+   "name": "SEAGATE 씨게이트 외장하드 2TB EXPANSION",
+   "category": "디지털 · 가전",
+   "salePrice": 179900,
+   "originalPrice": 199900,
+   "discount": 20000,
+   "discountRate": 10,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/SEAGATE%20%EC%94%A8%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%EC%99%B8%EC%9E%A5%ED%95%98%EB%93%9C%202TB%20EXPANSION.jpg",
+   "id": "item:649006",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5669",
+     "salePrice": 179900,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "675271",
+   "name": "VOVO 도기 일체형 비데 (설치비 별도)",
+   "category": "디지털 · 가전",
+   "salePrice": 539990,
+   "originalPrice": 679990,
+   "discount": 140000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/VOVO%20%EB%8F%84%EA%B8%B0%20%EC%9D%BC%EC%B2%B4%ED%98%95%20%EB%B9%84%EB%8D%B0%20(%EC%84%A4%EC%B9%98%EB%B9%84%20%EB%B3%84%EB%8F%84).jpg",
+   "id": "item:675271",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8526",
+     "salePrice": 539990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "653778",
+   "name": "YAMAHA 야마하 디지털피아노",
+   "category": "디지털 · 가전",
+   "salePrice": 889000,
+   "originalPrice": 979000,
+   "discount": 90000,
+   "discountRate": 9,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/YAMAHA%20%EB%94%94%EC%A7%80%ED%84%B8%ED%94%BC%EC%95%84%EB%85%B8%20YDP-S34.jpg",
+   "id": "item:653778",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4620",
+     "salePrice": 889000,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
    "itemNo": "697909",
    "name": "ROBOROCK 로보락 로봇청소기 Q REVO C PRO",
    "category": "디지털 · 가전",
@@ -2972,6 +6629,37 @@
      "store": null
     }
    ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "694926",
+   "name": "SAMSUNG UHD TV 75형 189CM",
+   "category": "디지털 · 가전",
+   "salePrice": 1099000,
+   "originalPrice": 1659000,
+   "discount": 560000,
+   "discountRate": 34,
+   "startDate": "2026-11-16",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/SAMSUNG%20UHD%20TV%2075%ED%98%95%20189CM.jpg",
+   "id": "item:694926",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11998",
+     "salePrice": 1099000,
+     "endDate": "2026-12-06",
+     "store": null
+    },
+    {
+     "site": "costpick",
+     "url": "https://costpick.co.kr/store-deals/694926",
+     "salePrice": 1099000,
+     "endDate": "2026-12-06",
+     "store": "개봉역점"
+    }
+   ],
+   "brand": "SAMSUNG UHD TV"
   },
   {
    "source": "cocodalin",
@@ -3475,6 +7163,420 @@
   },
   {
    "source": "cocodalin",
+   "itemNo": "694634",
+   "name": "다우니 섬유유연제 미스티크 4L",
+   "category": "주방 · 욕실",
+   "salePrice": 17990,
+   "originalPrice": 22990,
+   "discount": 5000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8B%A4%EC%9A%B0%EB%8B%88%20%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C%20%EB%AF%B8%EC%8A%A4%ED%8B%B0%ED%81%AC%204L.jpg",
+   "id": "item:694634",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11374",
+     "salePrice": 17990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "659722",
+   "name": "다우니 실내 건조 섬유유연제 4L",
+   "category": "주방 · 욕실",
+   "salePrice": 17990,
+   "originalPrice": 22990,
+   "discount": 5000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8B%A4%EC%9A%B0%EB%8B%88_%EC%8B%A4%EB%82%B4_%EA%B1%B4%EC%A1%B0_%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C_4L.jpg",
+   "id": "item:659722",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/193",
+     "salePrice": 17990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "661704",
+   "name": "닥터포헤어 샴푸 750ML X 2개 + 100ML X 2",
+   "category": "주방 · 욕실",
+   "salePrice": 25990,
+   "originalPrice": 32990,
+   "discount": 7000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8B%A5%ED%84%B0%ED%8F%AC%ED%97%A4%EC%96%B4%20%EC%83%B4%ED%91%B8%20750ML%20X%202%EA%B0%9C%20_%20100ML%20X%202.jpg",
+   "id": "item:661704",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5958",
+     "salePrice": 25990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "680586",
+   "name": "레노아섬유유연제 화이트머스트향 4L",
+   "category": "주방 · 욕실",
+   "salePrice": 17990,
+   "originalPrice": 22990,
+   "discount": 5000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A0%88%EB%85%B8%EC%95%84%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C%20%ED%99%94%EC%9D%B4%ED%8A%B8%EB%A8%B8%EC%8A%A4%ED%8A%B8%ED%96%A5%204L.jpg",
+   "id": "item:680586",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9489",
+     "salePrice": 17990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "668820",
+   "name": "마미손 고무장갑 대형9 또는 중형12",
+   "category": "주방 · 욕실",
+   "salePrice": 12490,
+   "originalPrice": 14490,
+   "discount": 2000,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A7%88%EB%AF%B8%EC%86%90%20%EA%B3%A0%EB%AC%B4%EC%9E%A5%EA%B0%91%20%EB%8C%80%ED%98%959%20%20%EB%98%90%EB%8A%94%20%EC%A4%91%ED%98%9512.jpg",
+   "id": "item:668820",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6749",
+     "salePrice": 12490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "691481",
+   "name": "메르센트 섬유유연제 로즈드메이4.5L",
+   "category": "주방 · 욕실",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A9%94%EB%A5%B4%EC%84%BC%ED%8A%B8%20%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C%20%EB%A1%9C%EC%A6%88%EB%93%9C%EB%A9%94%EC%9D%B44.5L.jpg",
+   "id": "item:691481",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11322",
+     "salePrice": 14990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "696386",
+   "name": "스카치브라이트 베이킹소다 물걸레 청소포 50매",
+   "category": "주방 · 욕실",
+   "salePrice": 14390,
+   "originalPrice": 17990,
+   "discount": 3600,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%8A%A4%EC%B9%B4%EC%B9%98%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EB%B2%A0%EC%9D%B4%ED%82%B9%EC%86%8C%EB%8B%A4%20%EB%AC%BC%EA%B1%B8%EB%A0%88%20%EC%B2%AD%EC%86%8C%ED%8F%AC%2050%EB%A7%A4.jpg",
+   "id": "item:696386",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12145",
+     "salePrice": 14390,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "603671",
+   "name": "스카치브라이트 초강력 린트롤러 95매 X 5롤",
+   "category": "주방 · 욕실",
+   "salePrice": 15590,
+   "originalPrice": 19490,
+   "discount": 3900,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%8A%A4%EC%B9%B4%EC%B9%98%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%B4%88%EA%B0%95%EB%A0%A5%20%EB%A6%B0%ED%8A%B8%EB%A1%A4%EB%9F%AC%2095%EB%A7%A4%20X%205%EB%A1%A4.jpg",
+   "id": "item:603671",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/63",
+     "salePrice": 15590,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "773367",
+   "name": "스카트 살균소득티슈 60매 X 8팩",
+   "category": "주방 · 욕실",
+   "salePrice": 12990,
+   "originalPrice": 16490,
+   "discount": 3500,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/%EC%8A%A4%EC%B9%B4%ED%8A%B8%20%EC%82%B4%EA%B7%A0%EC%86%8C%EB%93%9D%ED%8B%B0%EC%8A%88%2060%EB%A7%A4%20X%208%ED%8C%A9.jpg",
+   "id": "item:773367",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7795",
+     "salePrice": 12990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697211",
+   "name": "윤도자기 모락 찜기 5P 650ML, 1200ML,채반",
+   "category": "주방 · 욕실",
+   "salePrice": 31990,
+   "originalPrice": 39990,
+   "discount": 8000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%9C%A4%EB%8F%84%EC%9E%90%EA%B8%B0%20%EB%AA%A8%EB%9D%BD%20%EC%B0%9C%EA%B8%B0%205P%20650ML,%201200ML,%EC%B1%84%EB%B0%98.jpg",
+   "id": "item:697211",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12392",
+     "salePrice": 31990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "689435",
+   "name": "쿠진아트 에어프라이어 오븐 17L",
+   "category": "주방 · 욕실",
+   "salePrice": 127990,
+   "originalPrice": 159990,
+   "discount": 32000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%BF%A0%EC%A7%84%EC%95%84%ED%8A%B8%20%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4%20%EC%98%A4%EB%B8%90%2017L.jpg",
+   "id": "item:689435",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11251",
+     "salePrice": 127990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "681563",
+   "name": "페브리즈 섬유탈취제 / 다우니향 920ML X 2개",
+   "category": "주방 · 욕실",
+   "salePrice": 15790,
+   "originalPrice": 19790,
+   "discount": 4000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%8E%98%EB%B8%8C%EB%A6%AC%EC%A6%88%20%EC%84%AC%EC%9C%A0%ED%83%88%EC%B7%A8%EC%A0%9C%20_%20%EB%8B%A4%EC%9A%B0%EB%8B%88%ED%96%A5%20920ML%20X%202%EA%B0%9C.jpg",
+   "id": "item:681563",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9707",
+     "salePrice": 15790,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "660352",
+   "name": "페브리즈 화장실비치형 방향제/탈취제 6EA",
+   "category": "주방 · 욕실",
+   "salePrice": 17490,
+   "originalPrice": 21990,
+   "discount": 4500,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%8E%98%EB%B8%8C%EB%A6%AC%EC%A6%88%20%ED%99%94%EC%9E%A5%EC%8B%A4%EB%B9%84%EC%B9%98%ED%98%95%20%EB%B0%A9%ED%96%A5%EC%A0%9C_%ED%83%88%EC%B7%A8%EC%A0%9C%206EA.jpg",
+   "id": "item:660352",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/5851",
+     "salePrice": 17490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695311",
+   "name": "프로쉬 변기클리너 750ML X 3 / 라즈베리",
+   "category": "주방 · 욕실",
+   "salePrice": 14990,
+   "originalPrice": 17990,
+   "discount": 3000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%94%84%EB%A1%9C%EC%89%AC%20%EB%B3%80%EA%B8%B0%ED%81%B4%EB%A6%AC%EB%84%88%20750ML%20X%203%20_%20%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC.jpg",
+   "id": "item:695311",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12095",
+     "salePrice": 14990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "674826",
+   "name": "BRITA브리타 정수용기 3.6L 필터 2PK 포함",
+   "category": "주방 · 욕실",
+   "salePrice": 37990,
+   "originalPrice": 49990,
+   "discount": 12000,
+   "discountRate": 24,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BRITA%EB%B8%8C%EB%A6%AC%ED%83%80%20%EC%A0%95%EC%88%98%EC%9A%A9%EA%B8%B0%203.6L%20%ED%95%84%ED%84%B0%202PK%20%ED%8F%AC%ED%95%A8.jpg",
+   "id": "item:674826",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8601",
+     "salePrice": 37990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "672690",
+   "name": "DENBY 덴비 디너웨어세트 11P 영국산",
+   "category": "주방 · 욕실",
+   "salePrice": 86900,
+   "originalPrice": 109900,
+   "discount": 23000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/DENBY%20%EB%8D%B4%EB%B9%84%20%EB%94%94%EB%84%88%EC%9B%A8%EC%96%B4%EC%84%B8%ED%8A%B8%2011P%20%EC%98%81%EA%B5%AD%EC%82%B0.jpg",
+   "id": "item:672690",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8848",
+     "salePrice": 86900,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "630743",
+   "name": "LENOX 홀리데이키친타월 4P 40X71CM",
+   "category": "주방 · 욕실",
+   "salePrice": 9990,
+   "originalPrice": 12990,
+   "discount": 3000,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/LENOX%20%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4%ED%82%A4%EC%B9%9C%ED%83%80%EC%9B%94%204P%2040X71CM.jpg",
+   "id": "item:630743",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8512",
+     "salePrice": 9990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692198",
+   "name": "P&G GAIN 액상세탁세제 5.02L / 159회분",
+   "category": "주방 · 욕실",
+   "salePrice": 21990,
+   "originalPrice": 27990,
+   "discount": 6000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/P_G%20GAIN%20%EC%95%A1%EC%83%81%EC%84%B8%ED%83%81%EC%84%B8%EC%A0%9C%205.02L%20_%20159%ED%9A%8C%EB%B6%84.jpg",
+   "id": "item:692198",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11728",
+     "salePrice": 21990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
    "itemNo": "635900",
    "name": "대림바스 세면대필터헤드 리필필터 11개포함",
    "category": "주방 · 욕실",
@@ -3815,6 +7917,489 @@
   },
   {
    "source": "cocodalin",
+   "itemNo": "695249",
+   "name": "ANDREA VANNA 울 후드머플러 FREE 사이즈",
+   "category": "의류 · 잡화",
+   "salePrice": 47990,
+   "originalPrice": 59990,
+   "discount": 12000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/ANDREA%20VANNA%20%EC%9A%B8%20%ED%9B%84%EB%93%9C%EB%A8%B8%ED%94%8C%EB%9F%AC%20FREE%20%EC%82%AC%EC%9D%B4%EC%A6%88.jpg",
+   "id": "item:695249",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12406",
+     "salePrice": 47990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692186",
+   "name": "BONISPAX 여성 덕다운 자켓 S,M,L ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 95900,
+   "originalPrice": 119900,
+   "discount": 24000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/BONISPAX%20%EC%97%AC%EC%84%B1%20%EB%8D%95%EB%8B%A4%EC%9A%B4%20%EC%9E%90%EC%BC%93%20S,M,L%20ASIAN%20SIZE.jpg",
+   "id": "item:692186",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12408",
+     "salePrice": 95900,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1111021",
+   "name": "COTTON CLUB 면80수 탱크3매 95 - 105 ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/COTTON%20CLUB%20%EB%A9%B480%EC%88%98%20%ED%83%B1%ED%81%AC3%EB%A7%A4%2095%20-%20105%20ASIAN%20SIZE.jpg",
+   "id": "item:1111021",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9497",
+     "salePrice": 14990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692489",
+   "name": "COUNTRSS MARA 하이브리드다운재킷 S,M,L,XL ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 63990,
+   "originalPrice": 79990,
+   "discount": 16000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/COUNTRSS%20MARA%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%EB%8B%A4%EC%9A%B4%EC%9E%AC%ED%82%B7%20S,M,L,XL%20ASIAN%20SIZE.jpg",
+   "id": "item:692489",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12411",
+     "salePrice": 63990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "688226",
+   "name": "GAP 성인울양말 6족 FREE SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 12490,
+   "originalPrice": 15990,
+   "discount": 3500,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/GAP%20%EC%84%B1%EC%9D%B8%EC%9A%B8%EC%96%91%EB%A7%90%206%EC%A1%B1%20FREE%20SIZE.jpg",
+   "id": "item:688226",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8541",
+     "salePrice": 12490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "688833",
+   "name": "GAP 여성 울양말 6족 FREE SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 10990,
+   "originalPrice": 13990,
+   "discount": 3000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/GAP%20%EC%97%AC%EC%84%B1%20%EC%9A%B8%EC%96%91%EB%A7%90%206%EC%A1%B1%20FREE%20SIZE.jpg",
+   "id": "item:688833",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8802",
+     "salePrice": 10990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693911",
+   "name": "GRANDEUR 퀵드라이 바스타월 2P, 76X137CM",
+   "category": "의류 · 잡화",
+   "salePrice": 13490,
+   "originalPrice": 16990,
+   "discount": 3500,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/GRANDEUR%20%ED%80%B5%EB%93%9C%EB%9D%BC%EC%9D%B4%20%EB%B0%94%EC%8A%A4%ED%83%80%EC%9B%94%202P,%2076X137CM.jpg",
+   "id": "item:693911",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12405",
+     "salePrice": 13490,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "661122",
+   "name": "GUESS 남성 청바지 30,32,34,36 ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 37990,
+   "originalPrice": 47990,
+   "discount": 10000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/GUESS%20%EB%82%A8%EC%84%B1%20%EC%B2%AD%EB%B0%94%EC%A7%80%2030_32_34_36%20ASIAN%20SIZE.jpg",
+   "id": "item:661122",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6208",
+     "salePrice": 37990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "688977",
+   "name": "GUESS 아동 팬티 10매 65-85 ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 18990,
+   "originalPrice": 23990,
+   "discount": 5000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/GUESS%20%EC%95%84%EB%8F%99%20%ED%8C%AC%ED%8B%B0%2010%EB%A7%A4%2065-85%20ASIAN%20SIZE%20_%20688977.jpg",
+   "id": "item:688977",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10338",
+     "salePrice": 18990,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "688899",
+   "name": "JILL BY JILLSTUART 성인 양말 6족 여 24CM, 남 26CM",
+   "category": "의류 · 잡화",
+   "salePrice": 9990,
+   "originalPrice": 12990,
+   "discount": 3000,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/JILL%20BY%20JILLSTUART%20%EC%84%B1%EC%9D%B8%20%EC%96%91%EB%A7%90%206%EC%A1%B1%20%EC%97%AC%2024CM,%20%EB%82%A8%2026CM.jpg",
+   "id": "item:688899",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8499",
+     "salePrice": 9990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "7771936",
+   "name": "KIRKLAND SIGNATURE 박서브리프 4매 S,M,L,XL CUSTOM FIT",
+   "category": "의류 · 잡화",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/KIRKLAND%20SIGNATURE%20%EB%B0%95%EC%84%9C%EB%B8%8C%EB%A6%AC%ED%94%84%204%EB%A7%A4%20S,M,L,XL%20CUSTOM%20FIT.jpg",
+   "id": "item:7771936",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12407",
+     "salePrice": 14990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1796171",
+   "name": "LIFECOMFORT 얼티메이트 담요 152X177CM",
+   "category": "의류 · 잡화",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/LIFECOMFORT%20%EC%96%BC%ED%8B%B0%EB%A9%94%EC%9D%B4%ED%8A%B8%20%EB%8B%B4%EC%9A%94%20152X177CM%20_%201796171.jpg",
+   "id": "item:1796171",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10076",
+     "salePrice": 14990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692115",
+   "name": "MOLLIOLLI 여성 인조퍼 자켓 S,M,L ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 55990,
+   "originalPrice": 69990,
+   "discount": 14000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/MOLLIOLLI%20%EC%97%AC%EC%84%B1%20%EC%9D%B8%EC%A1%B0%ED%8D%BC%20%EC%9E%90%EC%BC%93%20S,M,L%20ASIAN%20SIZE.jpg",
+   "id": "item:692115",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12409",
+     "salePrice": 55990,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "654126",
+   "name": "OUTDOOR PRODUCTS 키즈 상하의 세트 130,145,155,165",
+   "category": "의류 · 잡화",
+   "salePrice": 30990,
+   "originalPrice": 38990,
+   "discount": 8000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/OUTDOOR%20PRODUCTS%20%ED%82%A4%EC%A6%88%20%EC%83%81%ED%95%98%EC%9D%98%20%EC%84%B8%ED%8A%B8%20130,145,155,165.jpg",
+   "id": "item:654126",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8342",
+     "salePrice": 30990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1909196",
+   "name": "PEANUTS 벨벳 담요 1P, 152X177CM",
+   "category": "의류 · 잡화",
+   "salePrice": 9990,
+   "originalPrice": 12490,
+   "discount": 2500,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/PEANUTS%20%EB%B2%A8%EB%B2%B3%20%EB%8B%B4%EC%9A%94%201P,%20152X177CM.jpg",
+   "id": "item:1909196",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12403",
+     "salePrice": 9990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "681960",
+   "name": "PUMA 주니어팬티 5매 75-90 ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 14990,
+   "originalPrice": 19990,
+   "discount": 5000,
+   "discountRate": 25,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/PUMA%20%EC%A3%BC%EB%8B%88%EC%96%B4%ED%8C%AC%ED%8B%B0%205%EB%A7%A4%2075-90%20ASIAN%20SIZE.jpg",
+   "id": "item:681960",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10172",
+     "salePrice": 14990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "6651001",
+   "name": "SLOGGI 브라탑 2매 S,M,L ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 30990,
+   "originalPrice": 38990,
+   "discount": 8000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/SLOGGI%20%EB%B8%8C%EB%9D%BC%ED%83%91%202%EB%A7%A4%20S,M,L%20ASIAN%20SIZE.jpg",
+   "id": "item:6651001",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9251",
+     "salePrice": 30990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "788894",
+   "name": "TRIUMPH 팬티 스타킹 3매 M-L 사이즈",
+   "category": "의류 · 잡화",
+   "salePrice": 7990,
+   "originalPrice": 12990,
+   "discount": 5000,
+   "discountRate": 38,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-20",
+   "image": "https://image.cocodalin.com/product/sm/TRIUMPH%20%ED%8C%AC%ED%8B%B0%20%EC%8A%A4%ED%83%80%ED%82%B9%203%EB%A7%A4%20M-L%20%EC%82%AC%EC%9D%B4%EC%A6%88.jpg",
+   "id": "item:788894",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11972",
+     "salePrice": 7990,
+     "endDate": "2026-12-20",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692436",
+   "name": "VINE 캐시미어 모크넥 S - XL ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 70990,
+   "originalPrice": 89990,
+   "discount": 19000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/VINE%20%EC%BA%90%EC%8B%9C%EB%AF%B8%EC%96%B4%20%EB%AA%A8%ED%81%AC%EB%84%A5%20S%20-%20XL%20ASIAN%20SIZE.jpg",
+   "id": "item:692436",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12412",
+     "salePrice": 70990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "2009236",
+   "name": "WEATHERPROOF VINTAGE 페어아일 스웨터 S,M,L ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 19990,
+   "originalPrice": 25990,
+   "discount": 6000,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/WEATHERPROOF%20VINTAGE%20%ED%8E%98%EC%96%B4%EC%95%84%EC%9D%BC%20%EC%8A%A4%EC%9B%A8%ED%84%B0%20S,M,L%20ASIAN%20SIZE.jpg",
+   "id": "item:2009236",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12410",
+     "salePrice": 19990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "682052",
+   "name": "PUMA 남성 다운 재킷 M,L,XL,XXL ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 69990,
+   "originalPrice": 99990,
+   "discount": 30000,
+   "discountRate": 30,
+   "startDate": "2026-11-20",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/PUMA%20%EB%82%A8%EC%84%B1%20%EB%8B%A4%EC%9A%B4%20%EC%9E%AC%ED%82%B7%20M,L,XL,XXL%20ASIAN%20SIZE.jpg",
+   "id": "item:682052",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12219",
+     "salePrice": 69990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
    "itemNo": "671689",
    "name": "COLUMBIA 남성 패딩 바지 M,L,XL,XXL ASIAN SIZE",
    "category": "의류 · 잡화",
@@ -4099,6 +8684,29 @@
     {
      "site": "cocodalin",
      "url": "https://cocodalin.com/product/10080",
+     "salePrice": 13990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "748381",
+   "name": "GUESS 여성 모달캐미솔 3매 S, M, L ASIAN SIZE",
+   "category": "의류 · 잡화",
+   "salePrice": 13990,
+   "originalPrice": 17990,
+   "discount": 4000,
+   "discountRate": 22,
+   "startDate": "2026-11-16",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/GUESS%20%EC%97%AC%EC%84%B1%20%EB%AA%A8%EB%8B%AC%EC%BA%90%EB%AF%B8%EC%86%94%203%EB%A7%A4%20S,%20M,%20L%20ASIAN%20SIZE.jpg",
+   "id": "item:748381",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8202",
      "salePrice": 13990,
      "endDate": "2026-12-06",
      "store": null
@@ -5095,6 +9703,397 @@
   },
   {
    "source": "cocodalin",
+   "itemNo": "671679",
+   "name": "고로고로 테이프크리너리필6EA 침구용 또는 바닥용",
+   "category": "생활용품",
+   "salePrice": 11990,
+   "originalPrice": 14990,
+   "discount": 3000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B3%A0%EB%A1%9C%EA%B3%A0%EB%A1%9C%20%ED%85%8C%EC%9D%B4%ED%94%84%ED%81%AC%EB%A6%AC%EB%84%88%EB%A6%AC%ED%95%846EA%20%EC%B9%A8%EA%B5%AC%EC%9A%A9%20%EB%98%90%EB%8A%94%20%EB%B0%94%EB%8B%A5%EC%9A%A9.jpg",
+   "id": "item:671679",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/762",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "671677",
+   "name": "고로고로 테이프클리너 세트 본체 + 리필 230매",
+   "category": "생활용품",
+   "salePrice": 11990,
+   "originalPrice": 14490,
+   "discount": 2500,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B3%A0%EB%A1%9C%EA%B3%A0%EB%A1%9C%20%ED%85%8C%EC%9D%B4%ED%94%84%ED%81%B4%EB%A6%AC%EB%84%88%20%EC%84%B8%ED%8A%B8%20%EB%B3%B8%EC%B2%B4%20_%20%EB%A6%AC%ED%95%84%20230%EB%A7%A4.jpg",
+   "id": "item:671677",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7318",
+     "salePrice": 11990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "785447",
+   "name": "라브아 퍼퓸 실내탈취제 250G X 3",
+   "category": "생활용품",
+   "salePrice": 18490,
+   "originalPrice": 22490,
+   "discount": 4000,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%9D%BC%EB%B8%8C%EC%95%84%20%ED%8D%BC%ED%93%B8%20%EC%8B%A4%EB%82%B4%ED%83%88%EC%B7%A8%EC%A0%9C%20250G%20X%203_785447.jpg",
+   "id": "item:785447",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12422",
+     "salePrice": 18490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "691715",
+   "name": "매직캔 히포 27L 리필9개 포함",
+   "category": "생활용품",
+   "salePrice": 47990,
+   "originalPrice": 59990,
+   "discount": 12000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A7%A4%EC%A7%81%EC%BA%94%20%ED%9E%88%ED%8F%AC%2027L%20%EB%A6%AC%ED%95%849%EA%B0%9C%20%ED%8F%AC%ED%95%A8.jpg",
+   "id": "item:691715",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11219",
+     "salePrice": 47990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "679148",
+   "name": "슈퍼포우 베리츄 강아지껌 14G X 50",
+   "category": "생활용품",
+   "salePrice": 17790,
+   "originalPrice": 20790,
+   "discount": 3000,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%8A%88%ED%8D%BC%ED%8F%AC%EC%9A%B0%20%EB%B2%A0%EB%A6%AC%EC%B8%84%20%EA%B0%95%EC%95%84%EC%A7%80%EA%BB%8C%2014G%20X%2050.jpg",
+   "id": "item:679148",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8984",
+     "salePrice": 17790,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "598079",
+   "name": "시저 애견사료 / 소고기 100G X 24캔",
+   "category": "생활용품",
+   "salePrice": 29990,
+   "originalPrice": 34990,
+   "discount": 5000,
+   "discountRate": 14,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%8B%9C%EC%A0%80%20%EC%95%A0%EA%B2%AC%EC%82%AC%EB%A3%8C_%EC%86%8C%EA%B3%A0%EA%B8%B0%20100G%20X%2024%EC%BA%94.jpg",
+   "id": "item:598079",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/818",
+     "salePrice": 29990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "684832",
+   "name": "인라이프 포켓용핫팩 170G X 30개",
+   "category": "생활용품",
+   "salePrice": 10490,
+   "originalPrice": 12990,
+   "discount": 2500,
+   "discountRate": 19,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/%EC%9D%B8%EB%9D%BC%EC%9D%B4%ED%94%84%20%ED%8F%AC%EC%BC%93%EC%9A%A9%ED%95%AB%ED%8C%A9%20170G%20X%2030%EA%B0%9C.jpg",
+   "id": "item:684832",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10145",
+     "salePrice": 10490,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "660543",
+   "name": "크리스마스 장식 멜로디 티브 높이 45CM",
+   "category": "생활용품",
+   "salePrice": 72990,
+   "originalPrice": 92990,
+   "discount": 20000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20%EB%A9%9C%EB%A1%9C%EB%94%94%20%ED%8B%B0%EB%B8%8C%20%EB%86%92%EC%9D%B4%2045CM.jpg",
+   "id": "item:660543",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10153",
+     "salePrice": 72990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "753144",
+   "name": "ANF 식스프리골드 애견사료 10KG (400G X 25팩)",
+   "category": "생활용품",
+   "salePrice": 61990,
+   "originalPrice": 72990,
+   "discount": 11000,
+   "discountRate": 15,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/ANF%20%EC%8B%9D%EC%8A%A4%ED%94%84%EB%A6%AC%EA%B3%A8%EB%93%9C%20%EC%95%A0%EA%B2%AC%EC%82%AC%EB%A3%8C%2010KG%20(400G%20X%2025%ED%8C%A9)_753144.jpg",
+   "id": "item:753144",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9042",
+     "salePrice": 61990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1901557",
+   "name": "BERKSHIRE 전기담요 127X152CM",
+   "category": "생활용품",
+   "salePrice": 27990,
+   "originalPrice": 34990,
+   "discount": 7000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/BERKSHIRE%20%EC%A0%84%EA%B8%B0%EB%8B%B4%EC%9A%94%20127X152CM.jpg",
+   "id": "item:1901557",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12404",
+     "salePrice": 27990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "660606",
+   "name": "BOSCH보쉬 활성탄에어컨필터 2개",
+   "category": "생활용품",
+   "salePrice": 19990,
+   "originalPrice": 25990,
+   "discount": 6000,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BOSCH%EB%B3%B4%EC%89%AC%20%ED%99%9C%EC%84%B1%ED%83%84%EC%97%90%EC%96%B4%EC%BB%A8%ED%95%84%ED%84%B0%202%EA%B0%9C.jpg",
+   "id": "item:660606",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1030",
+     "salePrice": 19990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693906",
+   "name": "KOVEA 로스팅 플러스 가스토치",
+   "category": "생활용품",
+   "salePrice": 15990,
+   "originalPrice": 19990,
+   "discount": 4000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/KOVEA%20%EB%A1%9C%EC%8A%A4%ED%8C%85%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EA%B0%80%EC%8A%A4%ED%86%A0%EC%B9%98.jpg",
+   "id": "item:693906",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12394",
+     "salePrice": 15990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "677405",
+   "name": "LOVBONG 애견용한우콜라겐껌 연어/ 100G X 8",
+   "category": "생활용품",
+   "salePrice": 12690,
+   "originalPrice": 15990,
+   "discount": 3300,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/LOVBONG%20%EC%95%A0%EA%B2%AC%EC%9A%A9%ED%95%9C%EC%9A%B0%EC%BD%9C%EB%9D%BC%EA%B2%90%EA%BB%8C%20%EC%97%B0%EC%96%B4_%20100G%20X%208.jpg",
+   "id": "item:677405",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8744",
+     "salePrice": 12690,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "670869",
+   "name": "MODOO 부릉이 전기자전거 51CM (20)",
+   "category": "생활용품",
+   "salePrice": 999900,
+   "originalPrice": 1249900,
+   "discount": 250000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/MODOO%20%EB%B6%80%EB%A6%89%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0%2051CM%20(20).jpg",
+   "id": "item:670869",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8129",
+     "salePrice": 999900,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "617030",
+   "name": "NATURAL CORE 천연 오리가슴살 700G (100G X 7EA)",
+   "category": "생활용품",
+   "salePrice": 18390,
+   "originalPrice": 22990,
+   "discount": 4600,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/NATURALCORE%EC%95%A0%EA%B2%AC%EC%9A%A9%EC%A0%B8%ED%82%A4%EC%98%A4%EB%A6%AC100GX7PK.jpg",
+   "id": "item:617030",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/628",
+     "salePrice": 18390,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "629419",
+   "name": "STANLEY 스탠리 2IN 1기능 최대70/137KG적재",
+   "category": "생활용품",
+   "salePrice": 71990,
+   "originalPrice": 89990,
+   "discount": 18000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/STANLEY%20%EC%8A%A4%ED%83%A0%EB%A6%AC%202IN%201%EA%B8%B0%EB%8A%A5%20%EC%B5%9C%EB%8C%8070.jpg",
+   "id": "item:629419",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/3881",
+     "salePrice": 71990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "698358",
+   "name": "퀸즈테이블 쫀득바삭꿔바로우 1.2KG (800G + 400G)",
+   "category": "생활용품",
+   "salePrice": 14990,
+   "originalPrice": 17990,
+   "discount": 3000,
+   "discountRate": 17,
+   "startDate": "2026-11-20",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%ED%80%B8%EC%A6%88%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%AB%80%EB%93%9D%EB%B0%94%EC%82%AD%EA%BF%94%EB%B0%94%EB%A1%9C%EC%9A%B0%201.2KG%20(800G%20_%20400G).jpg",
+   "id": "item:698358",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12255",
+     "salePrice": 14990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
    "itemNo": "613904",
    "name": "뉴트리나 비스트로 애묘사료 300G X 20BAG",
    "category": "생활용품",
@@ -5482,6 +10481,29 @@
   },
   {
    "source": "cocodalin",
+   "itemNo": "634392",
+   "name": "수선화 구근 7개/팩",
+   "category": "생활용품",
+   "salePrice": 9990,
+   "originalPrice": 12990,
+   "discount": 3000,
+   "discountRate": 23,
+   "startDate": "2026-11-14",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%88%98%EC%84%A0%ED%99%94%20%EA%B5%AC%EA%B7%BC%207%EA%B0%9C_%ED%8C%A9.jpg",
+   "id": "item:634392",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12397",
+     "salePrice": 9990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
    "itemNo": "626491",
    "name": "튤립 구근 20개 / 팩",
    "category": "생활용품",
@@ -5590,23 +10612,897 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "660606",
-   "name": "BOSCH보쉬 활성탄에어컨필터 2개",
-   "category": "생활용품",
-   "salePrice": 20490,
-   "originalPrice": 25990,
-   "discount": 5500,
-   "discountRate": 21,
-   "startDate": "2026-05-04",
-   "endDate": "2029-05-17",
-   "image": "https://image.cocodalin.com/product/sm/BOSCH%EB%B3%B4%EC%89%AC%20%ED%99%9C%EC%84%B1%ED%83%84%EC%97%90%EC%96%B4%EC%BB%A8%ED%95%84%ED%84%B0%202%EA%B0%9C.jpg",
-   "id": "item:660606",
+   "itemNo": "681556",
+   "name": "광동 홍삼 배도라지진액 102ML X 30포",
+   "category": "건강 · 미용",
+   "salePrice": 26390,
+   "originalPrice": 32990,
+   "discount": 6600,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EA%B4%91%EB%8F%99%20%ED%99%8D%EC%82%BC%20%EB%B0%B0%EB%8F%84%EB%9D%BC%EC%A7%80%EC%A7%84%EC%95%A1%20102ML%20X%2030%ED%8F%AC.jpg",
+   "id": "item:681556",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/1030",
-     "salePrice": 20490,
-     "endDate": "2029-05-17",
+     "url": "https://cocodalin.com/product/9425",
+     "salePrice": 26390,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "665252",
+   "name": "뉴트리코어 유기농 밀크씨슬 1000MG X 150정",
+   "category": "건강 · 미용",
+   "salePrice": 90900,
+   "originalPrice": 114900,
+   "discount": 24000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%89%B4%ED%8A%B8%EB%A6%AC%EC%BD%94%EC%96%B4%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%80%ED%81%AC%EC%94%A8%EC%8A%AC%201000MG%20X%20150%EC%A0%95.jpg",
+   "id": "item:665252",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6006",
+     "salePrice": 90900,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692559",
+   "name": "동원천지인 뿌리채홍삼음료 120ML X 12병",
+   "category": "건강 · 미용",
+   "salePrice": 19490,
+   "originalPrice": 23990,
+   "discount": 4500,
+   "discountRate": 19,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8F%99%EC%9B%90%EC%B2%9C%EC%A7%80%EC%9D%B8%20%EB%BF%8C%EB%A6%AC%EC%B1%84%ED%99%8D%EC%82%BC%EC%9D%8C%EB%A3%8C%20120ML%20X%2012%EB%B3%91.jpg",
+   "id": "item:692559",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11989",
+     "salePrice": 19490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "676270",
+   "name": "세노비스 아연 면역 구미 60 구미",
+   "category": "건강 · 미용",
+   "salePrice": 23990,
+   "originalPrice": 29990,
+   "discount": 6000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%84%B8%EB%85%B8%EB%B9%84%EC%8A%A4%20%EC%95%84%EC%97%B0%20%EB%A9%B4%EC%97%AD%20%EA%B5%AC%EB%AF%B8%2060%20%EA%B5%AC%EB%AF%B8.jpg",
+   "id": "item:676270",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8921",
+     "salePrice": 23990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "673257",
+   "name": "얌그루 어린이눈건강구미 90구미",
+   "category": "건강 · 미용",
+   "salePrice": 15990,
+   "originalPrice": 19990,
+   "discount": 4000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%96%8C%EA%B7%B8%EB%A3%A8%20%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%88%88%EA%B1%B4%EA%B0%95%EA%B5%AC%EB%AF%B8%2090%EA%B5%AC%EB%AF%B8.jpg",
+   "id": "item:673257",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7722",
+     "salePrice": 15990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "677986",
+   "name": "얼라이브 삼부커스 엘더베리 110구미",
+   "category": "건강 · 미용",
+   "salePrice": 21490,
+   "originalPrice": 27990,
+   "discount": 6500,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%96%BC%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%82%BC%EB%B6%80%EC%BB%A4%EC%8A%A4%20%EC%97%98%EB%8D%94%EB%B2%A0%EB%A6%AC%20110%EA%B5%AC%EB%AF%B8.jpg",
+   "id": "item:677986",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9045",
+     "salePrice": 21490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "684065",
+   "name": "자미에슨츄어블 비타민 B 92정",
+   "category": "건강 · 미용",
+   "salePrice": 19490,
+   "originalPrice": 25990,
+   "discount": 6500,
+   "discountRate": 25,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%9E%90%EB%AF%B8%EC%97%90%EC%8A%A8%EC%B8%84%EC%96%B4%EB%B8%94%20%EB%B9%84%ED%83%80%EB%AF%BC%20B%2092%EC%A0%95.jpg",
+   "id": "item:684065",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11093",
+     "salePrice": 19490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "667452",
+   "name": "자미에슨츄어블 비타민 D 2500IU 75정 X 2병",
+   "category": "건강 · 미용",
+   "salePrice": 18990,
+   "originalPrice": 24990,
+   "discount": 6000,
+   "discountRate": 24,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%9E%90%EB%AF%B8%EC%97%90%EC%8A%A8%EC%B8%84%EC%96%B4%EB%B8%94%20%EB%B9%84%ED%83%80%EB%AF%BC%20D%202500IU%2075%EC%A0%95%20X%202%EB%B3%91.jpg",
+   "id": "item:667452",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10746",
+     "salePrice": 18990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "511711",
+   "name": "정관장 홍삼정 현 120G",
+   "category": "건강 · 미용",
+   "salePrice": 30390,
+   "originalPrice": 37990,
+   "discount": 7600,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%A0%95%EA%B4%80%EC%9E%A5%20%ED%99%8D%EC%82%BC%EC%A0%95%20%ED%98%84%20120G.jpg",
+   "id": "item:511711",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1224",
+     "salePrice": 30390,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "674687",
+   "name": "종근당건강 키즈 홍삼 튼튼업 20ML X 30포",
+   "category": "건강 · 미용",
+   "salePrice": 26990,
+   "originalPrice": 33990,
+   "discount": 7000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EC%A2%85%EA%B7%BC%EB%8B%B9%EA%B1%B4%EA%B0%95%20%ED%82%A4%EC%A6%88%20%ED%99%8D%EC%82%BC%20%ED%8A%BC%ED%8A%BC%EC%97%85%2020ML%20X%2030%ED%8F%AC.jpg",
+   "id": "item:674687",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11142",
+     "salePrice": 26990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "663070",
+   "name": "AESTURA 에스트라 아토베리어365 크림플러스 90ML X 2",
+   "category": "건강 · 미용",
+   "salePrice": 45990,
+   "originalPrice": 57990,
+   "discount": 12000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/AESTURA%20%EC%97%90%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%EC%95%84%ED%86%A0%EB%B2%A0%EB%A6%AC%EC%96%B4365%20%ED%81%AC%EB%A6%BC%ED%94%8C%EB%9F%AC%EC%8A%A4%2090ML%20X%202.jpg",
+   "id": "item:663070",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6538",
+     "salePrice": 45990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "697593",
+   "name": "BEBESUP 베베숲 소프트페이스 타올 50매 X 4",
+   "category": "건강 · 미용",
+   "salePrice": 14990,
+   "originalPrice": 18990,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BEBESUP%20%EB%B2%A0%EB%B2%A0%EC%88%B2%20%EC%86%8C%ED%94%84%ED%8A%B8%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%83%80%EC%98%AC%2050%EB%A7%A4%20X%204.jpg",
+   "id": "item:697593",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12398",
+     "salePrice": 14990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693896",
+   "name": "BELIF 빌리프 아쿠아 밤 아이 젤 듀오 15ML X 2",
+   "category": "건강 · 미용",
+   "salePrice": 31990,
+   "originalPrice": 39990,
+   "discount": 8000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/BELIF%20%EB%B9%8C%EB%A6%AC%ED%94%84%20%EC%95%84%EC%BF%A0%EC%95%84%20%EB%B0%A4%20%EC%95%84%EC%9D%B4%20%EC%A0%A4%20%EB%93%80%EC%98%A4%2015ML%20X%202.jpg",
+   "id": "item:693896",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11767",
+     "salePrice": 31990,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "602630",
+   "name": "BIODERMA 바이오더마 아토덤 울트라크림 500ML X 2개",
+   "category": "건강 · 미용",
+   "salePrice": 27990,
+   "originalPrice": 34990,
+   "discount": 7000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/BIODERMA%20%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8D%94%EB%A7%88%20%EC%95%84%ED%86%A0%EB%8D%A4%20%EC%9A%B8%ED%8A%B8%EB%9D%BC%ED%81%AC%EB%A6%BC%20500ML%20X%202%EA%B0%9C.jpg",
+   "id": "item:602630",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/6160",
+     "salePrice": 27990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "515806",
+   "name": "CENOVIS 트리플러스 1,150MG X 100캡슐",
+   "category": "건강 · 미용",
+   "salePrice": 23490,
+   "originalPrice": 29490,
+   "discount": 6000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/CENOVIS%20%ED%8A%B8%EB%A6%AC%ED%94%8C%EB%9F%AC%EC%8A%A4%201150MG%20X%20100%EC%BA%A1%EC%8A%90.jpg",
+   "id": "item:515806",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1735",
+     "salePrice": 23490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "686070",
+   "name": "CJ 아이시안 루테인지아잔틴 120캡슐",
+   "category": "건강 · 미용",
+   "salePrice": 23990,
+   "originalPrice": 29990,
+   "discount": 6000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/CJ%20%EC%95%84%EC%9D%B4%EC%8B%9C%EC%95%88%20%EB%A3%A8%ED%85%8C%EC%9D%B8%EC%A7%80%EC%95%84%EC%9E%94%ED%8B%B4%20120%EC%BA%A1%EC%8A%90.jpg",
+   "id": "item:686070",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10075",
+     "salePrice": 23990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "649540",
+   "name": "CJ 웰케어리턴업 전립소+옥타코사놀 800MG X 90캡슐",
+   "category": "건강 · 미용",
+   "salePrice": 25990,
+   "originalPrice": 32990,
+   "discount": 7000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/CJ%20%EC%9B%B0%EC%BC%80%EC%96%B4%EB%A6%AC%ED%84%B4%EC%97%85%20%EC%A0%84%EB%A6%BD%EC%86%8C_%EC%98%A5%ED%83%80%EC%BD%94%EC%82%AC%EB%86%80%20800MG%20X%2090%EC%BA%A1%EC%8A%90.jpg",
+   "id": "item:649540",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/4019",
+     "salePrice": 25990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "650725",
+   "name": "CJ BYO 생유산균프리미엄 50캡슐 X 2병",
+   "category": "건강 · 미용",
+   "salePrice": 35990,
+   "originalPrice": 44990,
+   "discount": 9000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/CJ%20BYO%20%EC%83%9D%EC%9C%A0%EC%82%B0%EA%B7%A0%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%2050%EC%BA%A1%EC%8A%90%20X%202%EB%B3%91.jpg",
+   "id": "item:650725",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2231",
+     "salePrice": 35990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "571123",
+   "name": "DEPEND 디펜드 프리미엄성인용기저귀 40개",
+   "category": "건강 · 미용",
+   "salePrice": 25990,
+   "originalPrice": 32990,
+   "discount": 7000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/DEPEND%20%EB%94%94%ED%8E%9C%EB%93%9C%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%84%B1%EC%9D%B8%EC%9A%A9%EA%B8%B0%EC%A0%80%EA%B7%80%2040%EA%B0%9C.jpg",
+   "id": "item:571123",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12146",
+     "salePrice": 25990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "690378",
+   "name": "DOMINAS 도미나스 하이퍼 피토닝 앰플 20ML + 7ML X 2",
+   "category": "건강 · 미용",
+   "salePrice": 31990,
+   "originalPrice": 39990,
+   "discount": 8000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/DOMINAS%20%EB%8F%84%EB%AF%B8%EB%82%98%EC%8A%A4%20%ED%95%98%EC%9D%B4%ED%8D%BC%20%ED%94%BC%ED%86%A0%EB%8B%9D%20%EC%95%B0%ED%94%8C%2020ML%20_%207ML%20X%202.jpg",
+   "id": "item:690378",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10823",
+     "salePrice": 31990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "638710",
+   "name": "DR.G 닥터지 레드블레미쉬 수딩크림50X2+10X2",
+   "category": "건강 · 미용",
+   "salePrice": 17990,
+   "originalPrice": 22990,
+   "discount": 5000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/DR.G%20%EB%8B%A5%ED%84%B0%EC%A7%80%20%EB%A0%88%EB%93%9C%EB%B8%94%EB%A0%88%EB%AF%B8%EC%89%AC%20%EC%88%98%EB%94%A9%ED%81%AC%EB%A6%BC50X2_10X2.jpg",
+   "id": "item:638710",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/1793",
+     "salePrice": 17990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "614046",
+   "name": "EUCERIN 유세린 하이알루론 아이크림 15ML X 2개",
+   "category": "건강 · 미용",
+   "salePrice": 45990,
+   "originalPrice": 57990,
+   "discount": 12000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/EUCERIN%20%EC%9C%A0%EC%84%B8%EB%A6%B0%20%ED%95%98%EC%9D%B4%EC%95%8C%EB%A3%A8%EB%A1%A0%20%EC%95%84%EC%9D%B4%ED%81%AC%EB%A6%BC%2015ML%20X%202%EA%B0%9C%20.jpg",
+   "id": "item:614046",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/206",
+     "salePrice": 45990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "698042",
+   "name": "GOODFEEL 좋은느낌 유기농순면 수퍼롱 오버나이트 40개",
+   "category": "건강 · 미용",
+   "salePrice": 13490,
+   "originalPrice": 16990,
+   "discount": 3500,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/GOODFEEL%20%EC%A2%8B%EC%9D%80%EB%8A%90%EB%82%8C%20%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%88%9C%EB%A9%B4%20%EC%88%98%ED%8D%BC%EB%A1%B1%20%EC%98%A4%EB%B2%84%EB%82%98%EC%9D%B4%ED%8A%B8%2040%EA%B0%9C.jpg",
+   "id": "item:698042",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11109",
+     "salePrice": 13490,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "685320",
+   "name": "JUNGSAEMMOOL 정샘물 스킨 누더 쿠션 14G + 리필 14G",
+   "category": "건강 · 미용",
+   "salePrice": 29490,
+   "originalPrice": 36990,
+   "discount": 7500,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/JUNGSAEMMOOL%20%EC%A0%95%EC%83%98%EB%AC%BC%20%EC%8A%A4%ED%82%A8%20%EB%88%84%EB%8D%94%20%EC%BF%A0%EC%85%98%2014G%20_%20%EB%A6%AC%ED%95%84%2014G.jpg",
+   "id": "item:685320",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12388",
+     "salePrice": 29490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "574962",
+   "name": "LISTERINE 리스테린 구강청결제 1.5L X 2개",
+   "category": "건강 · 미용",
+   "salePrice": 15490,
+   "originalPrice": 19990,
+   "discount": 4500,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/LISTERINE%20%EB%A6%AC%EC%8A%A4%ED%85%8C%EB%A6%B0%20%EA%B5%AC%EA%B0%95%EC%B2%AD%EA%B2%B0%EC%A0%9C%2015L%20X%202%EA%B0%9C.jpg",
+   "id": "item:574962",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/751",
+     "salePrice": 15490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "696599",
+   "name": "LOREAL 로레알 헤어 밀크 90ML X 2개",
+   "category": "건강 · 미용",
+   "salePrice": 19990,
+   "originalPrice": 24990,
+   "discount": 5000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/LOREAL%20%EB%A1%9C%EB%A0%88%EC%95%8C%20%ED%97%A4%EC%96%B4%20%EB%B0%80%ED%81%AC%2090ML%20X%202%EA%B0%9C.jpg",
+   "id": "item:696599",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12400",
+     "salePrice": 19990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "694217",
+   "name": "ORAL B 오랄비 전동 칫솔 IO 센서티브 클린",
+   "category": "건강 · 미용",
+   "salePrice": 79900,
+   "originalPrice": 99900,
+   "discount": 20000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/ORAL%20B%20%EC%98%A4%EB%9E%84%EB%B9%84%20%EC%A0%84%EB%8F%99%20%EC%B9%AB%EC%86%94%20IO%20%EC%84%BC%EC%84%9C%ED%8B%B0%EB%B8%8C%20%ED%81%B4%EB%A6%B0.jpg",
+   "id": "item:694217",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11409",
+     "salePrice": 79900,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "668782",
+   "name": "PHILIPS필립스 휴대용 구강세정기 2인용 세트",
+   "category": "건강 · 미용",
+   "salePrice": 135900,
+   "originalPrice": 169900,
+   "discount": 34000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-13",
+   "image": "https://image.cocodalin.com/product/sm/PHILIPS%ED%95%84%EB%A6%BD%EC%8A%A4%20%ED%9C%B4%EB%8C%80%EC%9A%A9%20%EA%B5%AC%EA%B0%95%EC%84%B8%EC%A0%95%EA%B8%B0%202%EC%9D%B8%EC%9A%A9%20%EC%84%B8%ED%8A%B8.jpg",
+   "id": "item:668782",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/7325",
+     "salePrice": 135900,
+     "endDate": "2026-12-13",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693675",
+   "name": "SENKA 센카 퍼펙트 휩 클렌저 120G X 3 + 50G",
+   "category": "건강 · 미용",
+   "salePrice": 15490,
+   "originalPrice": 19490,
+   "discount": 4000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/SENKA%20%EC%84%BC%EC%B9%B4%20%ED%8D%BC%ED%8E%99%ED%8A%B8%20%ED%9C%A9%20%ED%81%B4%EB%A0%8C%EC%A0%80%20120G%20X%203%20_%2050G.jpg",
+   "id": "item:693675",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11376",
+     "salePrice": 15490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "689927",
+   "name": "SENSODYNE센소다인 딥클린칫솔 24개입",
+   "category": "건강 · 미용",
+   "salePrice": 22990,
+   "originalPrice": 28990,
+   "discount": 6000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/SENSODYNE%EC%84%BC%EC%86%8C%EB%8B%A4%EC%9D%B8%20%EB%94%A5%ED%81%B4%EB%A6%B0%EC%B9%AB%EC%86%94%2024%EA%B0%9C%EC%9E%85.jpg",
+   "id": "item:689927",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12389",
+     "salePrice": 22990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "695737",
+   "name": "SENSODYNE센소다인 멀티케어 EX 치약 100G X 5개",
+   "category": "건강 · 미용",
+   "salePrice": 17490,
+   "originalPrice": 22990,
+   "discount": 5500,
+   "discountRate": 24,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/SENSODYNE%EC%84%BC%EC%86%8C%EB%8B%A4%EC%9D%B8%20%EB%A9%80%ED%8B%B0%EC%BC%80%EC%96%B4%20EX%20%EC%B9%98%EC%95%BD%20100G%20X%205%EA%B0%9C.jpg",
+   "id": "item:695737",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12013",
+     "salePrice": 17490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692087",
+   "name": "WEIDER웨이더 크레아틴 800G,레몬맛",
+   "category": "건강 · 미용",
+   "salePrice": 24990,
+   "originalPrice": 29990,
+   "discount": 5000,
+   "discountRate": 17,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/WEIDER%EC%9B%A8%EC%9D%B4%EB%8D%94%20%ED%81%AC%EB%A0%88%EC%95%84%ED%8B%B4%20800G,%EB%A0%88%EB%AA%AC%EB%A7%9B.jpg",
+   "id": "item:692087",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12402",
+     "salePrice": 24990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "678170",
+   "name": "WELLAGE 웰라쥬 히알루로닉 블루 앰플 100ML + 60ML",
+   "category": "건강 · 미용",
+   "salePrice": 19990,
+   "originalPrice": 24990,
+   "discount": 5000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/WELLAGE%20%EC%9B%B0%EB%9D%BC%EC%A5%AC%20%ED%9E%88%EC%95%8C%EB%A3%A8%EB%A1%9C%EB%8B%89%20%EB%B8%94%EB%A3%A8%20%EC%95%B0%ED%94%8C%20100ML%20_%2060ML.jpg",
+   "id": "item:678170",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8851",
+     "salePrice": 19990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "696149",
+   "name": "ZIAJA 지아자 산양유 나이트크림 50ML X 4",
+   "category": "건강 · 미용",
+   "salePrice": 12490,
+   "originalPrice": 15990,
+   "discount": 3500,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/ZIAJA%20%EC%A7%80%EC%95%84%EC%9E%90%20%EC%82%B0%EC%96%91%EC%9C%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8%ED%81%AC%EB%A6%BC%2050ML%20X%204.jpg",
+   "id": "item:696149",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12399",
+     "salePrice": 12490,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "678727",
+   "name": "로트벡쉔 그로우업 샷 60ML X 30병",
+   "category": "건강 · 미용",
+   "salePrice": 127900,
+   "originalPrice": 159900,
+   "discount": 32000,
+   "discountRate": 20,
+   "startDate": "2026-11-21",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A1%9C%ED%8A%B8%EB%B2%A1%EC%89%94%20%EA%B7%B8%EB%A1%9C%EC%9A%B0%EC%97%85%20%EC%83%B7%2060ML%20X%2030%EB%B3%91.jpg",
+   "id": "item:678727",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9544",
+     "salePrice": 127900,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "598021",
+   "name": "동화약품 부채표 까스 활 75ML X 10병 X 2개",
+   "category": "건강 · 미용",
+   "salePrice": 12790,
+   "originalPrice": 15990,
+   "discount": 3200,
+   "discountRate": 20,
+   "startDate": "2026-11-20",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EB%8F%99%ED%99%94%EC%95%BD%ED%92%88%20%EB%B6%80%EC%B1%84%ED%91%9C%20%EA%B9%8C%EC%8A%A4%20%ED%99%9C%2075ML%20X%2010%EB%B3%91%20X%202%EA%B0%9C.jpg",
+   "id": "item:598021",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2067",
+     "salePrice": 12790,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "682527",
+   "name": "마스터바이옴 지노마스터 170MG X 56캡슐",
+   "category": "건강 · 미용",
+   "salePrice": 38390,
+   "originalPrice": 47990,
+   "discount": 9600,
+   "discountRate": 20,
+   "startDate": "2026-11-20",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%EB%A7%88%EC%8A%A4%ED%84%B0%EB%B0%94%EC%9D%B4%EC%98%B4%20%EC%A7%80%EB%85%B8%EB%A7%88%EC%8A%A4%ED%84%B0%20170MG%20X%2056%EC%BA%A1%EC%8A%90.jpg",
+   "id": "item:682527",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9736",
+     "salePrice": 38390,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "691909",
+   "name": "안국건강 하이퍼멜팅마그네슘 3G X 100포",
+   "category": "건강 · 미용",
+   "salePrice": 22390,
+   "originalPrice": 27990,
+   "discount": 5600,
+   "discountRate": 20,
+   "startDate": "2026-11-20",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/%EC%95%88%EA%B5%AD%EA%B1%B4%EA%B0%95%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A9%9C%ED%8C%85%EB%A7%88%EA%B7%B8%EB%84%A4%EC%8A%98%203G%20X%20100%ED%8F%AC.jpg",
+   "id": "item:691909",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11258",
+     "salePrice": 22390,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692899",
+   "name": "프롬바이오 관절연골엔보스웰리아 850MG X 120정",
+   "category": "건강 · 미용",
+   "salePrice": 23990,
+   "originalPrice": 29990,
+   "discount": 6000,
+   "discountRate": 20,
+   "startDate": "2026-11-20",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%94%84%EB%A1%AC%EB%B0%94%EC%9D%B4%EC%98%A4%20%EA%B4%80%EC%A0%88%EC%97%B0%EA%B3%A8%EC%97%94%EB%B3%B4%EC%8A%A4%EC%9B%B0%EB%A6%AC%EC%95%84%20850MG%20X%20120%EC%A0%95.jpg",
+   "id": "item:692899",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12401",
+     "salePrice": 23990,
+     "endDate": "2026-12-06",
      "store": null
     }
    ]
@@ -5976,6 +11872,374 @@
   },
   {
    "source": "cocodalin",
+   "itemNo": "1851473",
+   "name": "크리스마스 장식 강아지 모형 높이 65CM",
+   "category": "공구 · 문구",
+   "salePrice": 51990,
+   "originalPrice": 66990,
+   "discount": 15000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20%EA%B0%95%EC%95%84%EC%A7%80%20%EB%AA%A8%ED%98%95%20%EB%86%92%EC%9D%B4%2065CM.jpg",
+   "id": "item:1851473",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10202",
+     "salePrice": 51990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693582",
+   "name": "크리스마스 장식 기프트 샵 높이 27CM",
+   "category": "공구 · 문구",
+   "salePrice": 29990,
+   "originalPrice": 45990,
+   "discount": 16000,
+   "discountRate": 35,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20%EA%B8%B0%ED%94%84%ED%8A%B8%20%EC%83%B5%20%EB%86%92%EC%9D%B4%2027CM.jpg",
+   "id": "item:693582",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12331",
+     "salePrice": 29990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "692831",
+   "name": "크리스마스 장식 뜨개 인형 2개 / 1세트",
+   "category": "공구 · 문구",
+   "salePrice": 20990,
+   "originalPrice": 26990,
+   "discount": 6000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20%EB%9C%A8%EA%B0%9C%20%EC%9D%B8%ED%98%95%202%EA%B0%9C%20_%201%EC%84%B8%ED%8A%B8.jpg",
+   "id": "item:692831",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12201",
+     "salePrice": 20990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "693793",
+   "name": "크리스마스 장식 산타와 핫초코 2개 / 1세트",
+   "category": "공구 · 문구",
+   "salePrice": 29990,
+   "originalPrice": 39990,
+   "discount": 10000,
+   "discountRate": 25,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20%EC%82%B0%ED%83%80%EC%99%80%20%ED%95%AB%EC%B4%88%EC%BD%94%202%EA%B0%9C%20_%201%EC%84%B8%ED%8A%B8.jpg",
+   "id": "item:693793",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12396",
+     "salePrice": 29990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1929698",
+   "name": "크리스마스 장식 회전 오너먼트 높이 1.6M",
+   "category": "공구 · 문구",
+   "salePrice": 229990,
+   "originalPrice": 289990,
+   "discount": 60000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20%ED%9A%8C%EC%A0%84%20%EC%98%A4%EB%84%88%EB%A8%BC%ED%8A%B8%20%EB%86%92%EC%9D%B4%201.6M.jpg",
+   "id": "item:1929698",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12328",
+     "salePrice": 229990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1929701",
+   "name": "크리스마스 장식 LED 북극곰 2개 / 1세트",
+   "category": "공구 · 문구",
+   "salePrice": 199990,
+   "originalPrice": 249990,
+   "discount": 50000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20LED%20%EB%B6%81%EA%B7%B9%EA%B3%B0%202%EA%B0%9C%20_%201%EC%84%B8%ED%8A%B8.jpg",
+   "id": "item:1929701",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12327",
+     "salePrice": 199990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1851592",
+   "name": "크리스마스 장식 LED 우든 아이콘 2개 / 1세트",
+   "category": "공구 · 문구",
+   "salePrice": 24990,
+   "originalPrice": 33990,
+   "discount": 9000,
+   "discountRate": 26,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20LED%20%EC%9A%B0%EB%93%A0%20%EC%95%84%EC%9D%B4%EC%BD%98%202%EA%B0%9C%20_%201%EC%84%B8%ED%8A%B8.jpg",
+   "id": "item:1851592",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12204",
+     "salePrice": 24990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1929704",
+   "name": "크리스마스 장식 LED 캔디 케인 높이 1.8M",
+   "category": "공구 · 문구",
+   "salePrice": 199990,
+   "originalPrice": 319990,
+   "discount": 120000,
+   "discountRate": 38,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%9E%A5%EC%8B%9D%20LED%20%EC%BA%94%EB%94%94%20%EC%BC%80%EC%9D%B8%20%EB%86%92%EC%9D%B4%201.8M.jpg",
+   "id": "item:1929704",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12310",
+     "salePrice": 199990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1785046",
+   "name": "크리스마스 트리 LED 전구 포함 높이 1.3M",
+   "category": "공구 · 문구",
+   "salePrice": 129990,
+   "originalPrice": 159990,
+   "discount": 30000,
+   "discountRate": 19,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC%20LED%20%EC%A0%84%EA%B5%AC%20%ED%8F%AC%ED%95%A8%20%EB%86%92%EC%9D%B4%201.3M.jpg",
+   "id": "item:1785046",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10210",
+     "salePrice": 129990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1785079",
+   "name": "크리스마스 트리 LED 전구 포함 높이 1.9M",
+   "category": "공구 · 문구",
+   "salePrice": 319990,
+   "originalPrice": 419990,
+   "discount": 100000,
+   "discountRate": 24,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC%20LED%20%EC%A0%84%EA%B5%AC%20%ED%8F%AC%ED%95%A8%20%EB%86%92%EC%9D%B4%201.9M%20_%201785079.jpg",
+   "id": "item:1785079",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10253",
+     "salePrice": 319990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1739980",
+   "name": "크리스마스 트리 LED 전구 포함 높이 2.2M",
+   "category": "공구 · 문구",
+   "salePrice": 419990,
+   "originalPrice": 559990,
+   "discount": 140000,
+   "discountRate": 25,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC%20LED%20%EC%A0%84%EA%B5%AC%20%ED%8F%AC%ED%95%A8%20%EB%86%92%EC%9D%B4%202.2M.jpg",
+   "id": "item:1739980",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10211",
+     "salePrice": 419990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1785051",
+   "name": "크리스마스 트리 LED 전구 포함 높이 2.7M",
+   "category": "공구 · 문구",
+   "salePrice": 729990,
+   "originalPrice": 929990,
+   "discount": 200000,
+   "discountRate": 22,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC%20LED%20%EC%A0%84%EA%B5%AC%20%ED%8F%AC%ED%95%A8%20%EB%86%92%EC%9D%B4%202.7M.jpg",
+   "id": "item:1785051",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10254",
+     "salePrice": 729990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "694005",
+   "name": "포켓몬 POKEMON 메타몽 3종 세트",
+   "category": "공구 · 문구",
+   "salePrice": 39990,
+   "originalPrice": 49990,
+   "discount": 10000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/%ED%8F%AC%EC%BC%93%EB%AA%AC%20POKEMON%20%EB%A9%94%ED%83%80%EB%AA%BD%203%EC%A2%85%20%EC%84%B8%ED%8A%B8.jpg",
+   "id": "item:694005",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12395",
+     "salePrice": 39990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "683076",
+   "name": "HASBRO 해즈브로 플레이도 점보 컬러 컬렉션 65캔",
+   "category": "공구 · 문구",
+   "salePrice": 18990,
+   "originalPrice": 23990,
+   "discount": 5000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/HASBRO%20%ED%95%B4%EC%A6%88%EB%B8%8C%EB%A1%9C%20%ED%94%8C%EB%A0%88%EC%9D%B4%EB%8F%84%20%EC%A0%90%EB%B3%B4%20%EC%BB%AC%EB%9F%AC%20%EC%BB%AC%EB%A0%89%EC%85%98%2065%EC%BA%94.jpg",
+   "id": "item:683076",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/10692",
+     "salePrice": 18990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "684110",
+   "name": "KARCHER 고압세척기 K4 CONTROL FLEX",
+   "category": "공구 · 문구",
+   "salePrice": 279990,
+   "originalPrice": 349990,
+   "discount": 70000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/KARCHER%20%EA%B3%A0%EC%95%95%EC%84%B8%EC%B2%99%EA%B8%B0%20K4%20CONTROL%20FLEX.jpg",
+   "id": "item:684110",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/9527",
+     "salePrice": 279990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "672984",
+   "name": "KARCHER 카처 건 / 습식청소기 20리터",
+   "category": "공구 · 문구",
+   "salePrice": 159990,
+   "originalPrice": 199990,
+   "discount": 40000,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
+   "image": "https://image.cocodalin.com/product/sm/KARCHER%20%EC%B9%B4%EC%B2%98%20%EA%B1%B4%20_%20%EC%8A%B5%EC%8B%9D%EC%B2%AD%EC%86%8C%EA%B8%B0%2020%EB%A6%AC%ED%84%B0.jpg",
+   "id": "item:672984",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11552",
+     "salePrice": 159990,
+     "endDate": "2026-12-06",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
    "itemNo": "1851686",
    "name": "크리스마스 장식 눈사람 프로젝터 높이 26CM",
    "category": "공구 · 문구",
@@ -6235,30 +12499,6 @@
      "url": "https://costpick.co.kr/store-deals/674122",
      "salePrice": 36790,
      "endDate": "2026-11-29",
-     "store": "개봉역점"
-    }
-   ]
-  },
-  {
-   "source": "costpick",
-   "itemNo": "574784",
-   "name": "JOSE CUERVO 레포사도 데킬라 1L",
-   "brand": "JOSE CUERVO",
-   "category": "주류",
-   "salePrice": 29990,
-   "originalPrice": 43990,
-   "discount": 14000,
-   "discountRate": 32,
-   "startDate": null,
-   "endDate": "2026-11-23",
-   "image": "https://costpick.co.kr/images/thumbs/574784.jpg?v=1794898801605",
-   "id": "item:574784",
-   "refs": [
-    {
-     "site": "costpick",
-     "url": "https://costpick.co.kr/store-deals/574784",
-     "salePrice": 29990,
-     "endDate": "2026-11-23",
      "store": "개봉역점"
     }
    ]
@@ -6666,30 +12906,6 @@
      "site": "costpick",
      "url": "https://costpick.co.kr/store-deals/603722",
      "salePrice": 18790,
-     "endDate": "2026-12-06",
-     "store": "개봉역점"
-    }
-   ]
-  },
-  {
-   "source": "costpick",
-   "itemNo": "694926",
-   "name": "SAMSUNG UHD TV 75형 189CM",
-   "brand": "SAMSUNG UHD TV",
-   "category": "디지털·가전",
-   "salePrice": 1099000,
-   "originalPrice": 1659000,
-   "discount": 560000,
-   "discountRate": 34,
-   "startDate": null,
-   "endDate": "2026-12-06",
-   "image": "https://costpick.co.kr/images/thumbs/694926.jpg?v=1794898801605",
-   "id": "item:694926",
-   "refs": [
-    {
-     "site": "costpick",
-     "url": "https://costpick.co.kr/store-deals/694926",
-     "salePrice": 1099000,
      "endDate": "2026-12-06",
      "store": "개봉역점"
     }

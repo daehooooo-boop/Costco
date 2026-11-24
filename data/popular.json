@@ -1,7 +1,31 @@
 {
- "updatedAt": "2026-11-23T02:10:39.888Z",
+ "updatedAt": "2026-11-24T05:44:20.197Z",
  "basis": "코코달인 인기상품 순위",
  "items": [
+  {
+   "source": "cocodalin",
+   "itemNo": "668884",
+   "name": "꼬막 비빔밥",
+   "category": "신선식품 · 빵",
+   "salePrice": null,
+   "originalPrice": null,
+   "discount": 3000,
+   "discountRate": null,
+   "startDate": "2026-11-16",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/md/%EA%BC%AC%EB%A7%89%20%EB%B9%84%EB%B9%94%EB%B0%A5.jpg",
+   "rank": 1,
+   "id": "item:668884",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/2896",
+     "salePrice": null,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
   {
    "source": "cocodalin",
    "itemNo": "680239",
@@ -14,7 +38,7 @@
    "startDate": "2026-11-02",
    "endDate": "2026-11-29",
    "image": "https://image.cocodalin.com/product/md/%ED%81%AC%EB%9D%BC%EC%8A%A4%ED%83%84%20%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B3%B4%EB%A6%AC%EC%B0%A8%20200G.jpg",
-   "rank": 1,
+   "rank": 2,
    "id": "item:680239",
    "refs": [
     {
@@ -28,39 +52,15 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "620217",
-   "name": "KRONEBOURG 1664 블랑 캔맥주 330ML X 12캔",
-   "category": "음료 · 주류",
-   "salePrice": 10490,
-   "originalPrice": 14790,
-   "discount": 4300,
-   "discountRate": 29,
-   "startDate": "2026-10-19",
-   "endDate": "2026-11-23",
-   "image": "https://image.cocodalin.com/product/md/KRONEBOURG%201664%20%EB%B8%94%EB%9E%91%20%EC%BA%94%EB%A7%A5%EC%A3%BC.jpg",
-   "rank": 2,
-   "id": "item:620217",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/1315",
-     "salePrice": 10490,
-     "endDate": "2026-11-23",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
    "itemNo": "660606",
    "name": "BOSCH보쉬 활성탄에어컨필터 2개",
    "category": "생활용품",
-   "salePrice": 20490,
+   "salePrice": 19990,
    "originalPrice": 25990,
-   "discount": 5500,
-   "discountRate": 21,
-   "startDate": "2026-05-04",
-   "endDate": "2029-05-17",
+   "discount": 6000,
+   "discountRate": 23,
+   "startDate": "2026-11-23",
+   "endDate": "2026-12-06",
    "image": "https://image.cocodalin.com/product/md/BOSCH%EB%B3%B4%EC%89%AC%20%ED%99%9C%EC%84%B1%ED%83%84%EC%97%90%EC%96%B4%EC%BB%A8%ED%95%84%ED%84%B0%202%EA%B0%9C.jpg",
    "rank": 3,
    "id": "item:660606",
@@ -68,8 +68,8 @@
     {
      "site": "cocodalin",
      "url": "https://cocodalin.com/product/1030",
-     "salePrice": 20490,
-     "endDate": "2029-05-17",
+     "salePrice": 19990,
+     "endDate": "2026-12-06",
      "store": null
     }
    ]
@@ -100,30 +100,6 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "668884",
-   "name": "꼬막 비빔밥",
-   "category": "신선식품 · 빵",
-   "salePrice": null,
-   "originalPrice": null,
-   "discount": 3000,
-   "discountRate": null,
-   "startDate": "2026-11-16",
-   "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/%EA%BC%AC%EB%A7%89%20%EB%B9%84%EB%B9%94%EB%B0%A5.jpg",
-   "rank": 5,
-   "id": "item:668884",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/2896",
-     "salePrice": null,
-     "endDate": "2026-11-29",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
    "itemNo": "567100",
    "name": "OTTAVIO 포도씨유 1L X 4",
    "category": "가공식품",
@@ -134,7 +110,7 @@
    "startDate": "2026-11-09",
    "endDate": "2026-11-29",
    "image": "https://image.cocodalin.com/product/md/OTTAVIO%ED%8F%AC%ED%86%A0%EC%94%A8%EC%9C%A01LX4.jpg",
-   "rank": 6,
+   "rank": 5,
    "id": "item:567100",
    "refs": [
     {
@@ -158,7 +134,7 @@
    "startDate": "2026-10-28",
    "endDate": "2026-11-30",
    "image": "https://image.cocodalin.com/product/md/HEINEKEN%20%EC%BA%94%EB%A7%A5%EC%A3%BC%20500ML%20X%208%EC%BA%94.jpg",
-   "rank": 7,
+   "rank": 6,
    "id": "item:584857",
    "refs": [
     {
@@ -182,7 +158,7 @@
    "startDate": "2026-11-02",
    "endDate": "2026-11-29",
    "image": "https://image.cocodalin.com/product/md/%EC%98%81%EC%95%94%EA%B3%A0%EA%B5%AC%EB%A7%88%201%EB%B0%95%EC%8A%A4%20(5KG)%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
-   "rank": 8,
+   "rank": 7,
    "id": "item:698386",
    "refs": [
     {
@@ -196,23 +172,23 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "520440",
-   "name": "삼육두유 국산 검은콩 두유 190ML X 24",
-   "category": "음료 · 주류",
-   "salePrice": 14390,
-   "originalPrice": 17990,
-   "discount": 3600,
+   "itemNo": "598362",
+   "name": "손질고등어 원산지:국산 1KG",
+   "category": "신선식품 · 빵",
+   "salePrice": 11190,
+   "originalPrice": 13990,
+   "discount": 2800,
    "discountRate": 20,
-   "startDate": "2026-11-02",
+   "startDate": "2026-11-23",
    "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/%EC%82%BC%EC%9C%A1%EB%91%90%EC%9C%A0%20%EA%B5%AD%EC%82%B0%20%EA%B2%80%EC%9D%80%EC%BD%A9%20%EB%91%90%EC%9C%A0%20190ML%20X%2024.jpg",
-   "rank": 9,
-   "id": "item:520440",
+   "image": "https://image.cocodalin.com/product/md/%EC%86%90%EC%A7%88%EA%B3%A0%EB%93%B1%EC%96%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%201KG.jpg",
+   "rank": 8,
+   "id": "item:598362",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/659",
-     "salePrice": 14390,
+     "url": "https://cocodalin.com/product/8422",
+     "salePrice": 11190,
      "endDate": "2026-11-29",
      "store": null
     }
@@ -220,23 +196,47 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "686609",
-   "name": "CASS 캔맥주 472ML X 20캔",
-   "category": "음료 · 주류",
-   "salePrice": 27990,
-   "originalPrice": 29990,
-   "discount": 2000,
-   "discountRate": 7,
-   "startDate": "2026-11-02",
+   "itemNo": "653874",
+   "name": "수플레치즈케익 SOUFFLE CHEESE CAKE",
+   "category": "신선식품 · 빵",
+   "salePrice": 15490,
+   "originalPrice": 18990,
+   "discount": 3500,
+   "discountRate": 18,
+   "startDate": "2026-11-23",
    "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/CASS%20%EC%BA%94%EB%A7%A5%EC%A3%BC%20472ML%20X%2020%EC%BA%94.jpg",
-   "rank": 10,
-   "id": "item:686609",
+   "image": "https://image.cocodalin.com/product/md/%EC%88%98%ED%94%8C%EB%A0%88%EC%B9%98%EC%A6%88%EC%BC%80%EC%9E%84%20SOUFFLE%20CHEESE%20CAKE.jpg",
+   "rank": 9,
+   "id": "item:653874",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/11238",
-     "salePrice": 27990,
+     "url": "https://cocodalin.com/product/905",
+     "salePrice": 15490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "606480",
+   "name": "궁 골든올리브 육포 250G",
+   "category": "과자 · 간식",
+   "salePrice": 16690,
+   "originalPrice": 19990,
+   "discount": 3300,
+   "discountRate": 17,
+   "startDate": "2026-11-16",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/md/%EA%B6%81%20%EA%B3%A8%EB%93%A0%EC%98%AC%EB%A6%AC%EB%B8%8C%20%EC%9C%A1%ED%8F%AC%20250G.jpg",
+   "rank": 10,
+   "id": "item:606480",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/3727",
+     "salePrice": 16690,
      "endDate": "2026-11-29",
      "store": null
     }
