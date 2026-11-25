@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T05:44:20.197Z",
+ "updatedAt": "2026-11-25T04:45:43.173Z",
  "basis": "코코달인 인기상품 순위",
  "items": [
   {
@@ -124,24 +124,24 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "584857",
-   "name": "HEINEKEN 캔맥주 500ML X 8캔",
-   "category": "음료 · 주류",
-   "salePrice": 12690,
-   "originalPrice": 15990,
-   "discount": 3300,
-   "discountRate": 21,
-   "startDate": "2026-10-28",
-   "endDate": "2026-11-30",
-   "image": "https://image.cocodalin.com/product/md/HEINEKEN%20%EC%BA%94%EB%A7%A5%EC%A3%BC%20500ML%20X%208%EC%BA%94.jpg",
+   "itemNo": "598362",
+   "name": "손질고등어 원산지:국산 1KG",
+   "category": "신선식품 · 빵",
+   "salePrice": 11190,
+   "originalPrice": 13990,
+   "discount": 2800,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/md/%EC%86%90%EC%A7%88%EA%B3%A0%EB%93%B1%EC%96%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%201KG.jpg",
    "rank": 6,
-   "id": "item:584857",
+   "id": "item:598362",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/1075",
-     "salePrice": 12690,
-     "endDate": "2026-11-30",
+     "url": "https://cocodalin.com/product/8422",
+     "salePrice": 11190,
+     "endDate": "2026-11-29",
      "store": null
     }
    ]
@@ -172,24 +172,24 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "598362",
-   "name": "손질고등어 원산지:국산 1KG",
-   "category": "신선식품 · 빵",
-   "salePrice": 11190,
-   "originalPrice": 13990,
-   "discount": 2800,
-   "discountRate": 20,
-   "startDate": "2026-11-23",
-   "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/%EC%86%90%EC%A7%88%EA%B3%A0%EB%93%B1%EC%96%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%201KG.jpg",
+   "itemNo": "584857",
+   "name": "HEINEKEN 캔맥주 500ML X 8캔",
+   "category": "음료 · 주류",
+   "salePrice": 12690,
+   "originalPrice": 15990,
+   "discount": 3300,
+   "discountRate": 21,
+   "startDate": "2026-10-28",
+   "endDate": "2026-11-30",
+   "image": "https://image.cocodalin.com/product/md/HEINEKEN%20%EC%BA%94%EB%A7%A5%EC%A3%BC%20500ML%20X%208%EC%BA%94.jpg",
    "rank": 8,
-   "id": "item:598362",
+   "id": "item:584857",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/8422",
-     "salePrice": 11190,
-     "endDate": "2026-11-29",
+     "url": "https://cocodalin.com/product/1075",
+     "salePrice": 12690,
+     "endDate": "2026-11-30",
      "store": null
     }
    ]
@@ -220,24 +220,24 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "606480",
-   "name": "궁 골든올리브 육포 250G",
-   "category": "과자 · 간식",
-   "salePrice": 16690,
-   "originalPrice": 19990,
-   "discount": 3300,
-   "discountRate": 17,
-   "startDate": "2026-11-16",
-   "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/%EA%B6%81%20%EA%B3%A8%EB%93%A0%EC%98%AC%EB%A6%AC%EB%B8%8C%20%EC%9C%A1%ED%8F%AC%20250G.jpg",
+   "itemNo": "696160",
+   "name": "풀무원 진한콩 두부 380G X 2",
+   "category": "가공식품",
+   "salePrice": 2590,
+   "originalPrice": 3190,
+   "discount": 600,
+   "discountRate": 19,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-25",
+   "image": "https://image.cocodalin.com/product/md/%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%A7%84%ED%95%9C%EC%BD%A9%20%EB%91%90%EB%B6%80%20380G%20X%202.jpg",
    "rank": 10,
-   "id": "item:606480",
+   "id": "item:696160",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/3727",
-     "salePrice": 16690,
-     "endDate": "2026-11-29",
+     "url": "https://cocodalin.com/product/12366",
+     "salePrice": 2590,
+     "endDate": "2026-11-25",
      "store": null
     }
    ]

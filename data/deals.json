@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-24T05:44:20.197Z",
- "today": "2026-11-24",
- "count": 533,
+ "updatedAt": "2026-11-25T04:45:43.173Z",
+ "today": "2026-11-25",
+ "count": 531,
  "items": [
   {
    "source": "cocodalin",
@@ -732,29 +732,6 @@
     }
    ],
    "brand": null
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "672490",
-   "name": "DOLE 컷파인애플 (400G X 4EA)",
-   "category": "신선식품 · 빵",
-   "salePrice": 14490,
-   "originalPrice": 16990,
-   "discount": 2500,
-   "discountRate": 15,
-   "startDate": "2026-11-14",
-   "endDate": "2026-11-24",
-   "image": "https://image.cocodalin.com/product/sm/DOLE%20%EC%BB%B7%ED%8C%8C%EC%9D%B8%EC%95%A0%ED%94%8C%20(400G%20X%204EA).jpg",
-   "id": "item:672490",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/7847",
-     "salePrice": 14490,
-     "endDate": "2026-11-24",
-     "store": null
-    }
-   ]
   },
   {
    "source": "cocodalin",
@@ -4276,29 +4253,6 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "1165114",
-   "name": "KIRKLAND SIGNATURE 압착 사과주스 3.78L X 2",
-   "category": "음료 · 주류",
-   "salePrice": 11490,
-   "originalPrice": 18990,
-   "discount": 7500,
-   "discountRate": 39,
-   "startDate": "2026-11-19",
-   "endDate": "2026-11-24",
-   "image": "https://image.cocodalin.com/product/sm/KIRKLAND%20SIGNATURE%20%EC%95%95%EC%B0%A9%20%EC%82%AC%EA%B3%BC%EC%A3%BC%EC%8A%A4%203.78L%20X%202.jpg",
-   "id": "item:1165114",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/12254",
-     "salePrice": 11490,
-     "endDate": "2026-11-24",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
    "itemNo": "619895",
    "name": "토레타 과채이온음료 500ML X 20PK",
    "category": "음료 · 주류",
@@ -4482,6 +4436,29 @@
     }
    ],
    "brand": null
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "1165114",
+   "name": "KIRKLAND SIGNATURE 압착 사과주스 3.78L X 2",
+   "category": "음료 · 주류",
+   "salePrice": 15990,
+   "originalPrice": 18990,
+   "discount": 3000,
+   "discountRate": 16,
+   "startDate": "2026-11-16",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/sm/KIRKLAND%20SIGNATURE%20%EC%95%95%EC%B0%A9%20%EC%82%AC%EA%B3%BC%EC%A3%BC%EC%8A%A4%203.78L%20X%202.jpg",
+   "id": "item:1165114",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/12254",
+     "salePrice": 15990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
   },
   {
    "source": "cocodalin",
@@ -6426,29 +6403,6 @@
      "url": "https://cocodalin.com/product/4620",
      "salePrice": 889000,
      "endDate": "2026-12-20",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "697909",
-   "name": "ROBOROCK 로보락 로봇청소기 Q REVO C PRO",
-   "category": "디지털 · 가전",
-   "salePrice": 599990,
-   "originalPrice": 749990,
-   "discount": 150000,
-   "discountRate": 20,
-   "startDate": "2026-11-17",
-   "endDate": "2026-11-24",
-   "image": "https://image.cocodalin.com/product/sm/ROBOROCK%20%EB%A1%9C%EB%B3%B4%EB%9D%BD%20%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0%20Q%20REVO%20C%20PRO.jpg",
-   "id": "item:697909",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/12090",
-     "salePrice": 599990,
-     "endDate": "2026-11-24",
      "store": null
     }
    ]
