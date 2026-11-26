@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-25T04:45:43.173Z",
- "today": "2026-11-25",
- "count": 531,
+ "updatedAt": "2026-11-26T03:55:21.362Z",
+ "today": "2026-11-26",
+ "count": 526,
  "items": [
   {
    "source": "cocodalin",
@@ -390,29 +390,6 @@
      "url": "https://cocodalin.com/product/8139",
      "salePrice": 11990,
      "endDate": "2026-11-29",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "667628",
-   "name": "ZESPRI 골드키위 2.4KG 원산지: 뉴질랜드",
-   "category": "신선식품 · 빵",
-   "salePrice": 22490,
-   "originalPrice": 25990,
-   "discount": 3500,
-   "discountRate": 13,
-   "startDate": "2026-11-23",
-   "endDate": "2026-11-25",
-   "image": "https://image.cocodalin.com/product/sm/ZESPRI%20%EA%B3%A8%EB%93%9C%ED%82%A4%EC%9C%84%202.4KG%20%EC%9B%90%EC%82%B0%EC%A7%80_%20%EB%89%B4%EC%A7%88%EB%9E%9C%EB%93%9C.jpg",
-   "id": "item:667628",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/6189",
-     "salePrice": 22490,
-     "endDate": "2026-11-25",
      "store": null
     }
    ]
@@ -1801,29 +1778,6 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "664516",
-   "name": "PHILADELPHIA 크림치즈플레인 190GX3 원산지:호주",
-   "category": "냉장 · 냉동",
-   "salePrice": 10890,
-   "originalPrice": 12790,
-   "discount": 1900,
-   "discountRate": 15,
-   "startDate": "2026-11-20",
-   "endDate": "2026-11-25",
-   "image": "https://image.cocodalin.com/product/sm/PHILADELPHIA%20%ED%81%AC%EB%A6%BC%EC%B9%98%EC%A6%88%ED%94%8C%EB%A0%88%EC%9D%B8%20190GX3%20%EC%9B%90%EC%82%B0%EC%A7%80_%ED%98%B8%EC%A3%BC.jpg",
-   "id": "item:664516",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/5477",
-     "salePrice": 10890,
-     "endDate": "2026-11-25",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
    "itemNo": "695909",
    "name": "상하목장 유기농 파우치그릭요거트 120G X 12 (사과케일)",
    "category": "냉장 · 냉동",
@@ -1841,29 +1795,6 @@
      "url": "https://cocodalin.com/product/12167",
      "salePrice": 13590,
      "endDate": "2026-12-02",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "694851",
-   "name": "DOLE 알로코코컵 198G X 6",
-   "category": "냉장 · 냉동",
-   "salePrice": 7690,
-   "originalPrice": 10990,
-   "discount": 3300,
-   "discountRate": 30,
-   "startDate": "2026-11-19",
-   "endDate": "2026-11-25",
-   "image": "https://image.cocodalin.com/product/sm/DOLE%20%EC%95%8C%EB%A1%9C%EC%BD%94%EC%BD%94%EC%BB%B5%20198G%20X%206.jpg",
-   "id": "item:694851",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/11852",
-     "salePrice": 7690,
-     "endDate": "2026-11-25",
      "store": null
     }
    ]
@@ -2186,29 +2117,6 @@
      "url": "https://cocodalin.com/product/3866",
      "salePrice": 12490,
      "endDate": "2026-11-29",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "563474",
-   "name": "다담 바지락순두부찌개양념 140GX5",
-   "category": "냉장 · 냉동",
-   "salePrice": 5390,
-   "originalPrice": 6790,
-   "discount": 1400,
-   "discountRate": 21,
-   "startDate": "2026-11-13",
-   "endDate": "2026-11-25",
-   "image": "https://image.cocodalin.com/product/sm/%EB%8B%A4%EB%8B%B4%20%EB%B0%94%EC%A7%80%EB%9D%BD%EC%88%9C%EB%91%90%EB%B6%80%EC%B0%8C%EA%B0%9C%EC%96%91%EB%85%90%20140GX5.jpg",
-   "id": "item:563474",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/5509",
-     "salePrice": 5390,
-     "endDate": "2026-11-25",
      "store": null
     }
    ]
@@ -2539,29 +2447,6 @@
      "url": "https://cocodalin.com/product/5408",
      "salePrice": 9190,
      "endDate": "2026-11-29",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "696160",
-   "name": "풀무원 진한콩 두부 380G X 2",
-   "category": "가공식품",
-   "salePrice": 2590,
-   "originalPrice": 3190,
-   "discount": 600,
-   "discountRate": 19,
-   "startDate": "2026-11-23",
-   "endDate": "2026-11-25",
-   "image": "https://image.cocodalin.com/product/sm/%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%A7%84%ED%95%9C%EC%BD%A9%20%EB%91%90%EB%B6%80%20380G%20X%202.jpg",
-   "id": "item:696160",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/12366",
-     "salePrice": 2590,
-     "endDate": "2026-11-25",
      "store": null
     }
    ]

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T04:45:43.173Z",
+ "updatedAt": "2026-11-26T03:55:21.362Z",
  "basis": "코코달인 인기상품 순위",
  "items": [
   {
@@ -100,6 +100,30 @@
   },
   {
    "source": "cocodalin",
+   "itemNo": "598362",
+   "name": "손질고등어 원산지:국산 1KG",
+   "category": "신선식품 · 빵",
+   "salePrice": 11190,
+   "originalPrice": 13990,
+   "discount": 2800,
+   "discountRate": 20,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/md/%EC%86%90%EC%A7%88%EA%B3%A0%EB%93%B1%EC%96%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%201KG.jpg",
+   "rank": 5,
+   "id": "item:598362",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/8422",
+     "salePrice": 11190,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
    "itemNo": "567100",
    "name": "OTTAVIO 포도씨유 1L X 4",
    "category": "가공식품",
@@ -110,7 +134,7 @@
    "startDate": "2026-11-09",
    "endDate": "2026-11-29",
    "image": "https://image.cocodalin.com/product/md/OTTAVIO%ED%8F%AC%ED%86%A0%EC%94%A8%EC%9C%A01LX4.jpg",
-   "rank": 5,
+   "rank": 6,
    "id": "item:567100",
    "refs": [
     {
@@ -124,23 +148,47 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "598362",
-   "name": "손질고등어 원산지:국산 1KG",
+   "itemNo": "653874",
+   "name": "수플레치즈케익 SOUFFLE CHEESE CAKE",
    "category": "신선식품 · 빵",
-   "salePrice": 11190,
-   "originalPrice": 13990,
-   "discount": 2800,
-   "discountRate": 20,
+   "salePrice": 15490,
+   "originalPrice": 18990,
+   "discount": 3500,
+   "discountRate": 18,
    "startDate": "2026-11-23",
    "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/%EC%86%90%EC%A7%88%EA%B3%A0%EB%93%B1%EC%96%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%201KG.jpg",
-   "rank": 6,
-   "id": "item:598362",
+   "image": "https://image.cocodalin.com/product/md/%EC%88%98%ED%94%8C%EB%A0%88%EC%B9%98%EC%A6%88%EC%BC%80%EC%9E%84%20SOUFFLE%20CHEESE%20CAKE.jpg",
+   "rank": 7,
+   "id": "item:653874",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/8422",
-     "salePrice": 11190,
+     "url": "https://cocodalin.com/product/905",
+     "salePrice": 15490,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "797684",
+   "name": "BELGIOIOSO 부라타 치즈 453G 원산지:미국",
+   "category": "냉장 · 냉동",
+   "salePrice": 10990,
+   "originalPrice": 13990,
+   "discount": 3000,
+   "discountRate": 21,
+   "startDate": "2026-11-23",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/md/BELGIOIOSO%20%EB%B6%80%EB%9D%BC%ED%83%80%20%EC%B9%98%EC%A6%88%20453G%20%EC%9B%90%EC%82%B0%EC%A7%80_%EB%AF%B8%EA%B5%AD.jpg",
+   "rank": 8,
+   "id": "item:797684",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/11211",
+     "salePrice": 10990,
      "endDate": "2026-11-29",
      "store": null
     }
@@ -158,7 +206,7 @@
    "startDate": "2026-11-02",
    "endDate": "2026-11-29",
    "image": "https://image.cocodalin.com/product/md/%EC%98%81%EC%95%94%EA%B3%A0%EA%B5%AC%EB%A7%88%201%EB%B0%95%EC%8A%A4%20(5KG)%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EB%82%B4%EC%82%B0.jpg",
-   "rank": 7,
+   "rank": 9,
    "id": "item:698386",
    "refs": [
     {
@@ -182,7 +230,7 @@
    "startDate": "2026-10-28",
    "endDate": "2026-11-30",
    "image": "https://image.cocodalin.com/product/md/HEINEKEN%20%EC%BA%94%EB%A7%A5%EC%A3%BC%20500ML%20X%208%EC%BA%94.jpg",
-   "rank": 8,
+   "rank": 10,
    "id": "item:584857",
    "refs": [
     {
@@ -190,54 +238,6 @@
      "url": "https://cocodalin.com/product/1075",
      "salePrice": 12690,
      "endDate": "2026-11-30",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "653874",
-   "name": "수플레치즈케익 SOUFFLE CHEESE CAKE",
-   "category": "신선식품 · 빵",
-   "salePrice": 15490,
-   "originalPrice": 18990,
-   "discount": 3500,
-   "discountRate": 18,
-   "startDate": "2026-11-23",
-   "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/%EC%88%98%ED%94%8C%EB%A0%88%EC%B9%98%EC%A6%88%EC%BC%80%EC%9E%84%20SOUFFLE%20CHEESE%20CAKE.jpg",
-   "rank": 9,
-   "id": "item:653874",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/905",
-     "salePrice": 15490,
-     "endDate": "2026-11-29",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "696160",
-   "name": "풀무원 진한콩 두부 380G X 2",
-   "category": "가공식품",
-   "salePrice": 2590,
-   "originalPrice": 3190,
-   "discount": 600,
-   "discountRate": 19,
-   "startDate": "2026-11-23",
-   "endDate": "2026-11-25",
-   "image": "https://image.cocodalin.com/product/md/%ED%92%80%EB%AC%B4%EC%9B%90%20%EC%A7%84%ED%95%9C%EC%BD%A9%20%EB%91%90%EB%B6%80%20380G%20X%202.jpg",
-   "rank": 10,
-   "id": "item:696160",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/12366",
-     "salePrice": 2590,
-     "endDate": "2026-11-25",
      "store": null
     }
    ]
