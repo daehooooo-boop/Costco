@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T03:55:21.362Z",
+ "updatedAt": "2026-11-27T03:54:58.386Z",
  "basis": "코코달인 인기상품 순위",
  "items": [
   {
@@ -76,30 +76,6 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "695088",
-   "name": "삼립 클래식화이트롤케익 430G",
-   "category": "신선식품 · 빵",
-   "salePrice": 6990,
-   "originalPrice": 8990,
-   "discount": 2000,
-   "discountRate": 22,
-   "startDate": "2026-11-02",
-   "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/%EC%82%BC%EB%A6%BD%20%ED%81%B4%EB%9E%98%EC%8B%9D%ED%99%94%EC%9D%B4%ED%8A%B8%EB%A1%A4%EC%BC%80%EC%9D%B5%20430G.jpg",
-   "rank": 4,
-   "id": "item:695088",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/11848",
-     "salePrice": 6990,
-     "endDate": "2026-11-29",
-     "store": null
-    }
-   ]
-  },
-  {
-   "source": "cocodalin",
    "itemNo": "598362",
    "name": "손질고등어 원산지:국산 1KG",
    "category": "신선식품 · 빵",
@@ -110,7 +86,7 @@
    "startDate": "2026-11-23",
    "endDate": "2026-11-29",
    "image": "https://image.cocodalin.com/product/md/%EC%86%90%EC%A7%88%EA%B3%A0%EB%93%B1%EC%96%B4%20%EC%9B%90%EC%82%B0%EC%A7%80_%EA%B5%AD%EC%82%B0%201KG.jpg",
-   "rank": 5,
+   "rank": 4,
    "id": "item:598362",
    "refs": [
     {
@@ -124,23 +100,23 @@
   },
   {
    "source": "cocodalin",
-   "itemNo": "567100",
-   "name": "OTTAVIO 포도씨유 1L X 4",
-   "category": "가공식품",
-   "salePrice": 21990,
-   "originalPrice": 27990,
-   "discount": 6000,
-   "discountRate": 21,
-   "startDate": "2026-11-09",
+   "itemNo": "695088",
+   "name": "삼립 클래식화이트롤케익 430G",
+   "category": "신선식품 · 빵",
+   "salePrice": 6990,
+   "originalPrice": 8990,
+   "discount": 2000,
+   "discountRate": 22,
+   "startDate": "2026-11-02",
    "endDate": "2026-11-29",
-   "image": "https://image.cocodalin.com/product/md/OTTAVIO%ED%8F%AC%ED%86%A0%EC%94%A8%EC%9C%A01LX4.jpg",
-   "rank": 6,
-   "id": "item:567100",
+   "image": "https://image.cocodalin.com/product/md/%EC%82%BC%EB%A6%BD%20%ED%81%B4%EB%9E%98%EC%8B%9D%ED%99%94%EC%9D%B4%ED%8A%B8%EB%A1%A4%EC%BC%80%EC%9D%B5%20430G.jpg",
+   "rank": 5,
+   "id": "item:695088",
    "refs": [
     {
      "site": "cocodalin",
-     "url": "https://cocodalin.com/product/531",
-     "salePrice": 21990,
+     "url": "https://cocodalin.com/product/11848",
+     "salePrice": 6990,
      "endDate": "2026-11-29",
      "store": null
     }
@@ -158,7 +134,7 @@
    "startDate": "2026-11-23",
    "endDate": "2026-11-29",
    "image": "https://image.cocodalin.com/product/md/%EC%88%98%ED%94%8C%EB%A0%88%EC%B9%98%EC%A6%88%EC%BC%80%EC%9E%84%20SOUFFLE%20CHEESE%20CAKE.jpg",
-   "rank": 7,
+   "rank": 6,
    "id": "item:653874",
    "refs": [
     {
@@ -182,13 +158,37 @@
    "startDate": "2026-11-23",
    "endDate": "2026-11-29",
    "image": "https://image.cocodalin.com/product/md/BELGIOIOSO%20%EB%B6%80%EB%9D%BC%ED%83%80%20%EC%B9%98%EC%A6%88%20453G%20%EC%9B%90%EC%82%B0%EC%A7%80_%EB%AF%B8%EA%B5%AD.jpg",
-   "rank": 8,
+   "rank": 7,
    "id": "item:797684",
    "refs": [
     {
      "site": "cocodalin",
      "url": "https://cocodalin.com/product/11211",
      "salePrice": 10990,
+     "endDate": "2026-11-29",
+     "store": null
+    }
+   ]
+  },
+  {
+   "source": "cocodalin",
+   "itemNo": "567100",
+   "name": "OTTAVIO 포도씨유 1L X 4",
+   "category": "가공식품",
+   "salePrice": 21990,
+   "originalPrice": 27990,
+   "discount": 6000,
+   "discountRate": 21,
+   "startDate": "2026-11-09",
+   "endDate": "2026-11-29",
+   "image": "https://image.cocodalin.com/product/md/OTTAVIO%ED%8F%AC%ED%86%A0%EC%94%A8%EC%9C%A01LX4.jpg",
+   "rank": 8,
+   "id": "item:567100",
+   "refs": [
+    {
+     "site": "cocodalin",
+     "url": "https://cocodalin.com/product/531",
+     "salePrice": 21990,
      "endDate": "2026-11-29",
      "store": null
     }
