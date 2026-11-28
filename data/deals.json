@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-27T03:54:58.386Z",
- "today": "2026-11-27",
- "count": 578,
+ "updatedAt": "2026-11-28T03:41:53.122Z",
+ "today": "2026-11-28",
+ "count": 576,
  "items": [
   {
    "source": "cocodalin",
@@ -4794,68 +4794,6 @@
      "url": "https://costpick.co.kr/store-deals/619895",
      "salePrice": 18990,
      "endDate": "2026-11-29",
-     "store": "개봉역점"
-    }
-   ],
-   "brand": null
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "644350",
-   "name": "브레드앤버터 샤도네이 750ML",
-   "category": "음료 · 주류",
-   "salePrice": 23990,
-   "originalPrice": 28990,
-   "discount": 5000,
-   "discountRate": 17,
-   "startDate": "2026-11-16",
-   "endDate": "2026-11-27",
-   "image": "https://image.cocodalin.com/product/sm/%EB%B8%8C%EB%A0%88%EB%93%9C%EC%95%A4%EB%B2%84%ED%84%B0%20%EC%83%A4%EB%8F%84%EB%84%A4%EC%9D%B4%20750ML.jpg",
-   "id": "item:644350",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/5393",
-     "salePrice": 23990,
-     "endDate": "2026-11-27",
-     "store": null
-    },
-    {
-     "site": "costpick",
-     "url": "https://costpick.co.kr/store-deals/644350",
-     "salePrice": 23990,
-     "endDate": "2026-11-27",
-     "store": "개봉역점"
-    }
-   ],
-   "brand": null
-  },
-  {
-   "source": "cocodalin",
-   "itemNo": "644349",
-   "name": "브레드앤버터 피노누아750ML",
-   "category": "음료 · 주류",
-   "salePrice": 23990,
-   "originalPrice": 28990,
-   "discount": 5000,
-   "discountRate": 17,
-   "startDate": "2026-11-16",
-   "endDate": "2026-11-27",
-   "image": "https://image.cocodalin.com/product/sm/%EB%B8%8C%EB%A0%88%EB%93%9C%EC%95%A4%EB%B2%84%ED%84%B0%20%ED%94%BC%EB%85%B8%EB%88%84%EC%95%84750ML.jpg",
-   "id": "item:644349",
-   "refs": [
-    {
-     "site": "cocodalin",
-     "url": "https://cocodalin.com/product/5438",
-     "salePrice": 23990,
-     "endDate": "2026-11-27",
-     "store": null
-    },
-    {
-     "site": "costpick",
-     "url": "https://costpick.co.kr/store-deals/644349",
-     "salePrice": 23990,
-     "endDate": "2026-11-27",
      "store": "개봉역점"
     }
    ],
