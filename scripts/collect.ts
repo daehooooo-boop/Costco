@@ -76,7 +76,7 @@ function previousFrom(prev: Deal[], site: RawDeal["source"]): RawDeal[] {
       source: site, sourceId: d.id, url: ref.url ?? "", itemNo: d.itemNo ?? null, name: d.name, brand: d.brand ?? null,
       category: d.category ?? null, salePrice: d.salePrice ?? null, originalPrice: d.originalPrice ?? null,
       discount: d.discount ?? null, discountRate: d.discountRate ?? null, startDate: d.startDate ?? null,
-      endDate: d.endDate ?? null, image: d.image ?? null, store: ref.store ?? undefined,
+      endDate: d.endDate ?? null, image: null, store: ref.store ?? undefined,
     }];
   });
 }
@@ -109,7 +109,7 @@ async function main() {
 
   if (cocoDeals || cpDeals) {
     const items = mergeDeals([cocoDeals ?? previousFrom(prev.items, "cocodalin"), cpDeals ?? previousFrom(prev.items, "costpick")])
-      .map((d) => fillDerived(d))
+      .map((d) => ({ ...fillDerived(d), image: null })) // 상품 사진(출처·제조사 저작물)은 저장하지 않는다
       .filter((d) => !d.endDate || d.endDate >= today);
     await writeJSON("deals.json", { updatedAt: startedAt, today, count: items.length, items });
     console.log(`할인상품 ${items.length}개 (코코달인 ${cocoDeals?.length ?? "이전값"}, 코스트픽 ${cpDeals?.length ?? "이전값"})`);
@@ -117,7 +117,7 @@ async function main() {
 
   // 인기상품
   if (coco.status === "fulfilled" && coco.value.popular.length >= 5) {
-    const items = mergeDeals([coco.value.popular.slice(0, 10)]).map((d) => fillDerived(d));
+    const items = mergeDeals([coco.value.popular.slice(0, 10)]).map((d) => ({ ...fillDerived(d), image: null }));
     await writeJSON("popular.json", { updatedAt: startedAt, basis: "코코달인 인기상품 순위", items });
     console.log(`인기상품 ${items.length}개`);
   }
