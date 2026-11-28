@@ -7,7 +7,8 @@ import { StoreTab } from "./StoreTab";
 import { DealsTab } from "./DealsTab";
 import { DealCard } from "./DealCard";
 import { TipsTab, type TipSourceRef } from "./TipsTab";
-import { SITE } from "@/lib/site";
+import Link from "next/link";
+import { FAQ, SITE } from "@/lib/site";
 
 export interface AppData {
   stores: Store[];
@@ -170,14 +171,36 @@ export function CostcoApp({ data }: { data: AppData }) {
           <a className="text-brand" href="https://costpick.co.kr" target="_blank" rel="noopener">
             코스트픽
           </a>
-          (개봉역점 매대 가격), 지점 휴무는 코스트픽 지점 페이지를 바탕으로 매일 정리해요. 매장·시기에 따라 다를 수 있으니 방문 전 코스트코 공식 앱에서
-          한 번 더 확인하세요. 코스트코와 관계없는 개인 정보 페이지예요.
+          (개봉역점 매대 가격)에 공개된 정보, 지점 휴무는 코스트픽 지점 페이지를 바탕으로 매일 정리해요. 상품 사진과 자세한 내용은 상품 이름을 눌러 출처에서
+          확인하세요. 매장·시기에 따라 다를 수 있으니 방문 전 코스트코 공식 앱에서 한 번 더 확인하세요.
         </p>
-        <p className="my-1.5">
-          만든 사람{" "}
-          <a className="text-brand" href={SITE.creator.url}>
-            {SITE.creator.name}
-          </a>
+        <p className="my-1.5 leading-relaxed">코스트코 및 출처 사이트와 제휴하지 않은 개인 프로젝트예요. 상표는 각 소유자의 것이에요.</p>
+        <details className="my-3 rounded-xl border border-line bg-card px-3 py-2">
+          <summary className="cursor-pointer font-semibold text-ink">자주 묻는 질문</summary>
+          <dl className="mt-2 flex flex-col gap-2.5 pb-1">
+            {FAQ.map((f) => (
+              <div key={f.q}>
+                <dt className="font-semibold text-ink">{f.q}</dt>
+                <dd className="mt-0.5 leading-relaxed">{f.a}</dd>
+              </div>
+            ))}
+          </dl>
+        </details>
+        <p className="my-1.5 flex flex-wrap gap-x-2">
+          <Link className="text-brand" href="/about">
+            소개·FAQ
+          </Link>
+          <span aria-hidden="true">·</span>
+          <Link className="text-brand" href="/about#privacy">
+            개인정보·고지
+          </Link>
+          <span aria-hidden="true">·</span>
+          <span>
+            {SITE.copyright} ·{" "}
+            <a className="text-brand" href={SITE.creator.url} rel="author">
+              Rey.K가 만든 작은 서비스
+            </a>
+          </span>
         </p>
       </footer>
     </div>
